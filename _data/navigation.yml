@@ -1,0 +1,54 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "Mission"
+    url: "/about/mission/"
+  - title: "News"
+  url: "/about/news/"
+  
+- title: "People"
+  url: "/people/"
+  side: left
+  dropdown:
+  - title: "Current"
+    url: "/people/current/"
+  - title: "Past"
+    url: "/people/past/"
+  - title: "Join Us!"
+    url: "/people/join_us/"
+
+- title: "Research"
+  url: "/research/"
+  side: left
+  dropdown:
+  - title: "Projects"
+    url: "/research/projects/"
+  - title: "Software"
+    url: "/research/software/"
+  - title: "Other Resources"
+    url: "/research/other_resources/"
+
+- title: Activities
+  url: "/Activities/"
+  side: left
+  dropdown:
+  - title: "CATSUP"
+    url: "/activities/catsup/"
+  - title: "Social"
+    url: "/activities/social/"
+  - title: "Outreach"
+    url: "/activities/outreach/"
+
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
