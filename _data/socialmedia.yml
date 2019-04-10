@@ -1,7 +1,18 @@
 - name: GitHub
   url: http://github.com/ShiuLab
   class: icon-github
-  title: Code und mehr...
+  title: Code and more...
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/shin-han-shiu-6187b7126/
+  class: icon-linkedin
+  title: LinkedIn...
+
+- name: GoogleScholar
+  url: https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en
+  class: icon-google
+  title: GoogleScholar...
+
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
