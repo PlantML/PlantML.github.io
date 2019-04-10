@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Current Lab Members"
+title: "Current Members"
 subheadline: "People"
 header:
    image_fullwidth: "20140923_LabPhoto4.jpg"
@@ -8,6 +8,7 @@ permalink: "/people/test/"
 ---
 
 <html class="no-js" lang="en">
+<a href="{{ site.url }}/people">
 <body>
 
 Those with PhDs
@@ -38,11 +39,17 @@ Those with PhDs
 </div>
 </div>
 </div>
+</body>
+</html>
+
+
+<html class="no-js" lang="en">
+<body>
 
 Those with PhDs 2
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <img src="{{ site.urlimg }}{{ shinhan.jpg }}" alt='Shin-Han Shiu'>
   <img src="{{ site.urlimg }}{{ people/melissa.jpg }}" alt='Shin-Han Shiu'>
-</div>
+
 </body>
 </html>
