@@ -2,16 +2,16 @@
 layout: page
 title: "Current Members"
 subheadline: "People"
+permalink: "/people/current/"
 header:
    image_fullwidth: "20140923_LabPhoto4.jpg"
-permalink: "/people/current/"
 ---
 <head>
   <base href="https://ShiuLab.github.io/images/people/" target="_blank">
 </head>
 
 
-Those with PhDs
+## Those with PhDs
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
@@ -24,7 +24,7 @@ Those with PhDs
 </html>
 
 
-Graduate Students & Associates
+## Graduate Students & Associates
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
@@ -38,7 +38,7 @@ Graduate Students & Associates
 </html>
 
 
-Undergraduate Students
+## Undergraduate Students
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
@@ -51,7 +51,7 @@ Undergraduate Students
 </html>
 
 
-Scientists' Best Friends
+## Scientists' Best Friends
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
