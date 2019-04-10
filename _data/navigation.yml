@@ -12,7 +12,7 @@
   url: "/about/news/"
   
 - title: "People"
-  url: "/people/"
+  url: "/people/current/"
   side: left
   dropdown:
   - title: "Current"
