@@ -11,7 +11,7 @@ permalink: "/people/test/"
 <body>
 
 Those with PhDs
-<div class="row small-up-4">
+<div class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
 <div class="column">
 <img class="thumbnail" src="{{ people/shinhan.jpg }}{{ test1 }}">
 <h5>Shin-Han Shiu</h5>
@@ -33,7 +33,7 @@ Those with PhDs
 <h5>Shin-Han Shiu</h5>
 </div>
 <div class="column">
-<img class="thumbnail" src="{{ people/shinhan.jpg }}{{ post.image.title }}">
+<img src="shinhan.png">
 <h5>Shin-Han Shiu</h5>
 </div>
 </div>
