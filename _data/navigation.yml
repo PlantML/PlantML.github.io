@@ -21,6 +21,8 @@
     url: "/people/past/"
   - title: "Join Us!"
     url: "/people/join_us/"
+  - title: "test"
+    url: "/people/test/"
 
 - title: "Research"
   url: "/research/"
