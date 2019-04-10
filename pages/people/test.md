@@ -29,7 +29,7 @@ Those with PhDs
 <h5>Shin-Han Shiu</h5>
 </div>
 <div class="column">
-<img class="thumbnail" src="{{ people/shinhan }}{{ test5 }}">
+<img class="thumbnail" src="shinhan.png">
 <h5>Shin-Han Shiu</h5>
 </div>
 <div class="column">
