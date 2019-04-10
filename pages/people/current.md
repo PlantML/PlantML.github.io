@@ -29,7 +29,7 @@ Graduate Students
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="beth.png" /></li>
+  <li><img src="beth.jpg" /></li>
   <li><img src="siobhan.jpg" /></li>
   <li><img src="christina.jpg" /></li>
 </ul>
@@ -41,7 +41,7 @@ Associates
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="fanrui.png" /></li>
+  <li><img src="fanrui.jpg" /></li>
   <li><img src="weilan.jpg" /></li>
 </ul>
 </body>
@@ -53,8 +53,8 @@ Undergraduate Students
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="paityn.png" /></li>
-  <li><img src="lizzie.jpg" /></li>
-  <li><img src="sarah.jpg" /></li>
+  <li><img src="lizzie.png" /></li>
+  <li><img src="sarah.png" /></li>
   <li><img src="dante.jpg" /></li>
 </ul>
 </body>
@@ -65,9 +65,9 @@ Scientists' Best Friends
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="mel.png" /></li>
+  <li><img src="mel.jpg" /></li>
   <li><img src="koby.jpg" /></li>
-  <li><img src="mac.jpg" /></li>
+  <li><img src="mac.png" /></li>
   <li><img src="radar.jpg" /></li>
 </ul>
 </body>
