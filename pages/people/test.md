@@ -4,7 +4,7 @@ title: "Current Lab Members"
 subheadline: "People"
 header:
    image_fullwidth: "20160911_LabRetreat6.jpg"
-permalink: "/people/current/"
+permalink: "/people/test/"
 ---
 
 
