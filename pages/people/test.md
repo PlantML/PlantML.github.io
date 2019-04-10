@@ -10,15 +10,12 @@ permalink: "/people/test/"
 <html class="no-js" lang="en">
 <body>
 
-<article class="grid-container">
-<div class="grid-x grid-margin-x small-up-2 medium-up-3 large-up-4">
-<div class="cell">
-<img class="thumbnail" src="people/shinhan">
-<h5>Shin-Han Shiu</h5>
-</div>
-<div class="cell">
-<img class="thumbnail" src="people/melissa">
-<h5>Melissa Lehti-Shiu</h5>
+### Those with PhDs
+<ul class="small-block-grid-3">
+  <li class="thumbnail" src="people/shinhan.jpg">
+  <h5>Shin-Han Shiu</h5>
+  <li class="thumbnail" src="people/melissa.jpg">
+  <h5>Melissa Lehti-Shiu</h5>
 </div>
 <div class="cell">
 <img class="thumbnail" src="https://placehold.it/550x550">
