@@ -13,6 +13,11 @@
   class: icon-google
   title: GoogleScholar...
 
+- name: Trello
+  url: https://trello.com/shiulab
+  class: icon-trello
+  title: LabTrello...
+
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
