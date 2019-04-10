@@ -24,23 +24,13 @@ Those with PhDs
 </html>
 
 
-
-Graduate Students
+Graduate Students & Associates
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="beth.jpg" /></li>
   <li><img src="siobhan.jpg" /></li>
   <li><img src="christina.jpg" /></li>
-</ul>
-</body>
-</html>
-
-
-Associates
-<html>
-<body>
-<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="fanrui.jpg" /></li>
   <li><img src="weilan.jpg" /></li>
 </ul>
