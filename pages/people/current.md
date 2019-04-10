@@ -10,9 +10,9 @@ permalink: "/people/current/"
   <base href="https://ShiuLab.github.io/images/people/" target="_blank">
 </head>
 
-Those with PhDs
 
-<html class="no-js" lang="en">
+Those with PhDs
+<html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="shinhan.png" /></li>
@@ -26,3 +26,49 @@ Those with PhDs
 
 
 Graduate Students
+<html>
+<body>
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="beth.png" /></li>
+  <li><img src="siobhan.jpg" /></li>
+  <li><img src="christina.jpg" /></li>
+</ul>
+</body>
+</html>
+
+
+Associates
+<html>
+<body>
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="fanrui.png" /></li>
+  <li><img src="weilan.jpg" /></li>
+</ul>
+</body>
+</html>
+
+
+Undergraduate Students
+<html>
+<body>
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="paityn.png" /></li>
+  <li><img src="lizzie.jpg" /></li>
+  <li><img src="sarah.jpg" /></li>
+  <li><img src="dante.jpg" /></li>
+</ul>
+</body>
+</html>
+
+
+Scientists' Best Friends
+<html>
+<body>
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="mel.png" /></li>
+  <li><img src="koby.jpg" /></li>
+  <li><img src="mac.jpg" /></li>
+  <li><img src="radar.jpg" /></li>
+</ul>
+</body>
+</html>
