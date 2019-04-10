@@ -28,11 +28,11 @@ Graduate Students & Associates
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="beth.jpg" /></li>
-  <li><img src="siobhan.jpg" /></li>
-  <li><img src="christina.jpg" /></li>
-  <li><img src="fanrui.jpg" /></li>
-  <li><img src="weilan.jpg" /></li>
+  <li><img src="beth.jpg"><p>Bethany Moore (Plant Biology)</p></li>
+  <li><img src="siobhan.jpg"><p>Siobhan Cusack (Cell Mol Bio)</p></li>
+  <li><img src="christina.jpg"><p>Christina Azodi (Plant Biology)</p></li>
+  <li><img src="fanrui.jpg"><p>Fanrui Meng (Lab Affiliate)</p></li>
+  <li><img src="weilan.jpg"><p>Weilan Zhang (Lab Affiliate)</p></li>
 </ul>
 </body>
 </html>
@@ -42,10 +42,10 @@ Undergraduate Students
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="paityn.png" /></li>
-  <li><img src="lizzie.png" /></li>
-  <li><img src="sarah.png" /></li>
-  <li><img src="dante.jpg" /></li>
+  <li><img src="paityn.png"><p>Paityn Donaldson (Mol Gen/Genom, Pharm)</p></li>
+  <li><img src="lizzie.png"><p>Lizzie Gibbons (Plant Biology)</p></li>
+  <li><img src="sarah.png"><p>Sarah Horan</p></li>
+  <li><img src="dante.jpg"><p>Dante Poe (Biotech & Mol Bio)</p></li>
 </ul>
 </body>
 </html>
@@ -55,10 +55,10 @@ Scientists' Best Friends
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="mel.jpg" /></li>
-  <li><img src="koby.jpg" /></li>
-  <li><img src="mac.png" /></li>
-  <li><img src="radar.jpg" /></li>
+  <li><img src="mel.jpg"><p>Melbourne Moore</p></li>
+  <li><img src="koby.jpg"><p>Koby Cusack</p></li>
+  <li><img src="mac.png"><p>Mac Azodi</p></li>
+  <li><img src="radar.jpg"><p>Radar Azodi</p></li>
 </ul>
 </body>
 </html>
