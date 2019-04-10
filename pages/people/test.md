@@ -12,8 +12,9 @@ permalink: "/people/test/"
 <body>
 <a href="{{ site.url }}/people">
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <img src="shinhan.jpg" alt='Shin-Han Shiu'>
-  <img src="shinhan.png" alt='Shin-Han Shiu2'>
-  <img src="shinhan" alt='Shin-Han Shiu2'>
+  <li><img src="shinhan" /></li>
+  <li><img src="melissa" /></li>
+  <li><img src="liang" /></li>
+</ul>
 </body>
 </html>
