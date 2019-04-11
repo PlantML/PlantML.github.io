@@ -4,7 +4,7 @@ title: "Current Members"
 subheadline: "People"
 permalink: "/people/current/"
 header:
-   image_fullwidth: "20140923_LabPhoto4.png"
+   image_fullwidth: "20140923_LabPhoto4.jpeg"
 ---
 <head>
   <base href="https://ShiuLab.github.io/images/people/" target="_blank">
