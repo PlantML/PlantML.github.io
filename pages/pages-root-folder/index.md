@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://shiulab.github.io/people_join_us/
   text: Check out student and post-doc openings ›
   style: alert
 permalink: /index.html
