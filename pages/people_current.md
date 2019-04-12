@@ -26,7 +26,7 @@ permalink: "/people_current/"
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="beth.jpg" alt='photo of lab member'><p>Bethany Moore (Plant Biology)</p></li>
+  <li><a href="https://github.com/bmmoore43"><img src="beth.jpg" alt='photo of lab member'><p>Bethany Moore (Plant Biology)</p></a></li>
   <li><img src="siobhan.jpg" alt='photo of lab member'><p>Siobhan Cusack (Cell Mol Bio)</p></li>
   <li><a href="https://azodichr.github.io/"><img src="christina.jpg" alt='photo of lab member'><p>Christina Azodi (Plant Biology)</p></a></li>
   <li><img src="fanrui.jpg" alt='photo of lab member'><p>Fanrui Meng (Associates)</p></li>
