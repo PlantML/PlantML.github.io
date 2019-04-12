@@ -12,15 +12,15 @@
   url: "/about/news/"
   
 - title: "People"
-  url: "/people/current/"
+  url: "/current"
   side: left
   dropdown:
   - title: "Current"
-    url: "/people/current/"
+    url: "current"
   - title: "Past"
-    url: "/people/past/"
+    url: "past"
   - title: "Join Us!"
-    url: "/people/join_us/"
+    url: "join_us"
 
 - title: "Research"
   url: "/research/"
@@ -43,7 +43,6 @@
     url: "/activities/social/"
   - title: "Outreach"
     url: "/activities/outreach/"
-
 
 - title: "Search"
   url: "/search/"
