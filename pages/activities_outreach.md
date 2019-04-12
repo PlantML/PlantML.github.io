@@ -8,7 +8,7 @@ categories:
 tags:
     - post format
 image:
-   thumb: "activities/2019_gmsd_siobhan.jpg"
+   thumb: "activities/2019_gmsd_siobhan-thumb.jpg"
 gallery:
     - image_url: activities/2019_gmsd_siobhan.jpg
       caption: Learning about genome assembly with Legos
