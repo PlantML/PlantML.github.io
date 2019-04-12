@@ -29,7 +29,7 @@ permalink: "/people/current/"
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="beth.jpg" alt='photo of lab member'><p>Bethany Moore (Plant Biology)</p></li>
   <li><img src="siobhan.jpg" alt='photo of lab member'><p>Siobhan Cusack (Cell Mol Bio)</p></li>
-  <li><img src="christina.jpg" alt='photo of lab member'><a> href='https://azodichr.github.io/'>Christina Azodi test(Plant Biology)</a></li>
+  <li><a href="https://azodichr.github.io/"><img src="christina.jpg" alt='photo of lab member'><p>Christina Azodi (Plant Biology)</p></li>
   <li><img src="fanrui.jpg" alt='photo of lab member'><p>Fanrui Meng (Lab Affiliate)</p></li>
   <li><img src="weilan.jpg"><p>Weilan Zhang (Lab Affiliate)</p></li>
 </ul>
