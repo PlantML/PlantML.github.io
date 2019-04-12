@@ -16,12 +16,7 @@ widget2:
   title: "Awesome Discoveries"
   url: 'http://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s'
   image: nsf_youtube_screenshot.png
-  text: 'NSF highlights work by the Shiu lab in their series on Awesome Discoveries You Probably Didn't Hear About'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: "NSF highlights work by the Shiu lab in their series on Awesome Discoveries You Probably Didn't Hear About"
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -43,8 +38,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  
-  <p> test</p>
-</div>
