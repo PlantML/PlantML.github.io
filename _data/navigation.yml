@@ -7,9 +7,9 @@
   side: left
   dropdown:
   - title: "Mission"
-    url: "/about/mission/"
+    url: "/about_mission/"
   - title: "News"
-  url: "/about/news/"
+  url: "/about_news/"
   
 - title: "People"
   url: "/people_current/"
