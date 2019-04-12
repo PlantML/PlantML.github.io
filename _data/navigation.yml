@@ -34,7 +34,7 @@
     url: "/research/other_resources/"
 
 - title: Activities
-  url: "/Activities/"
+  url: "/activities/catsup"
   side: left
   dropdown:
   - title: "CATSUP"

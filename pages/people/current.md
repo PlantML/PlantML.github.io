@@ -2,11 +2,11 @@
 layout: page
 title: "Current Members"
 subheadline: "People"
-
 header:
   image_fullwidth: "20140923_LabPhoto3.jpg"
 permalink: "/people/current/"
 ---
+
 <head>
   <base href="https://ShiuLab.github.io/images/people/" target="_blank">
 </head>
