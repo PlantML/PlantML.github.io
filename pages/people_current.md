@@ -15,31 +15,33 @@ permalink: "/people_current/"
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="shinhan.png" alt='photo of shinhan'><p>Shin-Han Shiu (Professor)</p></li>
-  <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu <br> (Research Asst Professor)</p></li>
-  <li><img src="peipei.jpg" alt='photo of peipei'><p>Peipei Wang<br>(Post-Doc)</p></li>
-  <li><img src="liang.jpg" alt='photo of liang'><p>Liang Xu (Visiting Scientist)</p></li>
+  <li><img src="shinhan.png" alt='photo of shinhan'><p>Shin-Han Shiu<br>Professor</p></li>
+  <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>Research Asst Professor</p></li>
+  <li><img src="peipei.jpg" alt='photo of peipei'><p>Peipei Wang<br>Post-Doc</p></li>
+  <li><img src="liang.jpg" alt='photo of liang'><p>Liang Xu<br>Visiting Scientist</p></li>
 </ul>
 
 
 <H3>Graduate Students & Associates</H3>
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><a href="https://github.com/bmmoore43"><img src="beth.jpg" alt='photo of beth'><p>Bethany Moore (Plant Biology)</p></a></li>
-  <li><img src="siobhan.jpg" alt='photo of siobhan'><p>Siobhan Cusack (Cell Mol Bio)</p></li>
-  <li><a href="https://azodichr.github.io/"><img src="christina.jpg" alt='photo of christina'><p>Christina Azodi (Plant Biology)</p></a></li>
-  <li><img src="fanrui.jpg" alt='photo of fanrui'><p>Fanrui Meng (Associates)</p></li>
-  <li><img src="weilan.jpg"><p>Weilan Zhang (Associates)</p></li>
+  <li><a href="https://github.com/bmmoore43">
+    <img src="beth.jpg" alt='photo of beth'><p>Bethany Moore<br>Plant Biology</p></a></li>
+  <li><img src="siobhan.jpg" alt='photo of siobhan'><p>Siobhan Cusack<br>Cell Mol Bio</p></li>
+  <li><a href="https://azodichr.github.io/">
+    <img src="christina.jpg" alt='photo of christina'><p>Christina Azodi<br>Plant Biology</p></a></li>
+  <li><img src="fanrui.jpg" alt='photo of fanrui'><p>Fanrui Meng<br>Associate</p></li>
+  <li><img src="weilan.jpg"><p>Weilan Zhang<br>Associate</p></li>
 </ul>
 
 
 <H3>Undergraduate Students</H3>
 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="paityn.png" alt='photo of paityn'><p>Paityn Donaldson (Mol Gen/Genom, Pharm)</p></li>
-  <li><img src="lizzie.png" alt='photo of lizzie'><p>Lizzie Gibbons (Plant Biology)</p></li>
+  <li><img src="paityn.png" alt='photo of paityn'><p>Paityn Donaldson<br>Mol Gen/Genom, Pharm</p></li>
+  <li><img src="lizzie.png" alt='photo of lizzie'><p>Lizzie Gibbons<br>Plant Biology</p></li>
   <li><img src="sarah.png" alt='photo of sarah'><p>Sarah Horan</p></li>
-  <li><img src="dante.jpg" alt='photo of dante'><p>Dante Poe (Biotech & Mol Bio)</p></li>
+  <li><img src="dante.jpg" alt='photo of dante'><p>Dante Poe<br>Biotech & Mol Bio</p></li>
 </ul>
 
 
