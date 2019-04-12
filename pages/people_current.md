@@ -16,7 +16,7 @@ permalink: "/people_current/"
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="shinhan.png" alt='photo of lab member'><p>Shin-Han Shiu (Professor)</p></li>
   <li><img src="melissa.jpg" alt='photo of lab member'><p>Melissa Lehti-Shiu</p><p> (Research Asst Professor)</p></li>
-  <li><img src="peipei.jpg" alt='photo of lab member'><p>Peipei Wang (Post-Doc)</p></li>
+  <li><img src="peipei.jpg" alt='photo of lab member'><p>Peipei Wang</p><p>(Post-Doc)</p></li>
   <li><img src="liang.jpg" alt='photo of lab member'><p>Liang Xu (Visiting Scientist)</p></li>
 </ul>
 </body>
