@@ -10,7 +10,7 @@ permalink: "/people/current/"
 <head>
   <base href="https://ShiuLab.github.io/images/people/" target="_blank">
 </head>
-#What the hell
+#What the heck... please update!
 ### Those with PhDs
 <html>
 <body>
