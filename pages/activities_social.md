@@ -1,9 +1,8 @@
 ---
 layout: page
-show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+subheadline:  "Activities"
+title:  "Lab Fun"
+teaser: "When we aren't sciencing...</a>."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_social/"
