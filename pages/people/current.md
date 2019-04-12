@@ -2,14 +2,14 @@
 layout: page
 title: "Current Members"
 subheadline: "People"
-permalink: "/people/current/"
+
 header:
-   image_fullwidth: "https://ShiuLab.github.io/images/20140923_LabPhoto4.jpeg"
+  image_fullwidth: "https://ShiuLab.github.io/images/20140923_LabPhoto4.jpeg"
+permalink: "/people/current/"
 ---
 <head>
   <base href="https://ShiuLab.github.io/images/people/" target="_blank">
 </head>
-
 
 ### Those with PhDs
 <html>
