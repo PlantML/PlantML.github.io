@@ -27,11 +27,11 @@
   side: left
   dropdown:
   - title: "Projects"
-    url: "/research/projects/"
+    url: "/research_projects/"
   - title: "Software"
-    url: "/research/software/"
+    url: "https://github.com/ShiuLab"
   - title: "Other Resources"
-    url: "/research/other_resources/"
+    url: "/research_other_resources/"
 
 - title: Activities
   url: "/activities_catsup/"
