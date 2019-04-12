@@ -28,6 +28,8 @@
   dropdown:
   - title: "Projects"
     url: "/research_projects/"
+  - title: "Publications"
+    url: "/research_publications/"
   - title: "Software"
     url: "https://github.com/ShiuLab"
   - title: "Other Resources"
