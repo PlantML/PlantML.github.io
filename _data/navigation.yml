@@ -34,15 +34,15 @@
     url: "/research/other_resources/"
 
 - title: Activities
-  url: "/activities/catsup"
+  url: "/activities_catsup/"
   side: left
   dropdown:
   - title: "CATSUP"
-    url: "/activities/catsup/"
+    url: "/activities_catsup/"
   - title: "Social"
-    url: "/activities/social/"
+    url: "/activities_social/"
   - title: "Outreach"
-    url: "/activities/outreach/"
+    url: "/activities_outreach/"
 
 - title: "Search"
   url: "/search/"
