@@ -4,7 +4,7 @@ title: "Current Members"
 subheadline: "People"
 header:
   image_fullwidth: "20140923_LabPhoto3.jpg"
-permalink: "/people/current/"
+permalink: "/people/current"
 ---
 
 <head>
