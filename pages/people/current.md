@@ -4,7 +4,7 @@ title: "Current Members"
 subheadline: "People"
 
 header:
-  image_fullwidth: "https://ShiuLab.github.io/images/20140923_LabPhoto4.jpeg"
+  image_fullwidth: "20140923_LabPhoto3.jpg"
 permalink: "/people/current/"
 ---
 <head>
@@ -30,8 +30,8 @@ permalink: "/people/current/"
   <li><img src="beth.jpg" alt='photo of lab member'><p>Bethany Moore (Plant Biology)</p></li>
   <li><img src="siobhan.jpg" alt='photo of lab member'><p>Siobhan Cusack (Cell Mol Bio)</p></li>
   <li><a href="https://azodichr.github.io/"><img src="christina.jpg" alt='photo of lab member'><p>Christina Azodi (Plant Biology)</p></li>
-  <li><img src="fanrui.jpg" alt='photo of lab member'><p>Fanrui Meng (Lab Affiliate)</p></li>
-  <li><img src="weilan.jpg"><p>Weilan Zhang (Lab Affiliate)</p></li>
+  <li><img src="fanrui.jpg" alt='photo of lab member'><p>Fanrui Meng (Associates)</p></li>
+  <li><img src="weilan.jpg"><p>Weilan Zhang (Associates)</p></li>
 </ul>
 </body>
 </html>
