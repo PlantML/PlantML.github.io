@@ -19,12 +19,10 @@ permalink: "/people_current/"
   <li><img src="peipei.jpg" alt='photo of lab member'><p>Peipei Wang<br>(Post-Doc)</p></li>
   <li><img src="liang.jpg" alt='photo of lab member'><p>Liang Xu (Visiting Scientist)</p></li>
 </ul>
-</body>
-</html>
+
 
 ### Graduate Students & Associates
-<html>
-<body>
+
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><a href="https://github.com/bmmoore43"><img src="beth.jpg" alt='photo of lab member'><p>Bethany Moore (Plant Biology)</p></a></li>
   <li><img src="siobhan.jpg" alt='photo of lab member'><p>Siobhan Cusack (Cell Mol Bio)</p></li>
@@ -32,24 +30,20 @@ permalink: "/people_current/"
   <li><img src="fanrui.jpg" alt='photo of lab member'><p>Fanrui Meng (Associates)</p></li>
   <li><img src="weilan.jpg"><p>Weilan Zhang (Associates)</p></li>
 </ul>
-</body>
-</html>
+
 
 ### Undergraduate Students
-<html>
-<body>
+
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="paityn.png" alt='photo of lab member'><p>Paityn Donaldson (Mol Gen/Genom, Pharm)</p></li>
   <li><img src="lizzie.png" alt='photo of lab member'><p>Lizzie Gibbons (Plant Biology)</p></li>
   <li><img src="sarah.png" alt='photo of lab member'><p>Sarah Horan</p></li>
   <li><img src="dante.jpg" alt='photo of lab member'><p>Dante Poe (Biotech & Mol Bio)</p></li>
 </ul>
-</body>
-</html>
+
 
 ### Scientists' Best Friends
-<html>
-<body>
+
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="mel.jpg" alt='photo of lab member'><p>Melbourne Moore</p></li>
   <li><img src="koby.jpg" alt='photo of lab member'><p>Koby Cusack</p></li>
