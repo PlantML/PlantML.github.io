@@ -23,7 +23,6 @@ permalink: "/people_current/"
 
 
 <H3>Graduate Students & Associates</H3>
-
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><a href="https://github.com/bmmoore43">
     <img src="beth.jpg" alt='photo of beth'><p>Bethany Moore<br>Plant Biology</p></a></li>
@@ -36,7 +35,6 @@ permalink: "/people_current/"
 
 
 <H3>Undergraduate Students</H3>
-
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="paityn.png" alt='photo of paityn'><p>Paityn Donaldson<br>Mol Gen/Genom, Pharm</p></li>
   <li><img src="lizzie.png" alt='photo of lizzie'><p>Lizzie Gibbons<br>Plant Biology</p></li>
@@ -46,7 +44,6 @@ permalink: "/people_current/"
 
 
 <H3>Scientists' Best Friends</H3>
-
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="mel.jpg" alt='photo of mel'><p>Melbourne Moore</p></li>
   <li><img src="koby.jpg" alt='photo of koby'><p>Koby Cusack</p></li>
