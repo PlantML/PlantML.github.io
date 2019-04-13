@@ -8,7 +8,7 @@ permalink: "/people_current/"
 ---
 
 <head>
-  <base href="https://ShiuLab.github.io/images/people/" target="_blank">
+  <base href="https://ShiuLab.github.io/images/people/">
 </head>
 
 <H3>Those with PhDs</H3>
