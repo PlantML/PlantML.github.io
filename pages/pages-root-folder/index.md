@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_dna_art.jpg
 widget1:
   title: "Research Projects"
-  url: 'https://shiulab.github.io/research/projects/'
+  url: '/research/projects/'
   image: widget-1-302x182.jpg
   text: 'Check out what the lab is working on these days.'
 widget2:
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://shiulab.github.io/people_join_us/
+  url: "/people_join_us/""
   text: Check out student and post-doc openings ›
   style: alert
 permalink: /index.html
