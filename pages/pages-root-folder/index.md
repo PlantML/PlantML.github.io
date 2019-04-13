@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_tree.png
+  image_fullwidth: header_dna_art.jpg
 widget1:
   title: "Research Projects"
   url: 'https://shiulab.github.io/research/projects/'
