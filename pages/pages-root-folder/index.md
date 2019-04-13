@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Research Projects"
   url: '/research_projects/'
-  image: widget-1-302x182.jpg
+  image: wang_figure.png
   text: 'Check out what the lab is working on these days.'
 widget2:
   title: "Awesome Discoveries"
@@ -18,7 +18,7 @@ widget2:
   image: nsf_youtube_screenshot.png
   text: "NSF highlights work by the Shiu lab in their series on <i>Awesome Discoveries You Probably Didn't Hear About.</i>"
 widget3:
-  title: "NRT Training Grant"
+  title: "NRT IMPACTS"
   url: 'https://impacts.natsci.msu.edu/'
   image: impacts_logo.png
   text: "In 2019 the <b>I</b>ntegrated training <b>M</b>odel in <b>P</b>lant <b>A</b>nd <b>C</b>ompu<b>T</b>ational <b>S</b>ciences NRT training grant began. Check out this innovative training program for incoming students!"
