@@ -46,10 +46,6 @@
   - title: "Outreach"
     url: "/activities_outreach/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
 - title: "Contact"
   url: "/contact/"
   side: right
