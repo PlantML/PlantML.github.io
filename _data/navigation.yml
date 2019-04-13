@@ -3,7 +3,7 @@
   side: left
 
 - title: About
-  url: "/about/"
+  url: "/about_mission/"
   side: left
   dropdown:
   - title: "Mission"
@@ -23,7 +23,7 @@
     url: "/people_join_us/"
 
 - title: "Research"
-  url: "/research/"
+  url: "/research_projects/"
   side: left
   dropdown:
   - title: "Projects"
