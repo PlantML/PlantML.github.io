@@ -21,7 +21,7 @@ widget3:
   title: "NRT Training Grant"
   url: 'https://impacts.natsci.msu.edu/'
   image: impacts_logo.png
-  text: "In 2019 the **I**ntegrated training **M**odel in **P**lant **A**nd **C**ompu**T**ational **S**ciences NRT training grant began. Check out this innovative training program for incoming students!"
+  text: "In 2019 the <b>I</b>ntegrated training <b>M</b>odel in <b>P</b>lant <b>A</b>nd <b>C</b>ompu<b>T</b>ational <b>S</b>ciences NRT training grant began. Check out this innovative training program for incoming students!"
 #
 # Use the call for action to show a button on the frontpage
 #
