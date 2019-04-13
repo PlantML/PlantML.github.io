@@ -11,13 +11,13 @@ image:
    thumb: "activities/2019_gmsd_siobhan-thumb.jpg"
 gallery:
     - image_url: activities/2019_gmsd_siobhan.jpg
-      caption: Learning about genome assembly with Legos
+      caption: Girls Math & Science Day 2019- Learning about genome assembly with Legos
     - image_url: activities/2019_gmsd_christina.jpg
-      caption: Learning about genome assembly with Legos
+      caption: Girls Math & Science Day 2019- Learning about genome assembly with Legos
     - image_url: activities/2017_gmsd_nick.jpg
-      caption: Learning to code by guiding their friends through a maze
+      caption: Girls Math & Science Day 2017- Learning to code by guiding their friends through a maze
     - image_url: activities/2017_gmsd_sahra.jpg
-      caption: Learning to code by guiding their friends through a maze
+      caption: Girls Math & Science Day 2017- Learning to code by guiding their friends through a maze
 permalink: "/activities_outreach/"
 ---
 
