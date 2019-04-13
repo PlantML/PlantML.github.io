@@ -18,10 +18,10 @@ widget2:
   image: nsf_youtube_screenshot.png
   text: "NSF highlights work by the Shiu lab in their series on Awesome Discoveries You Probably Didn't Hear About"
 widget3:
-  title: "Awesome Discoveries"
-  url: 'http://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s'
-  image: nsf_youtube_screenshot.png
-  text: "NSF highlights work by the Shiu lab in their series on Awesome Discoveries You Probably Didn't Hear About"
+  title: "NRT Training Grant"
+  url: 'https://impacts.natsci.msu.edu/'
+  image: impacts_logo.png
+  text: "In 2019 the **I**ntegrated training **M**odel in **P**lant **A**nd **C**ompu**T**ational **S**ciences NRT training grant began. Check out this innovative training program for incoming students!"
 #
 # Use the call for action to show a button on the frontpage
 #
