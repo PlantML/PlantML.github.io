@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_dna_art.jpg
 widget1:
   title: "Research Projects"
-  url: '/research/projects/'
+  url: '/research_projects/'
   image: widget-1-302x182.jpg
   text: 'Check out what the lab is working on these days.'
 widget2:
