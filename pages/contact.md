@@ -22,6 +22,7 @@ East Lansing, MI, 48824
 
 East Lansing MI 48824-1312
 
+**Phone / Email**
 
 - Lab phone #: 517-353-7244
 - PI office #: 517-353-7196

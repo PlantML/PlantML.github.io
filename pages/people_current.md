@@ -21,7 +21,6 @@ permalink: "/people_current/"
   <li><img src="liang.jpg" alt='photo of liang'><p>Liang Xu<br>Visiting Scientist</p></li>
 </ul>
 
-
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><a href="https://github.com/bmmoore43">
@@ -33,7 +32,6 @@ permalink: "/people_current/"
   <li><img src="weilan.jpg"><p>Weilan Zhang<br>Associate</p></li>
 </ul>
 
-
 <H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="paityn.png" alt='photo of paityn'><p>Paityn Donaldson<br>Mol Gen/Genom, Pharm</p></li>
@@ -42,8 +40,7 @@ permalink: "/people_current/"
   <li><img src="dante.jpg" alt='photo of dante'><p>Dante Poe<br>Biotech & Mol Bio</p></li>
 </ul>
 
-
-<H3>Scientists' Best Friends</H3>
+<H3>Cheer Squad</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="mel.jpg" alt='photo of mel'><p>Melbourne Moore</p></li>
   <li><img src="koby.jpg" alt='photo of koby'><p>Koby Cusack</p></li>
