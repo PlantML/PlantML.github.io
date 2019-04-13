@@ -17,6 +17,11 @@ widget2:
   url: 'http://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s'
   image: nsf_youtube_screenshot.png
   text: "NSF highlights work by the Shiu lab in their series on Awesome Discoveries You Probably Didn't Hear About"
+widget3:
+  title: "Awesome Discoveries"
+  url: 'http://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s'
+  image: nsf_youtube_screenshot.png
+  text: "NSF highlights work by the Shiu lab in their series on Awesome Discoveries You Probably Didn't Hear About"
 #
 # Use the call for action to show a button on the frontpage
 #
