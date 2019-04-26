@@ -10,7 +10,7 @@ tags:
 image:
    thumb: "activities/2019_gmsd_siobhan-thumb.jpg"
 gallery:
-    - image_url: activities/2019_BioOnTap.png
+    - image_url: activities/2019_BioOnTap_shinhan.png
       caption: Shinhan talks about the future of data and agriculture at Biology On Tap in Lansing!
     - image_url: activities/2019_gmsd_siobhan.jpg
       caption: Girls Math & Science Day 2019- Learning about genome assembly with Legos
