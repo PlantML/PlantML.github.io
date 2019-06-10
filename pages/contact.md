@@ -5,7 +5,7 @@ title: "Contact us"
 permalink: "/contact/"
 ---
 
-# Lab location
+**Lab location**
 
 S-2265 Molecular Plant Sciences Bldg.
 Dept. of Plant Biology
@@ -14,12 +14,12 @@ East Lansing, MI, 48824
 
 [How to find us.](https://ShiuLab.github.io/images/Shiu_lab_location_v2.jpg)
 
-# **Mailing Address**
+**Mailing Address**
 
 612 Wilson Road, Room 166
 East Lansing MI 48824-1312
 
-# **Phone / Email**
+**Phone / Email**
 
 - Lab phone #: 517-353-7244
 - PI office #: 517-353-7196
