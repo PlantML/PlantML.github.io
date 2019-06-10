@@ -22,7 +22,7 @@ permalink: "/people_current/"
   <li><img src="weilan.jpg" width='150'><p>Weilan Zhang<br>Associate</p></li>
 </ul>
 
-<H3>Undergraduate Students</H3>
+<H3>Undergraduate Students</H3> 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="paityn.png" alt='photo of paityn' width='150'><p>Paityn Donaldson<br>Mol Gen/Genom, Pharm</p></li>
   <li><img src="lizzie.png" alt='photo of lizzie' width='150'><p>Lizzie Gibbons<br>Plant Biology</p></li>
