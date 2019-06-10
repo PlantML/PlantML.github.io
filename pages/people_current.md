@@ -14,20 +14,20 @@ permalink: "/people_current/"
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><a href="https://github.com/bmmoore43">
-    <img src="beth.jpg" alt='photo of beth' width='150'><p>Bethany Moore<br>Plant Biology</p></a></li>
-  <li><img src="siobhan.jpg" alt='photo of siobhan' width='150'><p>Siobhan Cusack<br>Cell Mol Bio</p></li>
+    <img src="beth.jpg" alt='photo of beth'><p>Bethany Moore<br>Plant Biology</p></a></li>
+  <li><img src="siobhan.jpg" alt='photo of siobhan'><p>Siobhan Cusack<br>Cell Mol Bio</p></li>
   <li><a href="https://azodichr.github.io/">
-    <img src="christina.jpg" alt='photo of christina' width='150'><p>Christina Azodi<br>Plant Biology</p></a></li>
-  <li><img src="fanrui.jpg" alt='photo of fanrui' width='150'><p>Fanrui Meng<br>Associate</p></li>
-  <li><img src="weilan.jpg" width='150'><p>Weilan Zhang<br>Associate</p></li>
+    <img src="christina.jpg" alt='photo of christina'><p>Christina Azodi<br>Plant Biology</p></a></li>
+  <li><img src="fanrui.jpg" alt='photo of fanrui'><p>Fanrui Meng<br>Associate</p></li>
+  <li><img src="weilan.jpg"><p>Weilan Zhang<br>Associate</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3> 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="paityn.png" alt='photo of paityn' width='150'><p>Paityn Donaldson<br>Mol Gen/Genom, Pharm</p></li>
-  <li><img src="lizzie.png" alt='photo of lizzie' width='150'><p>Lizzie Gibbons<br>Plant Biology</p></li>
-  <li><img src="sarah.png" alt='photo of sarah' width='150'><p>Sarah Horan</p></li>
-  <li><img src="dante.jpg" alt='photo of dante' width='150'><p>Dante Poe<br>Biotech & Mol Bio</p></li>
+  <li><img src="paityn.png" alt='photo of paityn'><p>Paityn Donaldson<br>Mol Gen/Genom, Pharm</p></li>
+  <li><img src="lizzie.png" alt='photo of lizzie'><p>Lizzie Gibbons<br>Plant Biology</p></li>
+  <li><img src="sarah.png" alt='photo of sarah'><p>Sarah Horan</p></li>
+  <li><img src="dante.jpg" alt='photo of dante'><p>Dante Poe<br>Biotech & Mol Bio</p></li>
 </ul>
 
 <H3>Those with PhDs</H3>
