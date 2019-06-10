@@ -13,7 +13,7 @@ Michigan State University
 East Lansing, MI, 48824
 
 [Google map](https://goo.gl/maps/cedGbj4vwehHfT9p8)
-[Detailed direction]
+[Detailed direction](https://ShiuLab.github.io/images/Shiu_lab_location_v2.jpg)
 
 **Mailing Address**
 
