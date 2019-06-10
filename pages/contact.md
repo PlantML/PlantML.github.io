@@ -12,6 +12,7 @@ Dept. of Plant Biology
 Michigan State University
 East Lansing, MI, 48824
 
+[Google map][https://goo.gl/maps/cedGbj4vwehHfT9p8]
 
 **Mailing Address**
 
