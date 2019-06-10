@@ -18,7 +18,7 @@ permalink: "/people_current/"
   <li><img src="siobhan.jpg" alt='photo of siobhan' width='150'><p>Siobhan Cusack<br>Cell Mol Bio</p></li>
   <li><a href="https://azodichr.github.io/">
     <img src="christina.jpg" alt='photo of christina' width='150'><p>Christina Azodi<br>Plant Biology</p></a></li>
-  <li><img src="fanrui.jpg" alt='photo of fanrui'><p>Fanrui Meng<br>Associate</p></li>
+  <li><img src="fanrui.jpg" alt='photo of fanrui' width='150'><p>Fanrui Meng<br>Associate</p></li>
   <li><img src="weilan.jpg" width='150'><p>Weilan Zhang<br>Associate</p></li>
 </ul>
 
