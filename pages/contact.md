@@ -8,13 +8,12 @@ permalink: "/contact/"
 **Lab location**
 
 S-2265 Molecular Plant Sciences Bldg.
+
 Dept. of Plant Biology
 Michigan State University
 East Lansing, MI, 48824
 
-[Google map](https://goo.gl/maps/cedGbj4vwehHfT9p8)
-
-[Detailed direction](https://ShiuLab.github.io/images/Shiu_lab_location_v2.jpg)
+[How to find us.](https://ShiuLab.github.io/images/Shiu_lab_location_v2.jpg)
 
 **Mailing Address**
 
