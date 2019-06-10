@@ -14,7 +14,7 @@ permalink: "/people_current/"
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><a href="https://github.com/bmmoore43">
-    <img src="beth.jpg" alt='photo of beth'><p>Bethany Moore<br>Plant Biology</p></a></li>
+    <img src="beth.jpg" alt='photo of beth' width="100><p>Bethany Moore<br>Plant Biology</p></a></li>
   <li><img src="siobhan.jpg" alt='photo of siobhan'><p>Siobhan Cusack<br>Cell Mol Bio</p></li>
   <li><a href="https://azodichr.github.io/">
     <img src="christina.jpg" alt='photo of christina'><p>Christina Azodi<br>Plant Biology</p></a></li>
