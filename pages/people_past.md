@@ -9,13 +9,13 @@ header:
 
 ## Postdoctoral scholars
 
-<img src="../images/people_former/Zing-20150307.jpg" height="30px"> **Zing Tsung-Yeh Tsai** (2014-2016) Research Associate, University of Michigan-Ann Arbor
+<img src="Zing-20150307.jpg" height="30px"> **Zing Tsung-Yeh Tsai** (2014-2016) Research Associate, University of Michigan-Ann Arbor
 
-<img src="../images/people_former/Liu.jpg" height="30px"> **Ming Jung Liu** (2013-2016) Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica
+<img src="Liu.jpg" height="30px"> **Ming Jung Liu** (2013-2016) Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica
 
-<img src="../images/people_former/Kelian sun.JPG" height="30px"> **Kelian Sun** (2009-2011) Reseach associate, Marc Basson Lab, MSU.
+<img src="../images/people_past/Kelian sun.JPG" height="30px"> **Kelian Sun** (2009-2011) Reseach associate, Marc Basson Lab, MSU.
 
-<img src="../images/people_former/Zou.jpg" height="30px"> **Cheng Zou** (2006-2011) Associate Professor, [http://www.caas.net.cn/engforcaas/index.htm Chinese Academy of Agricultural Sciences, Beijing, China]
+<img src="../images/people_past/Zou.jpg" height="30px"> **Cheng Zou** (2006-2011) Associate Professor, [http://www.caas.net.cn/engforcaas/index.htm Chinese Academy of Agricultural Sciences, Beijing, China]
 
 <img src="../images/people_former/Hanada.gif" height="30px"> **Kousuke Hanada** (2006-2007) Associate Professor, [http://www.bio.kyutech.ac.jp/~kohanada/profile.htm Kyushu Institute of Technology, Fukuoka, Japan]
 
