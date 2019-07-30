@@ -10,7 +10,7 @@ header:
 ## Postdoctoral scholars
 
 <img src="../images/people_past/50px-Zing-20150307.jpg" height="30px">
-**Zing Tsung-Yeh Tsai** (2014-2016) Research Associate, University of Michigan-Ann Arbor
+[**Zing Tsung-Yeh Tsai**](https://sites.google.com/site/zingtyt/) (2014-2016). Current: Bioinformatics scientist at Illumina Inc. 
 
 <img src="../images/people_past/50px-Liu.jpg" height="30px"> 
 **Ming Jung Liu** (2013-2016) Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica
