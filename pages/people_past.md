@@ -9,24 +9,31 @@ header:
 
 ## Postdoctoral scholars
 
-<img src="../images/people_past/50px-Zing-20150307.jpg" height="30px"> **Zing Tsung-Yeh Tsai** (2014-2016) Research Associate, University of Michigan-Ann Arbor
+<img src="../images/people_past/50px-Zing-20150307.jpg" height="30px">
+**Zing Tsung-Yeh Tsai** (2014-2016) Research Associate, University of Michigan-Ann Arbor
 
-<img src="../images/people_past/50px-Liu.jpg" height="30px"> **Ming Jung Liu** (2013-2016) Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica
+<img src="../images/people_past/50px-Liu.jpg" height="30px"> 
+**Ming Jung Liu** (2013-2016) Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica
 
-<img src="../images/people_past/50px-Kelian_sun.jpeg" height="30px"> **Kelian Sun** (2009-2011) Reseach associate, Marc Basson Lab, MSU.
+<img src="../images/people_past/50px-Kelian_sun.jpeg" height="30px"> 
+**Kelian Sun** (2009-2011) Reseach associate, Marc Basson Lab, MSU.
 
-<img src="../images/people_past/50px-Zou.jpg" height="30px"> **Cheng Zou** (2006-2011) Associate Professor, [http://www.caas.net.cn/engforcaas/index.htm Chinese Academy of Agricultural Sciences, Beijing, China]
+<img src="../images/people_past/50px-Zou.jpg" height="30px"> 
+**Cheng Zou** (2006-2011) Associate Professor, [http://www.caas.net.cn/engforcaas/index.htm Chinese Academy of Agricultural Sciences, Beijing, China]
 
-<img src="../images/people_past/50px-Hanada.gif" height="30px"> **Kousuke Hanada** (2006-2007) Associate Professor, [http://www.bio.kyutech.ac.jp/~kohanada/profile.htm Kyushu Institute of Technology, Fukuoka, Japan]
+<img src="../images/people_past/50px-Hanada.gif" height="30px"> 
+**Kousuke Hanada** (2006-2007) Associate Professor, [http://www.bio.kyutech.ac.jp/~kohanada/profile.htm Kyushu Institute of Technology, Fukuoka, Japan]
 
 
 
 
 ## Graduate students
 
-<img src="../images/people_past/50px-Panchy2.jpg" height="30px"> **Nicholas Panchy** (2011-2017) PhD, Genetics. Current: Post Doc at National Institute of Mathematical and Biological Synthesis
+<img src="../images/people_past/50px-Panchy2.jpg" height="30px"> 
+**Nicholas Panchy** (2011-2017) PhD, Genetics. Current: Post Doc at National Institute of Mathematical and Biological Synthesis
 
-<img src="../images/people_past/50px-Lloyd.jpg" height="30px"> **Johnny Lloyd** (2012-2017) PhD, Genetics. Current: Post Doc at the University of Michigan
+<img src="../images/people_past/50px-Lloyd.jpg" height="30px"> 
+**Johnny Lloyd** (2012-2017) PhD, Genetics. Current: Post Doc at the University of Michigan
 
 <img src="../images/people_past/50px-Uygun.jpg" height="30px"> **Sahra Uygun** (2011-2017) PhD, Genetics. Current: Agendia 
 
