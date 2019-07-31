@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Want to be a future member?"
+title: "Want to join the Shiu Lab?"
 subheadline: "People"
 permalink: "/people_join_us/"
 header:
    image_fullwidth: "20140923_labphoto3.png"
 ---
-
 
 ## Graduate student
 We are always looking for motivated students who are interested in multi-disciplinary works to bring experimental and quantitative biology together. Graduate students can enter through four degree granting programs in Michigan State:
