@@ -41,5 +41,4 @@ Applicants should provide the following information in one file and send it to s
 - Awards
 - Your personal interests in research
 
-2. 
-Names, affiliations, e-mail addresses, and phone numbers of 1-2 professional references, preferably faculty/staff in MSU.
+2. The names, affiliations, e-mail addresses, and phone numbers of 1-2 professional references (preferably faculty/staff at MSU).
