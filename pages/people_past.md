@@ -12,13 +12,13 @@ header:
 <img src="../images/people_past/50px-Zing-20150307.jpg" height="30px">
 [**Zing Tsung-Yeh Tsai**](https://sites.google.com/site/zingtyt/) (2014-2016). Bioinformatics scientist at Illumina Inc. 
 
-<img src="../images/people_past/50px-Liu.jpg" height="30px"> **Ming Jung Liu** (2013-2016) Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica
+<img src="../images/people_past/50px-Liu.jpg" height="30px"> **Ming Jung Liu** (2013-2016). Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica.
 
-<img src="../images/people_past/50px-Kelian_sun.jpeg" height="30px"> **Kelian Sun** (2009-2011) Reseach associate, Marc Basson Lab, MSU.
+<img src="../images/people_past/50px-Kelian_sun.jpeg" height="30px"> **Kelian Sun** (2009-2011). Reseach associate, Marc Basson Lab, MSU.
 
-<img src="../images/people_past/50px-Zou.jpg" height="30px"> **Cheng Zou** (2006-2011) Associate Professor, [http://www.caas.net.cn/engforcaas/index.htm Chinese Academy of Agricultural Sciences, Beijing, China]
+<img src="../images/people_past/50px-Zou.jpg" height="30px"> [**Cheng Zou**](https://www.researchgate.net/profile/Cheng_Zou) (2006-2011) Associate Professor, Chinese Academy of Agricultural Sciences, Beijing, China.
 
-<img src="../images/people_past/50px-Hanada.gif" height="30px"> **Kousuke Hanada** (2006-2007) Associate Professor, [http://www.bio.kyutech.ac.jp/~kohanada/profile.htm Kyushu Institute of Technology, Fukuoka, Japan]
+<img src="../images/people_past/50px-Hanada.gif" height="30px"> [**Kousuke Hanada**](http://labo.bio.kyutech.ac.jp/~kohanada/profile.htm) (2006-2007). Associate Professor,  Kyushu Institute of Technology, Fukuoka, Japan.
 
 
 
@@ -81,43 +81,45 @@ header:
 
 ## Summer undergrads
 
-<img src="../images/people_past/50px-Aaron_lee.png" height="30px"> **Aaron Lee** (Summer 2018)
+<img src="../images/people_past/50px-EmilyBolger.jpg" height="30px"> **Emily Bolger** (Summer 2019). Mathematics, Moravian College.[ACRES REU](https://icer-acres.msu.edu/).
 
-|Biology, College of New Jersey.
+<img src="../images/people_past/50px-KetanJog.jpg" height="30px"> **Ketan Jog** (Summer 2019). Data Science, Columbia University. [ACRES REU](https://icer-acres.msu.edu/).
 
-<img src="../images/people_past/50px-Michael_mod.png" height="30px"> **Michael Douglas** (Summer 2017) Adrian College
+<img src="../images/people_past/50px-Aaron_lee.png" height="30px"> **Aaron Lee** (Summer 2018). Biology, College of New Jersey. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
-<img src="../images/people_past/50px-Rosie.jpg" height="30px"> **Rosalie Sowers** (Summer 2016) Pennsylvania State University;PlantGenomics REU
+<img src="../images/people_past/50px-Michael_mod.png" height="30px"> **Michael Douglas** (Summer 2017). Adrian College. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
-<img src="../images/people_past/50px-Simenc.jpg" height="30px"> **Matt Simenc** (Summer 2013) Humboldt State University;PlantGenomics REU
+<img src="../images/people_past/50px-Rosie.jpg" height="30px"> **Rosalie Sowers** (Summer 2016). Pennsylvania State. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
-<img src="../images/people_past/50px-Veling.jpg" height="30px"> **Michael Veling** (Summer 2011) University of Massachusetts at Amherst;PlantGenomics REU.
+<img src="../images/people_past/50px-Simenc.jpg" height="30px"> **Matt Simenc** (Summer 2013). Humboldt State University. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
-<img src="../images/people_past/50px-Kai.jpg" height="30px"> **Kai Ruan** (Summer 2009) University of Michigan, Ann Arbor; PlantGenomics REU.
+<img src="../images/people_past/50px-Veling.jpg" height="30px"> **Michael Veling** (Summer 2011). University of Massachusetts at Amherst. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
-<img src="../images/people_past/50px-Elizabeth.jpg" height="30px"> **Elizabeth Wright** (Summers 2009 and 2010) Jackson State University, Mississippi; PlantGenomics REU.
+<img src="../images/people_past/50px-Kai.jpg" height="30px"> **Kai Ruan** (Summer 2009). University of Michigan, Ann Arbor. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
-<img src="../images/people_past/50px-Cybulski.jpg" height="30px"> **Ted Cybulski** (Summer 2008) Massachusetts Institute of Technology; PlantGenomics REU.
+<img src="../images/people_past/50px-Elizabeth.jpg" height="30px"> **Elizabeth Wright** (Summers 2009 and 2010). Jackson State University, Mississippi. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
-<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Juyeon Park** (Summer 2007) Williams College; PlantGenomics REU.
+<img src="../images/people_past/50px-Cybulski.jpg" height="30px"> **Ted Cybulski** (Summer 2008). Massachusetts Institute of Technology. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
+
+<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Juyeon Park** (Summer 2007). Williams College. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
 
 
 ## Summer high school students
 
-<img src="../images/people_past/50px-JFishman_mod.png" height="30px"> **Jeffrey Fishman** (Summer 2017) Upper Dublin High School, Washington, Pennsylvania
+<img src="../images/people_past/50px-JFishman_mod.png" height="30px"> **Jeffrey Fishman** (Summer 2017). Upper Dublin High School, Washington, Pennsylvania.
 
-<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Rachel Groberman** (Summer 2015) Los Angeles, CA.
+<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Rachel Groberman** (Summer 2015). Los Angeles, CA.
 
-<img src="../images/people_past/50px-Jasicki.jpg" height="30px"> **Hannah Jasicki** (Summer 2013) La Porte High School, La Porte, IN; [https://www.msu.edu/~hshsp/ HSHSP Program].
+<img src="../images/people_past/50px-Jasicki.jpg" height="30px"> **Hannah Jasicki** (Summer 2013). La Porte High School, La Porte, IN. [HSHSP Program](https://education.msu.edu/hshsp/).
 
-<img src="../images/people_past/50px-Naik.jpg" height="30px"> **Manali Naik** (Summer 2010) Monta Vista High school, Cupertino, CA; [https://www.msu.edu/~hshsp/ HSHSP Program].
+<img src="../images/people_past/50px-Naik.jpg" height="30px"> **Manali Naik** (Summer 2010). Monta Vista High school, Cupertino, CA. [HSHSP Program](https://education.msu.edu/hshsp/).
 
-<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Meiyi Cheng** (Summer 2008) Punahou High School, Punahou, Hawaii; [https://www.msu.edu/~hshsp/ HSHSP Program].
+<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Meiyi Cheng** (Summer 2008). Punahou High School, Punahou, Hawaii. [HSHSP Program](https://education.msu.edu/hshsp/).
 
-<img src="../images/people_past/50px-Lin.jpg" height="30px"> **Andy Lin** (Summer 2008-Summer 2009) Okemos High School, Okemos, MI; [https://www.msu.edu/~hshsp/ HSHSP Program].
+<img src="../images/people_past/50px-Lin.jpg" height="30px"> **Andy Lin** (Summer 2008-Summer 2009). Okemos High School, Okemos, MI. [HSHSP Program](https://education.msu.edu/hshsp/).
 
-<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Tanmay Prakash** (Summer 2006) Novi High School, Novi, MI; [https://www.msu.edu/~hshsp/ HSHSP Program].
+<img src="../images/people_past/50px-No_image.jpg" height="30px"> **Tanmay Prakash** (Summer 2006). Novi High School, Novi, MI. [HSHSP Program](https://education.msu.edu/hshsp/).
 
 
 
