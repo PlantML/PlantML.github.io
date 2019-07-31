@@ -81,7 +81,7 @@ header:
 
 ## Summer undergrads
 
-<img src="../images/people_past/50px-EmilyBolger.jpg" height="30px"> **Emily Bolger** (Summer 2019). Mathematics, Moravian College.[ACRES REU](https://icer-acres.msu.edu/).
+<img src="../images/people_past/50px-EmilyBolger.jpg" height="30px"> **Emily Bolger** (Summer 2019). Mathematics, Moravian College. [ACRES REU](https://icer-acres.msu.edu/).
 
 <img src="../images/people_past/50px-KetanJog.jpg" height="30px"> **Ketan Jog** (Summer 2019). Data Science, Columbia University. [ACRES REU](https://icer-acres.msu.edu/).
 
