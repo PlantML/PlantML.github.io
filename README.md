@@ -9,6 +9,9 @@ See Feeling Responsive's [website](https://phlow.github.io/feeling-responsive/ge
 	- [Intro to Markdown](https://www.markdownguide.org/getting-started/)
 	- [Helpful Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+- For converting mediawiki page to markdown:
+  - [See here](https://github.com/philipashlock/mediawiki-to-markdown)
+
 - Basic info for website
 	- See the configuration file (\_config.yml) file to change the description/slogan, credits, github URL, icons, social media links, etc.
 	- Most other changes are made in .yml files in the \_data directory. 
