@@ -130,6 +130,8 @@ header:
 
 ## Visiting scholars
 
+<img src="../images/people_past/50px-Xu_Liang.jpg" height="30px"> **Liang Xu** (2017-2019) Visiting scholar.
+
 <img src="../images/people_past/50px-Wenyu.jpg" height="30px"> **Wen-Yu Liu** (2016-2017) Visiting scholar, Academia Sinica, Taipei, Taiwan
 
 <img src="../images/people_past/50px-Ting.jpg" height="30px"> **Kun-Ting Hsieh** (2016-2017) Graduate Student, National Chung Hsing University, Taichung City, Taiwan

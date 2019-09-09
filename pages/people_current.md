@@ -24,10 +24,7 @@ permalink: "/people_current/"
 
 <H3>Undergraduate Students</H3> 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="paityn.png" alt='photo of paityn'><p>Paityn Donaldson<br>Mol Gen/Genom, Pharm</p></li>
-  <li><img src="lizzie.png" alt='photo of lizzie'><p>Lizzie Gibbons<br>Plant Biology</p></li>
   <li><img src="sarah.png" alt='photo of sarah'><p>Sarah Horan</p></li>
-  <li><img src="dante.jpg" alt='photo of dante'><p>Dante Poe<br>Biotech & Mol Bio</p></li>
 </ul>
 
 <H3>Those with PhDs</H3>
@@ -35,7 +32,6 @@ permalink: "/people_current/"
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="peipei.jpg" alt='photo of peipei'><p>Peipei Wang<br>Post-Doc</p></li>
-  <li><img src="liang.jpg" alt='photo of liang'><p>Liang Xu<br>Visiting Scientist</p></li>
   <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>Research Asst Professor</p></li>
   <li><img src="shinhan.png" alt='photo of shinhan'><p>Shin-Han Shiu<br>Professor</p></li>
 </ul>
