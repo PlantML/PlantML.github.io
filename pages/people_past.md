@@ -43,6 +43,11 @@ header:
 
 
 ## Undergrads 
+<img src="../images/people_past/50px-Donaldson.png" height="30px"> **Paityn Donaldson** (2017-2019) Mol Gen/Genom, Pharm, MSU.
+
+<img src="../images/people_past/50px-Gibbons.png" height="30px"> **Lizzie Gibbons** (2018-2019) Plant Biology, MSU.
+
+<img src="../images/people_past/50px-Poe.jpg" height="30px"> **Dante Poe** (2016-2019) Biotech & Mol Bio, MSU.
 
 <img src="../images/people_past/50px-Baxter.jpg" height="30px"> **Melissa Baxter** (2016-2017) Plant Biology, MSU.
 
