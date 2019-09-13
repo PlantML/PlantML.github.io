@@ -34,8 +34,8 @@
     url: "/research_other_resources/"
 
 - title: "Publications"
-    url: "/publications/"
-    side: left
+  url: "/publications/"
+  side: left
 
 - title: Activities
   url: "/activities_catsup/"
