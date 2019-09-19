@@ -14,22 +14,23 @@ permalink: "/publications/"
 
 **Uygun S[e]**, **Azodi, CB[e]**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *bioRxiv* DOI: 10.1101/466326 [Find Here](https://doi.org/10.1101/466326)
 
-
 **Panchy NL**, **Lloyd JP**, **Shiu SH**. Predicting cell-cycle expressed genes identifies canonical and non-canonical regulators of time-specific expression in *Saccharomyces cerevisiae*. *bioRxiv* DOI: 10.1101/387050 [Find Here](https://doi.org/10.1101/387050)
 
 Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *bioRxiv* DOI: 10.1101/603290 [Find Here](https://www.biorxiv.org/content/10.1101/603290v2)
 
 ## 2019
-**Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the *Poaceae*. *Scientific Reports.* [Find Here](https://www.nature.com/articles/s41598-019-47797-y)
 
-**Panchy NL**, **Azodi CB**, Winship EF, **Shiu SH** (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics.* 19:77 [Find Here](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1398-z)
+**Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae. *Scientific Reports* 9:12122 [Find Here](https://www.nature.com/articles/s41598-019-47797-y)
+
+**Panchy NL**, **Azodi CB**, Winship EF, **Shiu SH** (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics* 19:77 [Find Here](https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-019-1398-z)
 
 Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2019) A comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes. *Proc. Natl. Acad. Sci., USA* 116(8):3091-3099 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/30718437)
 
 **Moore BM**, **Wang P**, Fan P, Leong B, Schenck C, **Lloyd J**, **Lehti-Shiu MD**, Last R, Pichersky E, **Shiu SH**(2019) Robust predictions of specialized metabolism genes through machine learning. *Proc. Natl. Acad. Sci., USA* 116(6):2344-2353 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/30674669)
 
 ## 2018
-**Wang P**, **Moore BM**, **Panchy NL**, **Meng F**, **Lehti-Shiu MD**, **Shiu SH** (2018) Factors influencing gene family size variation among related species in a plant family, Solanaceae. *Genome Biol Evol* 10(10):2596–2613 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
+
+**Wang P**, **Moore BM**, **Panchy NL**, **Meng F**, **Lehti-Shiu MD**, **Shiu SH** (2018) Factors influencing gene family size variation among related species in a plant family, Solanaceae. *Genome Biol. Evol.* 10(10):2596–2613 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
 
 **Liu MJ**, Sugimoto K, **Uygun, S**, **Panchy NL**, Campbell M, Yandell M, Howe GA, **Shiu SH** (2018) Regulatory Divergence In Wound-Responsive Gene Expression In Domesticated And Wild Tomato. *Plant Cell* 30(7):1445-1460 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
 
@@ -47,11 +48,11 @@ Huang CF, Yu CP, Wu YH, Lu MJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2017) E
 
 Bennett MS, **Shiu SH**, Triemer RE. (2017) A rare case of plastid protein-coding gene duplication in the chloroplast genome of Euglena archaeoplastidiata (Euglenophyta). *J Phycol.* 53(3):493-502 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/28295310)
 
-**Lehti-Shiu MD[e]**, **Panchy N**, **Wang P**, **Uygun S**, **Shiu SH[e]**. (2017) Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *Biochim Biophys Acta* 1860(1):3-20 [Review] [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/27522016)
+**Lehti-Shiu MD[e]**, **Panchy N**, **Wang P**, **Uygun S**, **Shiu SH[e]**. (2017) Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *Biochim. Biophys. Acta Gene Regul. Mech.* 1860(1):3-20 [Review] [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/27522016)
 
 ## 2016
 
-**Uygun S**, Peng C, **Lehti-Shiu MD**, Last R, **Shiu SH**. (2016) Utility and limitations of using gene expression data to identify functional associations. *PLoS Comp Biol* 12(12):e1005244 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/27935950)
+**Uygun S**, Peng C, **Lehti-Shiu MD**, Last R, **Shiu SH**. (2016) Utility and limitations of using gene expression data to identify functional associations. *PLoS Comp. Biol.* 12(12):e1005244 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/27935950)
 
 **Panchy N**, **Lehti-Shiu MD**, **Shiu SH**. (2016) Evolution of Gene Duplication in Plants. *Plant Physiol.* 171(4):2294-316. [Review] [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/27288366)
 
@@ -63,9 +64,9 @@ Liu T, Newton L, **Liu MJ**, **Shiu SH**, Farre EM. (2016) A G-box-like motif is
 
 **Lloyd JP**, **Seddon AE**, **Moghe GD**, **Simenc MC[u]**, **Shiu SH** (2015) Characteristics of plant essential genes allow for within- and between-species prediction of lethal mutant phenotypes. *Plant Cell* 27:2133 [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/26286535)
 
-**Tsai ZTY**, **Shiu SH[e]** and Tsai HK[e] (2015) Contribution of sequence motif, chromatin state, and DNA structure features to predictive models of transcription factor binding in yeast. *PLoS Comp Biol* 11(8):e1004418 [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/26291518)
+**Tsai ZTY**, **Shiu SH[e]** and Tsai HK[e] (2015) Contribution of sequence motif, chromatin state, and DNA structure features to predictive models of transcription factor binding in yeast. *PLoS Comp. Biol.* 11(8):e1004418 [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/26291518)
 
-**Liu MJ**, **Seddon AE**, **Tsai ZTY**, Major IT, Floer M, Howe GA, **Shiu SH** (2015) Determinants of nucleosome positioning and their influence on plant gene expression. *Genome Res* 25(8):1182-95. [Find Here](http://shiulab.plantbiology.msu.edu/images/8/80/2015_GenomeRes_Liu_nucleosome.pdf)
+**Liu MJ**, **Seddon AE**, **Tsai ZTY**, Major IT, Floer M, Howe GA, **Shiu SH** (2015) Determinants of nucleosome positioning and their influence on plant gene expression. *Genome Res.* 25(8):1182-95. [Find Here](http://shiulab.plantbiology.msu.edu/images/8/80/2015_GenomeRes_Liu_nucleosome.pdf)
 
 Poliner E, **Panchy N**, Newton L, **Wu G**, Lapinsky A, Bullard B, Zienkiewicz A, Benning C, **Shiu SH**, Farré EM. (2015) Transcriptional coordination of physiological responses in Nannochloropsis oceanica CCMP1779 under light/dark cycles. *Plant J* 83:1097-113. [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/26216534)
 
