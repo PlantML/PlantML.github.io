@@ -8,17 +8,17 @@ permalink: "/publications/"
 
 ## Submitted manuscripts in bioRxiv
 
-**Azodi CB**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *bioRxiv* DOI: 10.1101/614479 [Find Here](https://www.biorxiv.org/content/10.1101/614479v1?rss=1)
-
-**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *bioRxiv* DOI: 10.1101/587121 [Find Here](https://www.biorxiv.org/content/early/2019/03/27/587121.full.pdf)
-
-**Uygun S[e]**, **Azodi, CB[e]**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *bioRxiv* DOI: 10.1101/466326 [Find Here](https://doi.org/10.1101/466326)
-
 **Panchy NL**, **Lloyd JP**, **Shiu SH**. Predicting cell-cycle expressed genes identifies canonical and non-canonical regulators of time-specific expression in *Saccharomyces cerevisiae*. *bioRxiv* DOI: 10.1101/387050 [Find Here](https://doi.org/10.1101/387050)
 
 Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *bioRxiv* DOI: 10.1101/603290 [Find Here](https://www.biorxiv.org/content/10.1101/603290v2)
 
 ## 2019
+
+**Azodi CB**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* DOI: 10.1534/g3.119.400498 [Find Here](https://www.g3journal.org/content/early/2019/09/18/g3.119.400498)
+
+**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *The Plant Cell* DOI: 10.1101/587121 [In prep](https://www.biorxiv.org/content/early/2019/03/27/587121.full.pdf)
+
+**Uygun S[e]**, **Azodi, CB[e]**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* DOI: 10.1104/pp.19.00653 [Find Here](http://www.plantphysiol.org/content/early/2019/09/24/pp.19.00653.long)
 
 **Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae. *Scientific Reports* 9:12122 [Find Here](https://www.nature.com/articles/s41598-019-47797-y)
 
@@ -40,7 +40,7 @@ Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N De
 
 ## 2017
 
-Huang CF, Yu CP, Wu YH, Lu MJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2017) Elevated auxin biosynthesis and transport underlie high vein density in C4 leaves. *Proc. Natl. Acad. Sci., USA* 114(33):E6884 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/28761000) 
+Huang CF, Yu CP, Wu YH, Lu MJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2017) Elevated auxin biosynthesis and transport underlie high vein density in C4 leaves. *Proc. Natl. Acad. Sci., USA* 114(33):E6884 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/28761000)
 
 **Uygun S[e]**, **Seddon AE[e]**, **Azodi C**, **Shiu SH** (2017) Predictive models of spatial transcriptional response to high salinity. *Plant Physiol.* 174:450-464 [Find Here](https://www.ncbi.nlm.nih.gov/pubmed/28373393) 
 
