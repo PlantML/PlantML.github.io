@@ -8,6 +8,9 @@ permalink: "/publications/"
 
 ## Submitted manuscripts in bioRxiv
 
+**Wang PP, Meng FR, Moore BM, Shiu SH**. Factors influencing read coverage variation in a genome assembled using short reads. *bioRxiv* DOI: 10.1101/790337
+[Find Here](https://www.biorxiv.org/content/biorxiv/early/2019/10/02/790337.full.pdf)
+
 **Panchy NL**, **Lloyd JP**, **Shiu SH**. Predicting cell-cycle expressed genes identifies canonical and non-canonical regulators of time-specific expression in *Saccharomyces cerevisiae*. *bioRxiv* DOI: 10.1101/387050 [Find Here](https://doi.org/10.1101/387050)
 
 Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *bioRxiv* DOI: 10.1101/603290 [Find Here](https://www.biorxiv.org/content/10.1101/603290v2)
@@ -16,7 +19,7 @@ Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements 
 
 **Azodi CB**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* DOI: 10.1534/g3.119.400498 [Find Here](https://www.g3journal.org/content/early/2019/09/18/g3.119.400498)
 
-**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *The Plant Cell* DOI: 10.1101/587121 [In prep](https://www.biorxiv.org/content/early/2019/03/27/587121.full.pdf)
+**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *The Plant Cell* DOI: 10.1101/587121 [In press](https://www.biorxiv.org/content/early/2019/03/27/587121.full.pdf)
 
 **Uygun S[e]**, **Azodi, CB[e]**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* DOI: 10.1104/pp.19.00653 [Find Here](http://www.plantphysiol.org/content/early/2019/09/24/pp.19.00653.long)
 
