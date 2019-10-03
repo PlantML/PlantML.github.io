@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Publications"
 title:  "in the last 5 years"
-teaser: "<sup>e</sup>: joint first/corresponding. <sup>u</sup>:undergrad. <sup>h</sup>:high school student. <sup>v</sup>:visiting scholar. Bold: people from the Shiu lab. <sup>Review</sup>: review paper."
+teaser: "<sup>e</sup>: joint first/corresponding. <sup>u</sup>:undergrad. <sup>h</sup>:high school student. <sup>v</sup>:visiting scholar. **Bold**: people from the Shiu lab. <sup>Review</sup>: review paper."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/publications_in_last_5_years/"
