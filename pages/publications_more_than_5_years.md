@@ -2,6 +2,7 @@
 layout: page
 subheadline:  "Publications"
 title:  ">= 5 years old"
+teaser: "<sup>e<sub>: joint first/corresponding. <sup>u<sub>:undergrad. <sup>h<sub>:high school student. <sup>v<sub>:visiting scholar. Bold: people from the Shiu lab."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/publications_more_than_5_years/"
@@ -9,16 +10,12 @@ permalink: "/publications_more_than_5_years/"
 
 [Click here for publications in the last 5 years](https://shiulab.github.io/publications_in_last_5_years/)
 
-## Submitted manuscripts in bioRxiv
+## 2014
 
-**Wang PP, Meng FR, Moore BM, Shiu SH**. Factors influencing read coverage variation in a genome assembled using short reads. *bioRxiv* DOI: 10.1101/790337
-[Find Here](https://www.biorxiv.org/content/biorxiv/early/2019/10/02/790337.full.pdf)
+**Panchy N**, **Wu G**, Newton L, Tsai CH, Chen J, Benning C, Farre EM<sup>e<sub>, **Shiu SH**<sup>e<sub> (2014) Prevalence, Evolution, and *cis*-Regulation of Diel Transcription in *Chlamydomonas reinhardtii*. *G3* 4(12):2461-2471 [Find Here](http://www.ncbi.nlm.nih.gov/pubmed/25354782)
 
-**Panchy NL**, **Lloyd JP**, **Shiu SH**. Predicting cell-cycle expressed genes identifies canonical and non-canonical regulators of time-specific expression in *Saccharomyces cerevisiae*. *bioRxiv* DOI: 10.1101/387050 [Find Here](https://doi.org/10.1101/387050)
 
-Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *bioRxiv* DOI: 10.1101/603290 [Find Here](https://www.biorxiv.org/content/10.1101/603290v2)
 
-## 2019
 
 **Azodi CB**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* DOI: 10.1534/g3.119.400498 [Find Here](https://www.g3journal.org/content/early/2019/09/18/g3.119.400498)
 
