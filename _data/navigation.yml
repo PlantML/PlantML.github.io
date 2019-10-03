@@ -36,6 +36,11 @@
 - title: "Publications"
   url: "/publications/"
   side: left
+  dropdown:
+  - title: "Publications in the last 5 years"
+    url: "/publications_in_last_5_years/"
+  - title: "Publications >= 5 years old"
+    url: "/publications_more_than_5_years/"
 
 - title: Activities
   url: "/activities_catsup/"
