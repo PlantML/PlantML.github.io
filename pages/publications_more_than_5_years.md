@@ -1,13 +1,13 @@
 ---
 layout: page
 subheadline:  "Publications"
-title:  "Publications >= 5 years old"
+title:  ">= 5 years old"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/publications_more_than_5_years/"
 ---
 
-[Click here for publications in the last 5 years]()
+[Click here for publications in the last 5 years](https://shiulab.github.io/publications_in_last_5_years/)
 
 ## Submitted manuscripts in bioRxiv
 
