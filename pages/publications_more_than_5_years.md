@@ -4,7 +4,7 @@ subheadline:  "Publications"
 title:  ">= 5 years old"
 teaser: "<sup>e</sup>: joint first/corresponding. <sup>u</sup>:undergrad. <sup>h</sup>:high school student. <sup>v</sup>:visiting scholar. Bold: people from the Shiu lab. <sup>Review</sup>: review paper."
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "20160705_Labpho.jpg"
 permalink: "/publications_more_than_5_years/"
 ---
 
@@ -156,6 +156,8 @@ Tzean, S.-S., S.-C. Chiu, J.-L. Chen, **S.-H. Hseu** (my last name was spelled w
 
 Tzean, S.-S., J.-L. Chen, and **S.-H. Shiu.** 1992. Talaromyces unicus sp-nov from Taiwan. *Mycologia* 84: 739-749.   [PDF](http://shiulab.plantbiology.msu.edu/images/2/26/Mycologia92_talaromyces.pdf)
 
+## Papers published in the last 5 years ago
+[Click here for publications in the last 5 years](https://shiulab.github.io/publications_in_last_5_years/)
 
 
 
