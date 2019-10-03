@@ -4,7 +4,7 @@ subheadline:  "Publications"
 title:  ">= 5 years old"
 teaser: "<sup>e</sup>: joint first/corresponding. <sup>u</sup>:undergrad. <sup>h</sup>:high school student. <sup>v</sup>:visiting scholar. Bold: people from the Shiu lab. <sup>Review</sup>: review paper."
 header:
-   image_fullwidth: "20160705_Labpho.jpg"
+   image_fullwidth: "20171217_StarWars.JPG"
 permalink: "/publications_more_than_5_years/"
 ---
 
