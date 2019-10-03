@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Publications"
 title:  ">= 5 years old"
-teaser: "<sup>e</sup>: joint first/corresponding. <sup>u</sub>:undergrad. <sup>h</sub>:high school student. <sup>v</sub>:visiting scholar. Bold: people from the Shiu lab."
+teaser: "<sup>e</sup>: joint first/corresponding. <sup>u</sup>:undergrad. <sup>h</sup>:high school student. <sup>v</sup>:visiting scholar. Bold: people from the Shiu lab."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/publications_more_than_5_years/"
