@@ -4,7 +4,7 @@ subheadline:  "Publications"
 title:  "Publications >= 5 years old"
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/Publications >= 5 years old/"
+permalink: "/publications_more_than_5_years/"
 ---
 
 [Click here for publications in the last 5 years]()
