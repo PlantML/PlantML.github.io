@@ -30,8 +30,6 @@
     url: "/research_projects/"
   - title: "Software"
     url: "https://github.com/ShiuLab"
-  - title: "Other Resources"
-    url: "/research_other_resources/"
 
 - title: "Publications"
   url: "/publications_in_last_5_years/"
