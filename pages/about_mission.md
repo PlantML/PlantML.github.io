@@ -12,7 +12,7 @@ header:
 The three long-term goals of our research program are to: 
 * Understand the evolutionary processes that contribute to the variation in genome content within and between species,
 * Uncover the mechanisms that underlie the translation of genomic and environmental information to phenotype, and
-* Translate advances in machine learining to build predictive models for assessing and improving our biological knowledge.
+* Translate advances in computational and data sciences and machine learning approaches to assess and improve our understanding in biology.
 
 ## Mentoring & teaching
 
