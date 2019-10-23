@@ -32,13 +32,13 @@
     url: "https://github.com/ShiuLab"
 
 - title: "Publications"
-  url: "/publications_in_last_5_years/"
+  url: "/publications_last5/"
   side: left
   dropdown:
-  - title: "in the last 5 years"
-    url: "/publications_in_last_5_years/"
-  - title: ">= 5 years old"
-    url: "/publications_more_than_5_years/"
+  - title: "last 5 years"
+    url: "/publications_last5/"
+  - title: "More than 5 years"
+    url: "/publications_older/"
 
 - title: Activities
   url: "/activities_catsup/"
