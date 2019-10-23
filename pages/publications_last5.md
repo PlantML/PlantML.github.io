@@ -8,7 +8,7 @@ header:
 permalink: "/publications_in_last_5_years/"
 ---
 
-[Click here for older publications](https://shiulab.github.io/publications_older/)
+[Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
 
 ## Submitted manuscripts in bioRxiv
 
