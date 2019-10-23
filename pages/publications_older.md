@@ -3,7 +3,7 @@ layout: page
 subheadline:  "Publications"
 title:  "Published >5 years ago"
 header:
-   image_fullwidth: "/header/mps_corridor.png"
+   image_fullwidth: "mps_corridor.png"
 permalink: "/publications_older/"
 ---
 
