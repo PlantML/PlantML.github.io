@@ -32,7 +32,7 @@
     url: "https://github.com/ShiuLab"
 
 - title: "Publications"
-  url: "/publications/"
+  url: "/publications_last5/"
   side: left
   dropdown:
   - title: "last 5 years"

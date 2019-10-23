@@ -5,7 +5,7 @@ title:  ">= 5 years old"
 teaser: "<sup>e</sup>: joint first/corresponding. <sup>u</sup>:undergrad. <sup>h</sup>:high school student. <sup>v</sup>:visiting scholar. Bold: people from the Shiu lab. <sup>Review</sup>: review paper."
 header:
    image_fullwidth: "20171217_StarWars.JPG"
-permalink: "/publications_more_than_5_years/"
+permalink: "/publications_older/"
 ---
 
 [Click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
