@@ -17,11 +17,11 @@ permalink: "/publications_older/"
 
 **Moghe GD, Shiu SH** (2014) The causes and molecular consequences of polyploidy in flowering plants. *Ann N Y Acad Sci* 1320(1):16.<font color="blue"><sup>Rev</sup></font> [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24903334)
 
-**Moghe GD, Hufnagel DE<font color="red"><sup>u</sup></font> **, Tang H, Xiao Y, Dworkin I, Town CD, Conner JK, **Shiu SH** (2014) Consequences of whole genome triplication as revealed by comparative genomic analyses of the wild radish *Raphanus raphanistrum* and three other Brassicaceae species. *Plant Cell* 26(5):1925. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24876251)  [Annotation](http://radish.plantbiology.msu.edu/index.php/Sequence_and_Analysis#Genome_sequences_and_annotation)
+**Moghe GD, Hufnagel DE<font color="red"><sup>u</sup></font>**, Tang H, Xiao Y, Dworkin I, Town CD, Conner JK, **Shiu SH** (2014) Consequences of whole genome triplication as revealed by comparative genomic analyses of the wild radish *Raphanus raphanistrum* and three other Brassicaceae species. *Plant Cell* 26(5):1925. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24876251)  [Annotation](http://radish.plantbiology.msu.edu/index.php/Sequence_and_Analysis#Genome_sequences_and_annotation)
 
 **Shiu SH** (2014) Evolution of plant genomes. In *"Molecular Life Sciences: An Encyclopedic Reference", eds Bell E et al. (Springer)*. <font color="blue"><sup>Rev</sup></font> [publisher](http://link.springer.com/referenceworkentry/10.1007/978-1-4614-6436-5_105-2)
 
-Campbell M, Law MY, Holt C, Stein J, **Moghe G**, **Hufnagel D<font color="red"><sup>u</sup></font> **, Lei J, Achawanantakun R, Jiao D, Lawrence C, Ware D, **Shiu SH**, Childs K, Sun Y, Jiang N, Yandell M (2014) MAKER-P: a tool-kit for the rapid creation, management, and quality control of plant genome annotations. *Plant Physiol*164(2):513-24 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24306534)
+Campbell M, Law MY, Holt C, Stein J, **Moghe G**, **Hufnagel D<font color="red"><sup>u</sup></font>**, Lei J, Achawanantakun R, Jiao D, Lawrence C, Ware D, **Shiu SH**, Childs K, Sun Y, Jiang N, Yandell M (2014) MAKER-P: a tool-kit for the rapid creation, management, and quality control of plant genome annotations. *Plant Physiol*164(2):513-24 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24306534)
 
 ## 2013
 
@@ -29,7 +29,7 @@ Hua Z, Pool JE, Schmitz RJ, Schultz MD, **Shiu SH**, Ecker JR, Vierstra RD (2013
 
 Liu WY, Chang YM, Chen SC, Lu CH, Wu YH, Lu MY, Chen DR, Shih AC, Sheue CR, Huang HC, Yu CP, Lin HH, **Shiu SH**<font color="green"><sup>e</sup></font>, Ku M<font color="green"><sup>e</sup></font>, Li WH<font color="green"><sup>e</sup></font> (2013) Anatomical and transcriptional dynamics of maize embryonic leaves during seed germination. *Proc Natl Acad Sci, USA* 110:3979. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23431200)
 
-**Moghe GD, Lehti-Shiu MD**, **Seddon AE<font color="red"><sup>u</sup></font> **, **Yin S**, Chen Y, Juntawong P, Brandizzi F, Bailey-Serres J, **Shiu SH** (2013) Characteristics and significance of intergenic polyA RNA transcription in *Arabidopsis thaliana*. *Plant Physiol* 161(1):210-24. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23132786)
+**Moghe GD, Lehti-Shiu MD**, **Seddon AE<font color="red"><sup>u</sup></font>**, **Yin S**, Chen Y, Juntawong P, Brandizzi F, Bailey-Serres J, **Shiu SH** (2013) Characteristics and significance of intergenic polyA RNA transcription in *Arabidopsis thaliana*. *Plant Physiol* 161(1):210-24. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23132786)
 
 
 ## 2012
@@ -55,13 +55,13 @@ Joneson S, Stajich JE, **Shiu SH**, Rosenblum EB (2011) Genomic Transition to Pa
 
 Yang Y, Sage TL, Liu Y, Ahmad TR, Marshall WF, **Shiu SH**, Froehlich JE, Imre KM, Osteryoung KW (2011) CLUMPED CHLOROPLASTS 1 is required for plastid separation in Arabidopsis. *Proc Natl Acad Sci USA* 108(45):18530-5. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22025705)
 
-**Zou C, Sun K, Mackaluso JD<font color="red"><sup>u</sup></font> , Seddon AE<font color="red"><sup>u</sup></font> **, Jin R, Thomashow MF, **Shiu SH** (2011) Cis-regulatory code of stress responsive transcription in Arabidopsis thaliana. *Proc Natl Acad Sci USA* 108(36):14992-7. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/21849619)
+**Zou C, Sun K, Mackaluso JD<font color="red"><sup>u</sup></font> , Seddon AE<font color="red"><sup>u</sup></font>**, Jin R, Thomashow MF, **Shiu SH** (2011) Cis-regulatory code of stress responsive transcription in Arabidopsis thaliana. *Proc Natl Acad Sci USA* 108(36):14992-7. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/21849619)
 
 Schaller GE, **Shiu SH**, Armitage J (2011) Two-component systems and their co-option for eukaryotic signal transduction. *Current Biology* 21(9):R320-30. <font color="blue"><sup>Rev</sup></font>  [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/21549954)
 
 Carvallo MA, Pino MT, Jeknic Z, **Zou C**, Doherty CJ, **Shiu SH**, Chen TH, Thomashow MF (2011) A comparison of the low temperature transcriptomes and CBF regulons of three plant species that differ in freezing tolerance: *Solanum commersonii, Solanum tuberosum*, and *Arabidopsis thaliana*. *J Exp Bot* 62(11):3807-19. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/21511909)
 
-Hua Z, **Zou C**, **Shiu SH**, Vierstra RD (2011) Phylogenetic Comparison of F-Box (FBX) Gene Superfamily within the Plant Kingdom Reveals Divergent Evolutionary Histories Indicative of Genomic Drift. *PLoS ONE* 6(1):e16219. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/21297981)
+Hua Z, **Zou C, Shiu SH**, Vierstra RD (2011) Phylogenetic Comparison of F-Box (FBX) Gene Superfamily within the Plant Kingdom Reveals Divergent Evolutionary Histories Indicative of Genomic Drift. *PLoS ONE* 6(1):e16219. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/21297981)
 
 
 ## 2010
@@ -154,7 +154,7 @@ Gagne, J. M., Downes, B. P., **Shiu, S.-H.**, Durski, A. M., and Vierstra, R. D.
 
 Tzean, S.-S., S.-C. Chiu, J.-L. Chen, **S.-H. Hseu** (my last name was spelled wrong), G.-H. Lin, G.-Y. Liou, C.-C. Chen, and W.-H. Hsu. 1994. Penicillium and related teleomorphs from Taiwan. *Mycological Monograph No. 9.* Food Industry Research and Development Institute, Hsinchu, Taiwan. 
 
-Tzean, S.-S., J.-L. Chen, and **S.-H. Shiu.** 1992. Talaromyces unicus sp-nov from Taiwan. *Mycologia* 84: 739-749.   [PDF](http://shiulab.plantbiology.msu.edu/images/2/26/Mycologia92_talaromyces.pdf)
+Tzean, S.-S., J.-L. Chen, and **S.-H. Shiu.** 1992. Talaromyces unicus sp-nov from Taiwan. *Mycologia* 84: 739-749. [jstor](https://www.jstor.org/stable/3760384?seq=1#metadata_info_tab_contents)
 
 ## Papers published in the last 5 years ago
 [Click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
