@@ -7,6 +7,7 @@ header:
 permalink: "/publications_older/"
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en)
 [Click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
@@ -156,7 +157,6 @@ Tzean, S.-S., S.-C. Chiu, J.-L. Chen, **S.-H. Hseu** (my last name was spelled w
 
 Tzean, S.-S., J.-L. Chen, and **S.-H. Shiu.** 1992. Talaromyces unicus sp-nov from Taiwan. *Mycologia* 84: 739-749. [jstor](https://www.jstor.org/stable/3760384?seq=1#metadata_info_tab_contents)
 
-## Papers published in the last 5 years ago
 [Click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
 
 
