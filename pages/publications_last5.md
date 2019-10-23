@@ -3,7 +3,7 @@ layout: page
 subheadline:  "Publications"
 title:  "Recent papers"
 header:
-   image_fullwidth: "20171217_StarWars.JPG"
+   image_fullwidth: "mps_corridor.png"
 permalink: "/publications_last5/"
 ---
 
