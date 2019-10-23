@@ -7,30 +7,27 @@ header:
    image_fullwidth: "20140923_labphoto3.png"
 ---
 
-## Graduate student
-We are always looking for motivated students who are interested in multi-disciplinary works to bring experimental and quantitative biology together. Graduate students can enter through four degree granting programs in Michigan State:
+## Postdoctoral scientists
+Please send your CV to the PI (shius at msu dot edu) and inquire about whether there are open positions.
+
+## Graduate students
+We are always looking for motivated students who are interested in multi-disciplinary works to bring experimental and computational biology together. We'd suggest that you contact the PI (shius at msu dot edu) and inquire.
+
+If you are interested in working in our lab, please apply to one of graduate programs below and state your interest about our lab in your application. There are four degree granting programs in Michigan State the PI is affiliated with:
 
 - [The Plant Biology Department](https://cmse.msu.edu/)
 - [Computational Mathematics Science and Engineering](https://cmse.msu.edu/)
 - [The Cell & Molecular Biology Program](https://cmb.natsci.msu.edu/)
 - [The Genetics Program](https://ggs.natsci.msu.edu/)
 
-
-The lab is also affiliated with two inter-departmental programs that require affiliation with one of the above programs:
+In addition, the PI is also affiliated with two inter-departmental programs that require affiliation with one of the above degree granting units:
 
 - [The Ecology, Evolutionary Biology, & Behavior Program](https://eebb.natsci.msu.edu/)
-- [The Quantitative Biology & Modeling Initiative](https://qbi.natsci.msu.edu/)
+- [The Plant Breeding, Genetics, and Biotechnology](https://www.canr.msu.edu/pbgb/)
+- [The Molecular Plant Science Program](https://mps.natsci.msu.edu/)
 
-If you are interested in working in our lab, please apply to one of the above graduate programs and state your interest in our research program. If you want to know more about what we do, please contact the PI (shius at msu dot edu) for research experience or rotation.
-
-
-
-## Undergraduate programmer
-We are always interested in hiring qualified student for hourly position (10-20 hours per week, $7-12 per hour, rate depending on experiences and qualifications). Job responsibilities include writing data parser and database programming. Undergraduate (including freshman) and graduate students are both welcome to apply, but the following qualifications are desired:
-
-- Experience in python or perl programming.
-- Taken basic statistics courses.
-- Enthusiastic.
+## Undergraduate student
+We are always interested in hiring qualified students (particuarly those early in their college experiences) for hourly position (10-20 hours per week, $10-15 per hour, rate depending on experiences and qualifications). 
 
 Applicants should provide the following information in one file and send it to shius at msu dot edu:
 
