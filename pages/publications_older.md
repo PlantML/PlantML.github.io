@@ -9,7 +9,7 @@ permalink: "/publications_older/"
 
 [Click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
 
-"<font color="green"><sup>e</sup></font>: joint first/corresponding. <font color="red"><sup>u</sup></font>:undergrad. <sup>h</sup>:high school student. __Bold__: people from the Shiu lab. <font color="blue"><sup>Rev</sup></font>: review paper."
+__Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
 
 ## 2014
 
@@ -36,7 +36,7 @@ Liu WY, Chang YM, Chen SC, Lu CH, Wu YH, Lu MY, Chen DR, Shih AC, Sheue CR, Huan
 
 Vieler A<font color="green"><sup>e</sup></font>, **Wu G**<font color="green"><sup>e</sup></font>, Tsai CH, Bullard B, Cornish AJ, Harvey C, Reca IB, Thornburg C, Achawanantakun R, Buehl CJ, Campbell MS, Cavalier D, Childs KL, Clark TJ, Deshpande R, Erickson E, Armenia Ferguson A, Handee W, Kong Q, Li X, Liu B, Lundback S, Peng C, Roston RL, Sanjaya, Simpson JP, Terbush A, Warakanont J, Zäuner S, Farre EM, Hegg EL, Jiang N, Kuo MH, Lu Y, Niyogi KK, Ohlrogge J, Osteryoung KW, Shachar-Hill Y, Sears BB, Sun Y, Takahashi H, Yandell M, **Shiu SH**<font color="green"><sup>e</sup></font>, Benning C<font color="green"><sup>e</sup></font> (2012) Genome, Functional Gene Annotation, and Nuclear Transformation of the Heterokont Oleaginous Alga Nannochloropsis oceanica CCMP1779. *PLoS Genet* 8(11):e1003064. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/23166516) 
 
-**Lehti-Shiu MD, Shiu SH** (2012) Diversity and Function of the Protein Kinase Superfamily in Plants. *Philos Trans R Soc Lond B Biol Sci* 367(1602):2619-2639 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22889912), [pdf](http://shiulab.plantbiology.msu.edu/images/3/39/PhilTransRSocB12_Lehti-Shiu_plant_kinase_superfamily.pdf)
+**Lehti-Shiu MD, Shiu SH** (2012) Diversity and Function of the Protein Kinase Superfamily in Plants. *Philos Trans R Soc Lond B Biol Sci* 367(1602):2619-2639 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22889912)
 
 Savory EA, **Zou C**, Adhikari BN, Hamilton JP, Buell CR, **Shiu SH**, Day B (2012) Alternative Splicing of a Multi-Drug Transporter from Pseudoperonospora cubensis Generates an RXLR Effector Protein That Elicits a Rapid Cell Death. *PLoS One* 7(4):e34701 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22496844)
 
@@ -44,7 +44,7 @@ Davidson R, Gowda M, **Moghe G**, Lin H, Vaillancourt B, **Shiu SH**, Jiang N, B
 
 Tsai YC, Weir NR, Hill K, Zhang W, **Shiu SH**, Schaller GE and Kieber JJ (2012) Characterization of genes involved in cytokinin signaling and metabolism from rice. *Plant Physiol* 158(4):1666-84. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22383541)
 
-**Lehti-Shiu MD, Zou C, Shiu SH** (2012) Origin, Diversity, Expansion History and Functional Evolution of the Plant Receptor-Like Kinase/Pelle Family. In *"Signaling and Communication in Plants", eds Tax T, Kemmering B (Springer)*. <font color="blue"><sup>Rev</sup></font> [publisher](http://link.springer.com/chapter/10.1007%2F978-3-642-23044-8_1), [pdf](http://shiulab.plantbiology.msu.edu/images/f/f2/SignalCommInPlants12_Lehti-Shiu.pdf)
+**Lehti-Shiu MD, Zou C, Shiu SH** (2012) Origin, Diversity, Expansion History and Functional Evolution of the Plant Receptor-Like Kinase/Pelle Family. In *"Signaling and Communication in Plants", eds Tax T, Kemmering B (Springer)*. <font color="blue"><sup>Rev</sup></font> [publisher](http://link.springer.com/chapter/10.1007%2F978-3-642-23044-8_1)
 
 Takahashi H, Buchner P, Yoshimoto N, Hawkesford MJ, **Shiu SH** (2012) Evolutionary relationships and functional diversity of plant sulfate transporters. *Frontier in Plant Sci* 2:119.<font color="blue"><sup>Rev</sup></font>  [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/22629272)
 
@@ -88,7 +88,7 @@ Lin H, **Moghe G**, Ouyang S, Iezzoni A, **Shiu SH**, Gu X, Buell CR (2010) Comp
 
 **Hanada K**, **Zou C**, **Lehti-Shiu MD**, Shinozaki K, and **Shiu SH**. (2008) Importance of Lineage-Specific Expansion of Plant Tandem Duplicates in the Adaptive Responses to Environmental Stimuli. *Plant Physiol* 148:993-1003 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/18715958)
 
-Schaller GE, Kieber, JJ, and **Shiu, SH** (2008) Two-Component Signaling Elements and Histidyl-Aspartyl Phosphorelays. *The Arabidopsis Book* <font color="blue"><sup>Rev</sup></font> [publisher](http://www.bioone.org/doi/full/10.1199/tab.0112?cookieSet=1), [pdf](http://shiulab.plantbiology.msu.edu/images/1/13/ArabidopsisBook08_Schaller_two_component.pdf)
+Schaller GE, Kieber, JJ, and **Shiu, SH** (2008) Two-Component Signaling Elements and Histidyl-Aspartyl Phosphorelays. *The Arabidopsis Book* <font color="blue"><sup>Rev</sup></font> [publisher](http://www.bioone.org/doi/full/10.1199/tab.0112?cookieSet=1)
 
 Rensing SA, Lang D, Zimmer AD, Terry A, Salamov A, Shapiro H, Nishiyama T, Perroud PF, Lindquist EA, Kamisugi Y, Tanahashi T, Sakakibara K, Fujita T, Oishi K, Shin-I T, Kuroki Y, Toyoda A, Suzuki Y, Hashimoto S, Yamaguchi K, Sugano S, Kohara Y, Fujiyama A, Anterola A, Aoki S, Ashton N, Barbazuk WB, Barker E, Bennetzen JL, Blankenship R, Cho SH, Dutcher SK, Estelle M, Fawcett JA, Gundlach H, **Hanada K**, Heyl A, Hicks KA, Hughes J, Lohr M, Mayer K, Melkozernov A, Murata T, Nelson DR, Pils B, Prigge M, Reiss B, Renner T, Rombauts S, Rushton PJ, Sanderfoot A, Schween G, **Shiu SH**, Stueber K, Theodoulou FL, Tu H, Van de Peer Y, Verrier PJ, Waters E, Wood A, Yang L, Cove D, Cuming AC, Hasebe M, Lucas S, Mishler BD, Reski R, Grigoriev IV, Quatrano RS, Boore JL (2008) The genome of the moss Physcomitrella patens reveals evolutionary insights into the conquest of land by plants. *Science* 319:64-69 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/18079367)
 
@@ -147,7 +147,7 @@ Gagne, J. M., Downes, B. P., **Shiu, S.-H.**, Durski, A. M., and Vierstra, R. D.
 
 **Shiu, S.-H.**, and Bleecker, A. B. (2001). Receptor-like kinases from Arabidopsis form a monophyletic gene family related to animal receptor kinases. *Proc Natl Acad Sci U S A* 98, 10763-10768. [pubmed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11526204&query_hl=4&itool=pubmed_docsum)
 
-**Shiu, S.-H.** (2001). Characterization of the receptor-like kinase TMK1 and molecular evolution of the receptor-like kinase gene family in Arabidopsis thaliana (Doctoral dissertation). University of Wisconsin, Madison, WI, USA.    [PDF](http://shiulab.plantbiology.msu.edu/images/8/88/Shiu_thesis.pdf)
+**Shiu, S.-H.** (2001). Characterization of the receptor-like kinase TMK1 and molecular evolution of the receptor-like kinase gene family in Arabidopsis thaliana (Doctoral dissertation). University of Wisconsin, Madison, WI, USA.
 
 
 ## Shiu undregraduate research

@@ -9,9 +9,9 @@ permalink: "/publications_last5/"
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
 
-"<font color="green"><sup>e</sup></font>: joint first/corresponding. <font color="red"><sup>u</sup></font>:undergrad. <sup>h</sup>:high school student. __Bold__: people from the Shiu lab. <font color="blue"><sup>Rev</sup></font>: review paper."
+__Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
 
-## Submitted manuscripts in bioRxiv
+## Pre-prints
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Factors influencing read coverage variation in a genome assembled using short reads. *bioRxiv* DOI: 10.1101/790337
 [bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2019/10/02/790337.full.pdf)
@@ -30,7 +30,7 @@ Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements 
 
 **Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae. *Scientific Reports* 9:12122 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31431676)
 
-**Panchy NL**, **Azodi CB**, Winship EF<font color="red"><sup>u</sup></font>, **Shiu SH** (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics* 19:77 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30866803)
+**Panchy NL, Azodi CB, Winship EF<font color="red"><sup>u</sup></font>, Shiu SH** (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics* 19:77 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30866803)
 
 Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2019) A comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes. *Proc. Natl. Acad. Sci., USA* 116(8):3091-3099 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30718437)
 
@@ -42,7 +42,7 @@ Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, 
 
 **Liu MJ**, Sugimoto K, **Uygun, S**, **Panchy NL**, Campbell M, Yandell M, Howe GA, **Shiu SH** (2018) Regulatory Divergence In Wound-Responsive Gene Expression In Domesticated And Wild Tomato. *Plant Cell* 30(7):1445-1460 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
 
-**Lloyd JP**, **Tsai ZTY**, Sowers RP<font color="red"><sup>u</sup></font>, **Panchy NL**, **Shiu SH** (2018) A model-based approach for identifying functional intergenic transcribed regions and non-coding RNAs. *Mol. Biol. Evol.* 35(6):1422-1436 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29554332)
+**Lloyd JP, Tsai ZTY, Sowers RP<font color="red"><sup>u</sup></font>, Panchy NL, Shiu SH** (2018) A model-based approach for identifying functional intergenic transcribed regions and non-coding RNAs. *Mol. Biol. Evol.* 35(6):1422-1436 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29554332)
 
 Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N Deprivation Is a Transcriptionally and Functionally Distinct State in Chlamydomonas. *Plant Physiol.* 176(3):2007-2023 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29288234) 
 
@@ -80,15 +80,13 @@ Poliner E, **Panchy N**, Newton L, **Wu G**, Lapinsky A, Bullard B, Zienkiewicz 
 
 Peng C, **Uygun S**, **Shiu SH**, Last R. (2015) The Impact of the Branched-Chain Ketoacid Dehydrogenase Complex on Amino Acid Homeostasis in Arabidopsis. *Plant Physiol*. 169(3):1807-20. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25986129)
 
-**Lehti-Shiu MD<font color="green"><sup>e</sup></font>**, **Uygun S**, **Moghe, GD**, **Panchy N**, **Fang L**, **Hufnagel D<font color="red"><sup>u</sup></font>**, **Jasicki HL<sup>h</sup>**, Feig M, **Shiu SH<font color="green"><sup>e</sup></font>**. (2015) Molecular evidence for functional divergence and decay of a transcription factor derived from whole genome duplication in Arabidopsis thaliana. *Plant Physiol.* 168(4):1717-34. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26103993)
+**Lehti-Shiu MD<font color="green"><sup>e</sup></font>**, **Uygun S**, **Moghe, GD**, **Panchy N**, **Fang L**, **Hufnagel D<font color="red"><sup>u</sup></font>**, **Jasicki HL<font color="orange"><sup>h</sup></font>**, Feig M, **Shiu SH<font color="green"><sup>e</sup></font>**. (2015) Molecular evidence for functional divergence and decay of a transcription factor derived from whole genome duplication in Arabidopsis thaliana. *Plant Physiol.* 168(4):1717-34. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26103993)
 
 Yu CP, Chen SC, Chang YM, Liu WY, Lin HH, Lin JJ, Chen HJ, Lu YJ, Wu YH, Lu MY, Lu CH, Shih AC, Ku MS, **Shiu SH<font color="green"><sup>e</sup></font>**, Wu SH<font color="green"><sup>e</sup></font>, Li WH<font color="green"><sup>e</sup></font>. (2015) Transcriptome dynamics of developing maize leaves and genome-wide prediction of cis elements and their cognate transcription factors. *Proc. Natl. Acad. Sci., USA* 112(19):E2477-86. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25918418)
 
 **Wu G**, **Hufnagel DE<font color="red"><sup>u</sup></font>**, **Denton AK**, **Shiu SH** (2015) Retained duplicate genes in green alga Chlamydomonas reinhardtii tend to be stress response genes and experience frequent response gains. *BMC Genomics* 16:149. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25880851)
 
 Law M, Childs KL, Campbell MS, Stein D, Holt C, **Panchy N**, Lei J, Achawanantakun R, Jiao D, Andorf CM, Lawrence CJ, Ware D, **Shiu SH**, Sun Y, Jiang N, Yandell M (2015) Automated update, revision and quality control of the Zea mays genome annotations using MAKER-P improves the B73 RefGen_v3 gene models and identifies new genes. *Plant Physiol.* 167(1):25-39 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25384563)
-
-## Papers published >5 years ago
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
 
