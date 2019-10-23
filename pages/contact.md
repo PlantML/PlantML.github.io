@@ -7,7 +7,7 @@ permalink: "/contact/"
 
 **Lab location**
 
-S-2265 Molecular Plant Sciences Bldg.
+2265 Molecular Plant Sciences Bldg.
 
 Dept. of Plant Biology
 

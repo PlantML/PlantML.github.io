@@ -1,11 +1,11 @@
 - menu_name: "Useful Links"
 
-- name: "MSU Department of Plant Biology"
+- name: "MSU Plant Biology"
   url: "https://plantbiology.natsci.msu.edu/"
   class: "network-entypo"
   title: "MSU PLB"
 
-- name: "MSU Department of Computational Mathematics Science & Engineering"
+- name: "MSU Comp. Math., Sci. & Engr"
   url: "https://cmse.msu.edu/"
   class: "services-newsletter"
   title: "MSU CMSE"
