@@ -136,7 +136,6 @@ Mudgil, Y.<sup>e</sup>, **Shiu, S.-H.**<sup>e</sup>, Stone, S. L., Salt, J. N., 
 
 Nakhamchik, A., Zhao, Z., Provart, N. J., **Shiu, S.-H.**, Keatley, S. K., Cameron, R. K., and Goring, D. R. (2004). A comprehensive expression analysis of the Arabidopsis proline-rich extensin-like receptor kinase gene family using bioinformatic and experimental approaches. *Plant Cell Physiol* 45, 1875-1881. [pubmed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15653807&query_hl=4&itool=pubmed_docsum)
 
-
 ## Shiu doctoral research
 
 **Shiu, S.-H.**, and Bleecker, A. B. (2003). Expansion of the receptor-like kinase/Pelle gene family and receptor-like proteins in Arabidopsis. *Plant Physiol* 132, 530-543. [pubmed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=12805585&query_hl=4&itool=pubmed_docsum)
