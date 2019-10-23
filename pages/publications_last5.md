@@ -1,7 +1,7 @@
 ---
 layout: page
-#subheadline:  "Publications"
-title:  "Publications: Last 5 years"
+subheadline:  "Publications"
+title:  "Recent papers"
 
 "<sup>e</sup>: joint first/corresponding. <sup>u</sup>:undergrad. <sup>h</sup>:high school student. <sup>v</sup>:visiting scholar. Bold: people from the Shiu lab. <sup>Review</sup>: review paper."
 header:
