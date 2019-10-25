@@ -8,5 +8,5 @@ header:
 permalink: "/activities_social/"
 ---
 
-## 2019
+Under construction...
 
