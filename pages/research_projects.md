@@ -9,10 +9,12 @@ permalink: "/research_projects/"
 ---
 
 # Evolution of genome contents
-Genome size variation in major plant taxonomic groups.There are 2,500 fold differences in plant genome size, ranging from ~60 million bases in Genlisea margaretae, a carnivorous plant, to 150 billion bases in Paris japonica, the canopy plant. Unlike other eukaryotes, plants also tend to have younger new genes in gene families than other species. With the increasing ease in sequencing and assessing expression of the entire genome of any species, many parts of the genomes that are between known genes are now found to be expressed. For more information, check out
+[]()  | 
+Genome size variation in major plant taxonomic groups.There are 2,500 fold differences in plant genome size, ranging from ~60 million bases in Genlisea margaretae, a carnivorous plant, to 150 billion bases in Paris japonica, the canopy plant. Unlike other eukaryotes, plants also tend to have younger new genes in gene families than other species. With the increasing ease in sequencing and assessing expression of the entire genome of any species, many parts of the genomes that are between known genes are now found to be expressed. | ![cvalue](https://github.com/ShiuLab/ShiuLab.github.io/blob/master/images/research/research_cvalue.png)
+For more information, check out
 
-- Our review paper discussing evolution of duplicate genes in plants.
-- Two studies integrating multi-omics datasets with machine learning methods to identify functional region in Arabidopsis thaliana and in human genomes.
+- Our review paper discussing [evolution of duplicate genes in plants](https://www.ncbi.nlm.nih.gov/pubmed/27288366).
+- Two studies integrating multi-omics datasets with machine learning methods to identify functional region [in Arabidopsis thaliana](https://www.ncbi.nlm.nih.gov/pubmed/29554332) and [in human genomes](https://www.ncbi.nlm.nih.gov/pubmed/28398576).
 
 
 # Evolution of transcriptional response to stress
