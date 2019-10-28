@@ -9,7 +9,7 @@ permalink: "/research_projects/"
 ---
 
 # Evolution of genome contents
-<img align="left" width="100" height="100" src="https://github.com/ShiuLab/ShiuLab.github.io/blob/master/images/research/research_cvalue.png"> 
+<img align="left" width="150" height="150" src="https://github.com/ShiuLab/ShiuLab.github.io/blob/master/images/research/research_cvalue.png"> 
 Genome size variation in major plant taxonomic groups.There are 2,500 fold differences in plant genome size, ranging from ~60 million bases in Genlisea margaretae, a carnivorous plant, to 150 billion bases in Paris japonica, the canopy plant. Unlike other eukaryotes, plants also tend to have younger new genes in gene families than other species. With the increasing ease in sequencing and assessing expression of the entire genome of any species, many parts of the genomes that are between known genes are now found to be expressed. For more information, check out
 
 - Our review paper discussing [evolution of duplicate genes in plants](https://www.ncbi.nlm.nih.gov/pubmed/27288366).
@@ -17,7 +17,7 @@ Genome size variation in major plant taxonomic groups.There are 2,500 fold diffe
 
 
 # Evolution of transcriptional response to stress
-<img align="left" width="200" height="100" src="https://github.com/ShiuLab/ShiuLab.github.io/blob/master/images/research/research_cisreg.png"> 
+<img align="left" width="150" height="100" src="https://github.com/ShiuLab/ShiuLab.github.io/blob/master/images/research/research_cisreg.png"> 
 Gain and loss of stress responses among duplicate genes.Under stressful environment, the expression of hundreds to thousands of genes changes at once. This response is essential for setting up proper physiological and developmental programs in plants so they can survive in adverse environment. Thus, proper response to stress is most likely under significant amount of selective pressure. 
 
 Example publications:
