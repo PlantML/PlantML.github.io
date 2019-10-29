@@ -4,7 +4,7 @@ title: "Want to join the Shiu Lab?"
 subheadline: "People"
 permalink: "/people_join_us/"
 header:
-   image_fullwidth: "20140923_labphoto3.png"
+   image_fullwidth: "lab_140923.png"
 ---
 
 ## Postdoctoral scientists
