@@ -9,7 +9,7 @@
   - title: "Mission"
     url: "/about_mission/"
   - title: "News"
-  url: "/about_news/"
+    url: "/about_news/"
   
 - title: "People"
   url: "/people_current/"
