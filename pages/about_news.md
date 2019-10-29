@@ -4,7 +4,7 @@ title: "News"
 subheadline: "About"
 permalink: "/about_news/"
 header:
-    image_fullwidth: "header_homepage_13.jpg"
+    image_fullwidth: "header_mps.png"
 ---
 
 ## 10/20/19: Ronan is here!

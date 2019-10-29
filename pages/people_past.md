@@ -11,14 +11,14 @@ header:
 
 <table style="width:90%">
   <tr>
-    <td><img src="../images/people_past/50px-Zing-150307.jpg" align="left" height="40px"></td>
+    <td><img src="../images/people_past/50px-Zing-150307.jpg" height="40px"></td>
     <td>Zing Tsung-Yeh Tsai (2014-16)</td>
     <td>Bioinformatics scientist, Illumina Inc.</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Liu.jpg" height="40px"> </td>
     <td>Ming Jung Liu (2013-16)</td>
-    <td>Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica</td>
+    <td>Assistant Research Fellow, Academia Sinica</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Kelian_sun.jpeg" height="40px"> </td>
@@ -39,9 +39,6 @@ header:
 
 ## Graduate students
 <table style="width:90%">
-
-
- . Current: Post Doc at National Institute of Mathematical and Biological Synthesis
   <tr>
     <td><img src="../images/people_past/50px-Panchy2.jpg" height="40px"> </td>
     <td>Nicholas Panchy, PhD (2011-17)</td>
@@ -138,12 +135,10 @@ header:
     <td>Benjamin Wolf (2010-11)</td>
     <td>Plant Biology</td>
   </tr>
-<img src="../images/people_past/50px-Plotas.jpg" height="40px"> 
-Stephanie Plotas (2009-13) Interdisc. studies in Arts &amp; Humanities, MSU. 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="../images/people_past/50px-Plotas.jpg" height="40px"></td>
+    <td>Stephanie Plotas (2009-13)</td>
+    <td>Interdisc. studies in Arts</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Boniface.jpg" height="40px"></td>
@@ -174,8 +169,6 @@ Stephanie Plotas (2009-13) Interdisc. studies in Arts &amp; Humanities, MSU.
 
 ## Undergrads (REU)
 <table style="width:90%">
-
-. . .
   <tr>
     <td><img src="../images/people_past/50px-EmilyBolger.jpg" height="40px"></td>
     <td>Emily Bolger (2019)</td>
