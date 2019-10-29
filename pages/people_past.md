@@ -9,22 +9,42 @@ header:
 
 ## Postdoctoral scholars
 
-<img src="../images/people_past/50px-Zing-20150307.jpg" align="left" height="30px">
-[**Zing Tsung-Yeh Tsai**](https://sites.google.com/site/zingtyt/) (2014-2016). Bioinformatics scientist at Illumina Inc. 
-
-<img src="../images/people_past/50px-Liu.jpg" align="left" height="30px"> 
-**Ming Jung Liu** (2013-2016). Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica.
-
-<img src="../images/people_past/50px-Kelian_sun.jpeg" align="left" height="30px"> 
-**Kelian Sun** (2009-2011). Reseach associate, Marc Basson Lab, MSU.
-
-<img src="../images/people_past/50px-Zou.jpg" align="left" height="30px"> 
-[**Cheng Zou**](https://www.researchgate.net/profile/Cheng_Zou) (2006-2011) Postdoctoral Associate, Institute of Biotech, Cornell University.
-
-<img src="../images/people_past/50px-Hanada.gif" align="left" height="30px"> 
-[**Kousuke Hanada**](http://labo.bio.kyutech.ac.jp/~kohanada/profile.htm) (2006-2007). Associate Professor,  Kyushu Institute of Technology, Fukuoka, Japan.
+<table style="width:90%">
+  <tr>
+    <td><img src="../images/people_past/50px-Zing-20150307.jpg" align="left" height="40px"></td>
+    <td>Zing Tsung-Yeh Tsai (2014-16)</td>
+    <td>Bioinformatics scientist, Illumina Inc.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Liu.jpg" height="40px"> </td>
+    <td>Ming Jung Liu (2013-16)</td>
+    <td>Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Kelian_sun.jpeg" height="40px"> </td>
+    <td>Kelian Sun (2009-11)</td>
+    <td>Reseach associate, Marc Basson Lab, MSU</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Zou.jpg" height="40px"> </td>
+    <td>Cheng Zou (2006-11)</td>
+    <td> Postdoctoral Associate, Institute of Biotech, Cornell University</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Hanada.gif" height="40px"> </td>
+    <td>Kousuke Hanada (2006-07)</td>
+    <td>Associate Professor,  Kyushu Institute of Technology, Fukuoka, Japan</td>
+  </tr>
+</table> 
 
 ## Graduate students
+<table style="width:90%">
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table> 
 
 <img src="../images/people_past/50px-Panchy2.jpg" align="left" height="30px"> 
 **Nicholas Panchy** (2011-2017) PhD, Genetics. Current: Post Doc at National Institute of Mathematical and Biological Synthesis
@@ -48,6 +68,14 @@ header:
 **Shan Yin** (2008-2010) MS, Plant Biology
 
 ## Undergrads 
+<table style="width:90%">
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table> 
+
 <img src="../images/people_past/50px-Donaldson.png" align="left" height="30px"> 
 **Paityn Donaldson** (2017-2019) Mol Gen/Genom, Pharm, MSU.
 
@@ -106,6 +134,13 @@ header:
 **Emily Eckenrode** (2006-2007) Animal Science, MSU. 
 
 ## Summer undergrads
+<table style="width:90%">
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table> 
 
 <img src="../images/people_past/50px-EmilyBolger.jpg" align="left" height="30px"> 
 **Emily Bolger** (Summer 2019). Mathematics, Moravian College. [ACRES REU](https://icer-acres.msu.edu/).
@@ -141,6 +176,13 @@ header:
 **Juyeon Park** (Summer 2007). Williams College. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
 
 ## Summer high school students
+<table style="width:90%">
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table> 
 
 <img src="../images/people_past/50px-JFishman_mod.png" align="left" height="30px"> 
 **Jeffrey Fishman** (Summer 2017). Upper Dublin High School, Washington, Pennsylvania.
@@ -164,6 +206,13 @@ header:
 **Tanmay Prakash** (Summer 2006). Novi High School, Novi, MI. [HSHSP Program](https://education.msu.edu/hshsp/).
 
 ## Visiting scholars
+<table style="width:90%">
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table> 
 
 <img src="../images/people_past/50px-Xu_Liang.jpg" align="left" height="30px"> 
 **Liang Xu** (2017-2019) Visiting scholar.
