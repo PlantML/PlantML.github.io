@@ -9,7 +9,7 @@ permalink: "/research_projects/"
 ---
 
 ### Evolution of genome contents
-<a href="https://www.ncbi.nlm.nih.gov/pubmed/11526204"><img src="../images/research/research_subfunction.png" align="right" width="300"> 
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/11526204"><img src="../images/research/research_subfunction.png" align="right" width="300"></a> 
 How did genome evolve and what were the drivers? These questions are prompted by the observations that plants tend to have younger duplicate genes compared to other species, mainly due to frequent whole genome duplications. Example publications in this area:
 - A Plant Physiology review discussing [evolution of duplicate genes in plants](https://www.ncbi.nlm.nih.gov/pubmed/27288366).
 - An early PNAS paper documenting [the dramatic expansion of the receptor-like kinase family in plants](https://www.ncbi.nlm.nih.gov/pubmed/11526204) that kickstarted the PI's interests in evolution.
