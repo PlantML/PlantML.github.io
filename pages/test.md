@@ -10,8 +10,7 @@ permalink: "/test/"
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| <img src="../images/people_past/50px-Zing-20150307.jpg" align="left" height="30px">  
-| [__Zing Tsung-Yeh Tsai__](https://sites.google.com/site/zingtyt/) (2014-2016). Bioinformatics scientist at Illumina Inc.  |
+| <img src="../images/people_past/50px-Zing-20150307.jpg" align="left" height="30px">| [__Zing Tsung-Yeh Tsai__](https://sites.google.com/site/zingtyt/) (2014-2016). Bioinformatics scientist at Illumina Inc.  |
 
  
 
