@@ -41,7 +41,7 @@ We are interested in deciphering the cis-regulatory code, i.e., how cis-regulato
 - Our Plant Physiology papers detailing predictive models of [plant organ](https://www.ncbi.nlm.nih.gov/pubmed/28373393) and [cell-type](https://www.ncbi.nlm.nih.gov/pubmed/31551359) transcriptional response to stress.
 
 ### Machine learning for predictive biology
-<img align="right" height="15-px" src="../images/research/research_ml.png"/> 
+<img align="right" height="150px" src="../images/research/research_ml.png"/> 
 Biology has become a data-rich discipline with a rapid influx of heterogeneous data in a rapid pace. Novel ways in looking at these data have the potential to answer new questions, make high quality predictions of many biological phenomenons with machine learning models, and, from these predictive models, better understand the underlying mechanisms. Check out:
 - Our study in PLoS Computational Biology on integrating sequence motif, chromatin state, and DNA structural information to [predict transcription factor binding site in yeast](https://www.ncbi.nlm.nih.gov/pubmed/26291518).
 - Our PNAS paper combining a large number of heterogeneous characteristics to [predict whether an enzyme gene is involved in specialized metabolism or not](https://www.ncbi.nlm.nih.gov/pubmed/30674669).
