@@ -36,7 +36,7 @@ callforaction:
   url: "/people_join_us/"
   text: Check out position openings ›
   style: alert
-permalink: "/about_mission/"
+permalink: index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
