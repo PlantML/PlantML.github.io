@@ -8,6 +8,6 @@ header:
 permalink: "/test/"
 ---
 
-![test image size](../images/research/research_subfunction.png?s=200px)
-![test image size](../images/research/research_subfunction.png?s=100px)
-![test image size](../images/research/research_subfunction.png?s=50px)
+![test image size1](../images/research/research_subfunction.png?s=20)
+![test image size2](../images/research/research_subfunction.png?s=40)
+![test image size3](../images/research/research_subfunction.png?s=100)
