@@ -7,7 +7,7 @@ header:
     image_fullwidth: "header_homepage_13.jpg"
 ---
 
-## Research
+## [Research](/research_projects/)
 
 The three long-term goals of our research program are to: 
 * Understand the evolutionary processes that contribute to the variation in genome content within and between species,
