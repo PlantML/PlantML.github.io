@@ -8,11 +8,11 @@ header:
 permalink: "/test/"
 ---
 
-<img src="../images/research/research_subfunction.png" align="right" width="50">
+<img src="../images/research/research_subfunction.png" align="right" height="50">
 Test1
 
-<img src="../images/research/research_subfunction.png" width="100">
+<img src="../images/research/research_subfunction.png" height="100">
 Test 2
 
-<img src="../images/research/research_subfunction.png" width="200">
+<img src="../images/research/research_subfunction.png" height="200">
 Test 3
