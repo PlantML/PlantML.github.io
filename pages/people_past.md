@@ -9,7 +9,7 @@ header:
 
 ## Postdoctoral scholars
 
-<table style="width:90%">
+<table style="width:100%">
   <tr>
     <td><img src="../images/people_past/50px-Zing-150307.jpg" height="40px"></td>
     <td>Zing Tsung-Yeh Tsai (2014-16)</td>
@@ -38,7 +38,7 @@ header:
 </table> 
 
 ## Graduate students
-<table style="width:90%">
+<table style="width:100%">
   <tr>
     <td><img src="../images/people_past/50px-Panchy2.jpg" height="40px"> </td>
     <td>Nicholas Panchy, PhD (2011-17)</td>
@@ -84,7 +84,7 @@ header:
 </table> 
 
 ## Undergrads (MSU)
-<table style="width:90%">
+<table style="width:100%">
   <tr>
     <td><img src="../images/people_past/50px-Donaldson.png" height="40px"> </td>
     <td>Paityn Donaldson (2017-19)</td>
@@ -168,7 +168,7 @@ header:
 </table> 
 
 ## Undergrads (REU)
-<table style="width:90%">
+<table style="width:100%">
   <tr>
     <td><img src="../images/people_past/50px-EmilyBolger.jpg" height="40px"></td>
     <td>Emily Bolger (2019)</td>
@@ -227,7 +227,7 @@ header:
 </table> 
 
 ## High school students
-<table style="width:90%">
+<table style="width:100%">
   <tr>
     <td><img src="../images/people_past/50px-JFishman_mod.png" height="40px"> </td>
     <td>Jeffrey Fishman (2017)</td>
@@ -266,7 +266,7 @@ header:
 </table> 
 
 ## Visiting scholars
-<table style="width:90%">
+<table style="width:100%">
   <tr>
     <td><img src="../images/people_past/50px-Xu_Liang.jpg" height="40px"></td>
     <td>Liang Xu (2017-19)</td>
@@ -312,8 +312,6 @@ header:
     <td>Yi Lee (2010-11)</td>
     <td>Professor, Chungbuk National University, South Korea</td>
   </tr>
- 
- PhD student (Chaw lab, Academia Sinica), Forestry, National Taiwan University
   <tr>
     <td><img src="../images/people_past/50px-No_image.jpg" height="40px"></td>
     <td>Chung-Shien Wu (2006)</td>
