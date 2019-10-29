@@ -15,7 +15,7 @@ permalink: "/research_projects/"
 ## Current research foci
 
 ### Evolution of genome contents
-<img align="right" height="250" src="https://github.com/ShiuLab/ShiuLab.github.io/blob/master/images/research/research_subfunction.png"> 
+<img align="right" height="250" src="images/research/research_subfunction.png"> 
 How did genome evolve and what were the drivers? These questions are prompted by the observations that plants tend to have younger duplicate genes compared to other species, mainly due to frequent whole genome duplications. Example publications in this area:
 - A Plant Physiology review discussing [evolution of duplicate genes in plants](https://www.ncbi.nlm.nih.gov/pubmed/27288366).
 - An early PNAS paper documenting [the dramatic expansion of the receptor-like kinase family in plants](https://www.ncbi.nlm.nih.gov/pubmed/11526204) that kickstarted the PI's interests in evolution.
