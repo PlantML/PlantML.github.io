@@ -11,7 +11,7 @@ header:
 
 <table style="width:90%">
   <tr>
-    <td><img src="../images/people_past/50px-Zing-20150307.jpg" align="left" height="40px"></td>
+    <td><img src="../images/people_past/50px-Zing-150307.jpg" align="left" height="40px"></td>
     <td>Zing Tsung-Yeh Tsai (2014-16)</td>
     <td>Bioinformatics scientist, Illumina Inc.</td>
   </tr>
@@ -39,213 +39,296 @@ header:
 
 ## Graduate students
 <table style="width:90%">
+
+
+ . Current: Post Doc at National Institute of Mathematical and Biological Synthesis
   <tr>
-    <td></td>
-    <td></td>
+    <td><img src="../images/people_past/50px-Panchy2.jpg" height="40px"> </td>
+    <td>Nicholas Panchy, PhD (2011-17)</td>
+    <td>PhD, Genetics</td>
+    <td>Postdoctoral associate, Natl. Inst. Math. Biol. Syn., University of Tennessee</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Lloyd.jpg" height="40px"> </td>
+    <td>Johnny Lloyd (2012-17)</td>
+    <td>PhD, Plant Biology</td>
+    <td>Postdoctoral associate, University of Michigan</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Uygun.jpg" height="40px"> </td>
+    <td>Sahra Uygun (2011-17)</td>
+    <td>PhD, Genetics</td>
+    <td>Bioinformatic scientist, Agendia Inc.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Seddon.jpg" height="40px"> </td>
+    <td>Alex Seddon (undergrad: 2009-11, grad: 2013-15)</td>
+    <td>MS, Plant Biology</td>
+    <td>Course manager, College of Ved. Med., MSU</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-GauravPic.jpg" height="40px"> </td>
+    <td>Gaurav Moghe (2007-13)</td>
+    <td>PhD, Genetics/QB</td>
+    <td>Assistant Professor, Cornell University</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Guangxi.jpg" height="40px"> </td>
+    <td>Guangxi Wu (2009-13)</td>
+    <td>PhD, CMB</td>
+    <td>Scientist, Zymo Research Inc.</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Yin2.png" height="40px"> </td>
+    <td>Shan Yin (2008-10)</td>
+    <td>MS, Plant Biology</td>
     <td></td>
   </tr>
 </table> 
 
-<img src="../images/people_past/50px-Panchy2.jpg" align="left" height="30px"> 
-**Nicholas Panchy** (2011-2017) PhD, Genetics. Current: Post Doc at National Institute of Mathematical and Biological Synthesis
-
-<img src="../images/people_past/50px-Lloyd.jpg" align="left" height="30px"> 
-[**Johnny Lloyd**](https://github.com/johnplloyd) (2012-2017) PhD, Genetics. Current: Post Doc at the University of Michigan
-
-<img src="../images/people_past/50px-Uygun.jpg" align="left" height="30px"> 
-**Sahra Uygun** (2011-2017) PhD, Genetics. Current: Agendia 
-
-<img src="../images/people_past/50px-Seddon.jpg" align="left" height="30px"> 
-**Alex Seddon** (2013-2015 & undergrad from 2009-2011) MS, Plant Biology. Current: Course Manager, College of Ved. Med., MSU
-
-<img src="../images/people_past/50px-GauravPic.jpg" align="left" height="30px"> 
-[**Gaurav Moghe**](https://www.moghelab.org/) (2007-2013) PhD., Genetics/QB. Current: Assistant Professor, Cornell Univ.
-
-<img src="../images/people_past/50px-Guangxi.jpg" align="left" height="30px"> 
-**Guangxi Wu** (2009-2013) PhD, CMB. Current: Postdoctoral Fellow, Colorado State University
-
-<img src="../images/people_past/50px-Yin2.png" align="left" height="30px"> 
-**Shan Yin** (2008-2010) MS, Plant Biology
-
-## Undergrads 
+## Undergrads (MSU)
 <table style="width:90%">
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="../images/people_past/50px-Donaldson.png" height="40px"> </td>
+    <td>Paityn Donaldson (2017-19)</td>
+    <td>Mol Gen/Genom, Pharm</td>
   </tr>
-</table> 
-
-<img src="../images/people_past/50px-Donaldson.png" align="left" height="30px"> 
-**Paityn Donaldson** (2017-2019) Mol Gen/Genom, Pharm, MSU.
-
-<img src="../images/people_past/50px-Gibbons.png" align="left" height="30px"> 
-**Lizzie Gibbons** (2018-2019) Plant Biology, MSU.
-
-<img src="../images/people_past/50px-Poe.jpg" align="left" height="30px"> 
-**Dante Poe** (2016-2019) Biotech & Mol Bio, MSU.
-
-<img src="../images/people_past/50px-Baxter.jpg" align="left" height="30px"> 
-**Melissa Baxter** (2016-2017) Plant Biology, MSU.
-
-<img src="../images/people_past/50px-Stankiewicz.jpg" align="left" height="30px"> 
-**Sebastian Stankiewicz** (2013-2016) Packaging, MSU.
-
-<img src="../images/people_past/50px-Winship.jpg" align="left" height="30px"> 
-**Eamon Winship** (2015-2016) Biochem. &amp; Mol. Biol., MSU.
-
-<img src="../images/people_past/50px-NickJr.jpeg" align="left" height="30px"> 
-**Nicholas Reuter** (2015) Computer Science, MSU.
-
-<img src="../images/people_past/50px-Findley.jpg" align="left" height="30px"> 
-**Anthony Findley** (2014-2015) Microbiol. &amp; Mol. Genet., MSU.
-
-<img src="../images/people_past/50px-Gomulinski.jpg" align="left" height="30px"> 
-**Mark Gomulinski** (2013-2015) Psychology, MSU.
-
-<img src="../images/people_past/50px-LiuJ.jpeg" align="left" height="30px"> 
-**Jennifer Liu** (2012-2013) English/Business, MSU.
-
-<img src="../images/people_past/50px-DavidHufnagel.jpg" align="left" height="30px"> 
-**David Hufnagel** (2011-2013) Biological Sciences, MSU. 
-
-<img src="../images/people_past/50px-Wolf.jpg" align="left" height="30px"> 
-**Ben Wolf** (2010-2011) Plant Biology, MSU.
-
-<img src="../images/people_past/50px-Plotas.jpg" align="left" height="30px"> 
-**Stephanie Plotas** (2009-2013) Interdisc. studies in Arts &amp; Humanities, MSU. 
-
-<img src="../images/people_past/50px-Boniface.jpg" align="left" height="30px"> 
-**Jordan Boniface** (2008-2009) Pre-veterinary/Animal Science, MSU. Professorial Assistant.
-
-<img src="../images/people_past/50px-Mackaluso.jpg" align="left" height="30px"> 
-**Josh Mackaluso** (2008-2010) BS, Biochemistry/Computer Science, MSU.
-
-<img src="../images/people_past/50px-Oswald.jpg" align="left" height="30px"> 
-**Jessica Anne Oswald** (2007-2008) Zoology, MSU.
-
-<img src="../images/people_past/50px-Tabbert.jpg" align="left" height="30px"> 
-**Amanda Tabbert** (2007-2010) Teacher Education, MSU. 
-
-<img src="../images/people_past/50px-Jeong.jpg" align="left" height="30px"> 
-**Hogyeong Jeong** (2006) Computer Science and Engineering/Statistics, MSU.
-
-<img src="../images/people_past/50px-Eckenrode.jpg" align="left" height="30px"> 
-**Emily Eckenrode** (2006-2007) Animal Science, MSU. 
-
-## Summer undergrads
-<table style="width:90%">
+  <tr>
+    <td><img src="../images/people_past/50px-Gibbons.png" height="40px"> </td>
+    <td>Lizzie Gibbons (2018-19)</td>
+    <td>Plant Biology</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Poe.jpg" height="40px"> </td>
+    <td>Dante Poe (2016-19)</td>
+    <td>Biotech & Mol Bio</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Baxter.jpg" height="40px"></td>
+    <td>Melissa Baxter (2016-17)</td>
+    <td>Plant Biology</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Stankiewicz.jpg" height="40px"> </td>
+    <td>Sebastian Stankiewicz (2013-16)</td>
+    <td>Packaging</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Winship.jpg" height="40px"></td>
+    <td>Eamon Winship (2015-16)</td>
+    <td>Biochem. &amp; Mol. Biol.</td>
+  </tr> 
+  <tr>
+    <td><img src="../images/people_past/50px-Gomulinski.jpg" height="40px"> </td>
+    <td>Mark Gomulinski (2013-15)</td>
+    <td>Psychology</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-LiuJ.jpeg" height="40px"> </td>
+    <td>Jennifer Liu (2012-13)</td>
+    <td>English/Business</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-DavidHufnagel.jpg" height="40px"></td>
+    <td>David Hufnagel (2011-13)</td>
+    <td>Biological Sciences</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Wolf.jpg" height="40px"> </td>
+    <td>Benjamin Wolf (2010-11)</td>
+    <td>Plant Biology</td>
+  </tr>
+<img src="../images/people_past/50px-Plotas.jpg" height="40px"> 
+Stephanie Plotas (2009-13) Interdisc. studies in Arts &amp; Humanities, MSU. 
   <tr>
     <td></td>
     <td></td>
     <td></td>
   </tr>
-</table> 
-
-<img src="../images/people_past/50px-EmilyBolger.jpg" align="left" height="30px"> 
-**Emily Bolger** (Summer 2019). Mathematics, Moravian College. [ACRES REU](https://icer-acres.msu.edu/).
-
-<img src="../images/people_past/50px-KetanJog.jpg" align="left" height="30px"> 
-**Ketan Jog** (Summer 2019). Data Science, Columbia University. [ACRES REU](https://icer-acres.msu.edu/).
-
-<img src="../images/people_past/50px-Aaron_lee.png" align="left" height="30px"> 
-**Aaron Lee** (Summer 2018). Biology, College of New Jersey. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-Michael_mod.png" align="left" height="30px"> 
-**Michael Douglas** (Summer 2017). Adrian College. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-Rosie.jpg" align="left" height="30px"> 
-**Rosalie Sowers** (Summer 2016). Pennsylvania State. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-Simenc.jpg" align="left" height="30px"> 
-**Matt Simenc** (Summer 2013). Humboldt State University. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-Veling.jpg" align="left" height="30px"> 
-**Michael Veling** (Summer 2011). University of Massachusetts at Amherst. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-Kai.jpg" align="left" height="30px"> 
-**Kai Ruan** (Summer 2009). University of Michigan, Ann Arbor. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-Elizabeth.jpg" align="left" height="30px"> 
-**Elizabeth Wright** (Summers 2009 and 2010). Jackson State University, Mississippi. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-Cybulski.jpg" align="left" height="30px"> 
-**Ted Cybulski** (Summer 2008). Massachusetts Institute of Technology. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-<img src="../images/people_past/50px-No_image.jpg" align="left" height="30px"> 
-**Juyeon Park** (Summer 2007). Williams College. [Plant Genomics REU](https://plantgenomics.natsci.msu.edu/).
-
-## Summer high school students
-<table style="width:90%">
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="../images/people_past/50px-Boniface.jpg" height="40px"></td>
+    <td>Jordan Boniface (2008-09)</td>
+    <td>Pre-veterinary/Animal Science</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Mackaluso.jpg" height="40px"> </td>
+    <td>Josh Mackaluso (2008-10)</td>
+    <td>Biochemistry/Computer Science</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Oswald.jpg" height="40px"> </td>
+    <td>Jessica Anne Oswald (2007-08)</td>
+    <td>Zoology</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Tabbert.jpg" height="40px"></td>
+    <td>Amanda Tabbert (2007-10)</td>
+    <td>Teacher Education</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Eckenrode.jpg" height="40px"></td>
+    <td>Emily Eckenrode (2006-07)</td>
+    <td>Animal Science</td>
   </tr>
 </table> 
 
-<img src="../images/people_past/50px-JFishman_mod.png" align="left" height="30px"> 
-**Jeffrey Fishman** (Summer 2017). Upper Dublin High School, Washington, Pennsylvania.
+## Undergrads (REU)
+<table style="width:90%">
 
-<img src="../images/people_past/50px-No_image.jpg" align="left" height="30px"> 
-**Rachel Groberman** (Summer 2015). Los Angeles, CA.
+. . .
+  <tr>
+    <td><img src="../images/people_past/50px-EmilyBolger.jpg" height="40px"></td>
+    <td>Emily Bolger (2019)</td>
+    <td>Mathematics, Moravian College</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-KetanJog.jpg" height="40px"></td>
+    <td>Ketan Jog (2019)</td>
+    <td>Data Science, Columbia University</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Aaron_lee.png" height="40px"> </td>
+    <td>Aaron Lee (2018)</td>
+    <td>Biology, College of New Jersey</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Michael_mod.png" height="40px"> </td>
+    <td>Michael Douglas (2017)</td>
+    <td>Adrian College</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Rosie.jpg" height="40px"> </td>
+    <td>Rosalie Sowers (2016)</td>
+    <td>Pennsylvania State University</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Simenc.jpg" height="40px"> </td>
+    <td>Matt Simenc (2013)</td>
+    <td>Humboldt State University</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Veling.jpg" height="40px"> </td>
+    <td>Michael Veling (2011)</td>
+    <td>University of Massachusetts at Amherst</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Kai.jpg" height="40px"></td>
+    <td>Kai Ruan (2009)</td>
+    <td>University of Michigan, Ann Arbor</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Elizabeth.jpg" height="40px"> </td>
+    <td>Elizabeth Wright (2009, 2010)</td>
+    <td>Jackson State University</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Cybulski.jpg" height="40px"> </td>
+    <td>Ted Cybulski (2008)</td>
+    <td>Massachusetts Institute of Technology</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-No_image.jpg" height="40px"> </td>
+    <td>Juyeon Park (2007)</td>
+    <td>Williams College</td>
+  </tr>
+</table> 
 
-<img src="../images/people_past/50px-Jasicki.jpg" align="left" height="30px"> 
-**Hannah Jasicki** (Summer 2013). La Porte High School, La Porte, IN. [HSHSP Program](https://education.msu.edu/hshsp/).
-
-<img src="../images/people_past/50px-Naik.jpg" align="left" height="30px"> 
-**Manali Naik** (Summer 2010). Monta Vista High school, Cupertino, CA. [HSHSP Program](https://education.msu.edu/hshsp/).
-
-<img src="../images/people_past/50px-No_image.jpg" align="left" height="30px"> 
-**Meiyi Cheng** (Summer 2008). Punahou High School, Punahou, Hawaii. [HSHSP Program](https://education.msu.edu/hshsp/).
-
-<img src="../images/people_past/50px-Lin.jpg" align="left" height="30px"> 
-**Andy Lin** (Summer 2008-Summer 2009). Okemos High School, Okemos, MI. [HSHSP Program](https://education.msu.edu/hshsp/).
-
-<img src="../images/people_past/50px-No_image.jpg" align="left" height="30px"> 
-**Tanmay Prakash** (Summer 2006). Novi High School, Novi, MI. [HSHSP Program](https://education.msu.edu/hshsp/).
+## High school students
+<table style="width:90%">
+  <tr>
+    <td><img src="../images/people_past/50px-JFishman_mod.png" height="40px"> </td>
+    <td>Jeffrey Fishman (2017)</td>
+    <td>Upper Dublin High School, Washington, PA</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-No_image.jpg" height="40px"></td>
+    <td>Rachel Groberman (2015)</td>
+    <td>Los Angeles Center for Enriched Studies, Los Angeles, CA</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Jasicki.jpg" height="40px"></td>
+    <td>Hannah Jasicki (2013)</td>
+    <td>La Porte High School, La Porte, IN</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Naik.jpg" height="40px"></td>
+    <td>Manali Naik (2010)</td>
+    <td>Monta Vista High school, Cupertino, CA</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-No_image.jpg" height="40px"> </td>
+    <td>Meiyi Cheng (2008</td>
+    <td>Punahou High School, Punahou, Hawaii</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Lin.jpg" height="40px"> </td>
+    <td>Andy Lin (2008-2009)</td>
+    <td>Okemos High School, Okemos, MI</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-No_image.jpg" height="40px"></td>
+    <td>Tanmay Prakash (2006)</td>
+    <td>Novi High School, Novi, MI</td>
+  </tr>
+</table> 
 
 ## Visiting scholars
 <table style="width:90%">
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="../images/people_past/50px-Xu_Liang.jpg" height="40px"></td>
+    <td>Liang Xu (2017-19)</td>
+    <td>Associate Professor, Nanjing Agricultural University, Nanjing, China</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Wenyu.jpg" height="40px"></td>
+    <td>Wen-Yu Liu (2016-17)</td>
+    <td>Postdoctoral Associate, Academia Sinica, Taipei, Taiwan</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Ting.jpg" height="40px"></td>
+    <td>Kun-Ting Hsieh (2016-17)</td>
+    <td>Graduate Student, National Chung Hsing University, Taichung City, Taiwan</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Schwarz.jpg" height="40px"> </td>
+    <td>Birte Schwarz (2016)</td>
+    <td>Graduate Student, Heinrich Heine University, Duesseldorf, Germany</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Hartleb.jpg" height="40px"> </td>
+    <td>Daniel Hartleb (2014)</td>
+    <td>Graduate Student, Heinrich Heine University, Duesseldorf, Germany</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Richards.jpg" height="40px"> </td>
+    <td>Sarah Richards (2014)</td>
+    <td>Graduate Student, Heinrich Heine University, Duesseldorf, Germany</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Mass.jpg" height="40px"> </td>
+    <td>Janina Maß (2013)</td>
+    <td>Graduate Student, Heinrich Heine University, Duesseldorf, Germany</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Denton.jpg" height="40px"></td>
+    <td>Alisandra Denton (2013)</td>
+    <td>Graduate Student, Heinrich Heine University, Duesseldorf, Germany</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-YiLee.jpg" height="40px"> </td>
+    <td>Yi Lee (2010-11)</td>
+    <td>Professor, Chungbuk National University, South Korea</td>
+  </tr>
+ 
+ PhD student (Chaw lab, Academia Sinica), Forestry, National Taiwan University
+  <tr>
+    <td><img src="../images/people_past/50px-No_image.jpg" height="40px"></td>
+    <td>Chung-Shien Wu (2006)</td>
+    <td>Graduate Student, Forestry, National Taiwan University</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Subramanian.jpg" height="40px"></td>
+    <td>Sugaleshini Subramanian (2006-07)</td>
+    <td>Bioinformatics Research Institute, Chennai, India</td>
   </tr>
 </table> 
-
-<img src="../images/people_past/50px-Xu_Liang.jpg" align="left" height="30px"> 
-**Liang Xu** (2017-2019) Visiting scholar.
-
-<img src="../images/people_past/50px-Wenyu.jpg" align="left" height="30px"> 
-**Wen-Yu Liu** (2016-2017) Visiting scholar, Academia Sinica, Taipei, Taiwan
-
-<img src="../images/people_past/50px-Ting.jpg" align="left" height="30px"> 
-**Kun-Ting Hsieh** (2016-2017) Graduate Student, National Chung Hsing University, Taichung City, Taiwan
-
-<img src="../images/people_past/50px-Schwarz.jpg" align="left" height="30px"> 
-**Birte Schwarz** (2016) Graduate Student, Heinrich Heine University, Duesseldorf, Germany
-
-<img src="../images/people_past/50px-Hartleb.jpg" align="left" height="30px"> 
-**Daniel Hartleb** (2014) Graduate Student, Heinrich Heine University, Duesseldorf, Germany
-
-<img src="../images/people_past/50px-Richards.jpg" align="left" height="30px"> 
-**Sarah Richards** (2014) Graduate Student, Heinrich Heine University, Duesseldorf, Germany
-
-<img src="../images/people_past/50px-Chen.jpg" align="left" height="30px"> 
-**Yani Chen** (2014) Visiting scientist, Michigan State University
-
-<img src="../images/people_past/50px-Mass.jpg" align="left" height="30px"> 
-**Janina Maß** (2013) Graduate Student, Heinrich Heine University, Duesseldorf, Germany
-
-<img src="../images/people_past/50px-Denton.jpg" align="left" height="30px"> 
-**Alisandra Denton** (2013) Graduate Student, Heinrich Heine University, Duesseldorf, Germany
-
-<img src="../images/people_past/50px-YiLee.jpg" align="left" height="30px"> 
-**Yi Lee** (2010-2011) Professor, Chungbuk National University, South Korea
-
-<img src="../images/people_past/50px-No_image.jpg" align="left" height="30px"> 
-**Chung-Shien Wu** (2006) PhD student (Chaw lab, Academia Sinica), Forestry, National Taiwan University
-
-<img src="../images/people_past/50px-Subramanian.jpg" align="left" height="30px"> 
-**Sugaleshini Subramanian** (2006-2007) Visiting scientist. Current: Vet Med School, MSU
