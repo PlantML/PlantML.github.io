@@ -4,7 +4,7 @@ title: "Past Members"
 subheadline: "People"
 permalink: "/people_past/"
 header:
-  image_fullwidth: "lab_140923.png"
+  image_fullwidth: "lab_140923b.png"
 ---
 
 ## Postdoctoral scholars
