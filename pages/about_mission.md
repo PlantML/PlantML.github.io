@@ -4,7 +4,7 @@ title: "Mission"
 subheadline: "About"
 permalink: "/about_mission/"
 header:
-    image_fullwidth: "/header/header_mps.png"
+    image_fullwidth: "header_mps.png"
 ---
 
 ## [Research](https://shiulab.github.io/research_projects/)
