@@ -9,6 +9,10 @@ permalink: "/test/"
 ---
 
 <img src="../images/research/research_subfunction.png" align="right" width="50">
-<img src="../images/research/research_subfunction.png" width="100">
-<img src="../images/research/research_subfunction.png" width="200">
+Test1
 
+<img src="../images/research/research_subfunction.png" width="100">
+Test 2
+
+<img src="../images/research/research_subfunction.png" width="200">
+Test 3
