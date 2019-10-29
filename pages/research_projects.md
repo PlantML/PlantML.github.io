@@ -2,20 +2,14 @@
 layout: page
 subheadline:  "Research"
 title:  "Projects"
-teaser: "Check out what our lab is up to these days...</a>."
+teaser: "Current research foci</a>."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/research_projects/"
 ---
 
-## Long-term goals of our research program
-- Understand the molecular basis of plant adaptation under stressful environmental conditions in both natural and agricultural settings via studying the functions and molecular evolutionary patterns of plant genes.
-- Predict molecular, physiological, and morphological phenotypes under specific environmental, spatial, and temporal contexts to better understand how and why biological systems work through integration of multi-scale data using computational and data science approaches.
-
-## Current research foci
-
 ### Evolution of genome contents
-<img src="../images/research/research_subfunction.png" align="right" width="300"> 
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/11526204"><img src="../images/research/research_subfunction.png" align="right" width="300"> 
 How did genome evolve and what were the drivers? These questions are prompted by the observations that plants tend to have younger duplicate genes compared to other species, mainly due to frequent whole genome duplications. Example publications in this area:
 - A Plant Physiology review discussing [evolution of duplicate genes in plants](https://www.ncbi.nlm.nih.gov/pubmed/27288366).
 - An early PNAS paper documenting [the dramatic expansion of the receptor-like kinase family in plants](https://www.ncbi.nlm.nih.gov/pubmed/11526204) that kickstarted the PI's interests in evolution.
