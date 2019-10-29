@@ -9,6 +9,7 @@ permalink: "/test/"
 ---
 
 ## Postdoctoral scientists
+|  |  |
 |--|--|
 |<img src="../images/people_past/50px-Zing-20150307.jpg" align="left" height="30px">|[__Zing Tsung-Yeh Tsai__](https://sites.google.com/site/zingtyt/) (2014-2016). Bioinformatics scientist at Illumina Inc|
 |<img src="../images/people_past/50px-Liu.jpg" align="left" height="30px"> |**Ming Jung Liu** (2013-2016). Assistant Research Fellow, Agricultural Biotechnology Research Center - Academia Sinica|
