@@ -11,7 +11,7 @@ header:
 
 <table style="width:100%">
   <tr>
-    <td><img src="../images/people_past/50px-Zing-150307.jpg" width="40px"></td>
+    <td><img src="../images/people_past/50px-Liu.jpg"  width="40px"></td>
     <td>Zing Tsung-Yeh Tsai (2014-16)</td>
     <td>Bioinformatics scientist, Illumina Inc.</td>
   </tr>
