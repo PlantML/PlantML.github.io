@@ -41,45 +41,38 @@ header:
 <table style="width:100%">
   <tr>
     <td><img src="../images/people_past/50px-Panchy2.jpg" width="40px"> </td>
-    <td>Nicholas Panchy, PhD (2011-17)</td>
-    <td>PhD, Genetics</td>
+    <td>Nicholas Panchy (2011-17) PhD, Genetics</td>
     <td>Postdoctoral associate, Natl. Inst. Math. Biol. Syn., University of Tennessee</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Lloyd.jpg" width="40px"> </td>
-    <td>Johnny Lloyd (2012-17)</td>
-    <td>PhD, Plant Biology</td>
+    <td>Johnny Lloyd (2012-17) PhD, Plant Biology</td>
     <td>Postdoctoral associate, University of Michigan</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Uygun.jpg" width="40px"> </td>
-    <td>Sahra Uygun (2011-17)</td>
-    <td>PhD, Genetics</td>
+    <td>Sahra Uygun (2011-17) PhD, Genetics</td>
     <td>Bioinformatic scientist, Agendia Inc.</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Seddon.jpg" width="40px"> </td>
-    <td>Alex Seddon (undergrad: 2009-11, grad: 2013-15)</td>
-    <td>MS, Plant Biology</td>
+    <td>Alex Seddon (undergrad: 2009-11, grad: 2013-15) MS, Plant Biology</td>
     <td>Course manager, College of Ved. Med., MSU</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-GauravPic.jpg" width="40px"> </td>
-    <td>Gaurav Moghe (2007-13)</td>
-    <td>PhD, Genetics/QB</td>
+    <td>Gaurav Moghe (2007-13) PhD, Genetics/QB</td>
     <td>Assistant Professor, Cornell University</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Guangxi.jpg" width="40px"> </td>
-    <td>Guangxi Wu (2009-13)</td>
-    <td>PhD, CMB</td>
+    <td>Guangxi Wu (2009-13) PhD, CMB</td>
     <td>Scientist, Zymo Research Inc.</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/50px-Yin2.png" width="40px"> </td>
     <td>Shan Yin (2008-10)</td>
     <td>MS, Plant Biology</td>
-    <td></td>
   </tr>
 </table> 
 
