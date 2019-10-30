@@ -13,8 +13,7 @@ header:
   <col width="50px" />
   <tr>
     <td><img src="../images/people_past/50px-Zing.jpg"  width="40px"></td>
-    <td>Zing Tsung-Yeh Tsai
-    (2014-16)</td>
+    <td>Zing Tsung-Yeh Tsai (2014-16)</td>
     <td>Bioinformatics scientist, Illumina Inc.</td>
   </tr>
   <tr>
@@ -41,6 +40,7 @@ header:
 
 ## Graduate students
 <table style="width:100%">
+  <col width="50px" />
   <tr>
     <td><img src="../images/people_past/50px-Panchy2.jpg" width="40px"> </td>
     <td>Nicholas Panchy (2011-17) PhD, Genetics</td>
