@@ -13,7 +13,8 @@ header:
   <col width="50px" />
   <tr>
     <td><img src="../images/people_past/50px-Zing.jpg"  width="40px"></td>
-    <td>Zing Tsung-Yeh Tsai (2014-16)</td>
+    <td>Zing Tsung-Yeh Tsai
+    (2014-16)</td>
     <td>Bioinformatics scientist, Illumina Inc.</td>
   </tr>
   <tr>
