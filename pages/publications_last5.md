@@ -27,7 +27,7 @@ Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements 
 
 **Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
 
-**Uygun S<font color="green"><sup>e</sup></font>**, **Azodi, CB<font color="green"><sup>e</sup></font>**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* DOI: 10.1104/pp.19.00653 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31551359)
+**Uygun S<font color="green"><sup>e</sup></font>**, **Azodi, CB<font color="green"><sup>e</sup></font>**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* 181(4):1739 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31551359)
 
 **Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae. *Scientific Reports* 9:12122 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31431676)
 
