@@ -25,7 +25,7 @@ Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements 
 
 **Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *The Plant Cell* DOI: 10.1101/587121 [early access](http://www.plantcell.org/content/early/2019/10/22/tpc.19.00332/tab-figures-data)
 
-**Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* DOI: 10.1534/g3.119.400498 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
+**Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
 
 **Uygun S<font color="green"><sup>e</sup></font>**, **Azodi, CB<font color="green"><sup>e</sup></font>**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* DOI: 10.1104/pp.19.00653 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31551359)
 
