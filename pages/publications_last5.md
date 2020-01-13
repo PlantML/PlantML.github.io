@@ -14,16 +14,20 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-**Wang PP, Meng FR, Moore BM, Shiu SH**. Factors influencing read coverage variation in a genome assembled using short reads. *bioRxiv* DOI: 10.1101/790337
-[bioRxiv](https://www.biorxiv.org/content/biorxiv/early/2019/10/02/790337.full.pdf)
+**Wang PP, Meng FR, Moore BM, Shiu SH**. Read coverage as an indicator of misassembly in a short-read based genome assembly. *bioRxiv* DOI: 10.1101/790337
+[bioRxiv](https://doi.org/10.1101/790337)
 
 **Panchy NL**, **Lloyd JP**, **Shiu SH**. Predicting cell-cycle expressed genes identifies canonical and non-canonical regulators of time-specific expression in *Saccharomyces cerevisiae*. *bioRxiv* DOI: 10.1101/387050 [bioRxiv](https://doi.org/10.1101/387050)
 
-Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *bioRxiv* DOI: 10.1101/603290 [bioRxiv](https://www.biorxiv.org/content/10.1101/603290v2)
+**Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH** *bioRxiv* 
+
+## 2020
+
+Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* (accepted) [bioRxiv](https://www.biorxiv.org/content/10.1101/603290v2)
+
+**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *The Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
 
 ## 2019
-
-**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *The Plant Cell* DOI: 10.1101/587121 [early access](http://www.plantcell.org/content/early/2019/10/22/tpc.19.00332/tab-figures-data)
 
 **Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
 
@@ -35,7 +39,7 @@ Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements 
 
 Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2019) A comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes. *Proc. Natl. Acad. Sci., USA* 116(8):3091-3099 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30718437)
 
-**Moore BM**, **Wang P**, Fan P, Leong B, Schenck C, **Lloyd J**, **Lehti-Shiu MD**, Last R, Pichersky E, **Shiu SH**(2019) Robust predictions of specialized metabolism genes through machine learning. *Proc. Natl. Acad. Sci., USA* 116(6):2344-2353 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30674669)
+**Moore BM**, **Wang P**, Fan P, Leong B, Schenck C, **Lloyd J**, **Lehti-Shiu MD**, Last R, Pichersky E, **Shiu SH** (2019) Robust predictions of specialized metabolism genes through machine learning. *Proc. Natl. Acad. Sci., USA* 116(6):2344-2353 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30674669)
 
 ## 2018
 
