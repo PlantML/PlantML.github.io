@@ -25,6 +25,8 @@ permalink: "/people_current/"
 <H3>Undergraduate Students</H3> 
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="sarah.png" alt='photo of sarah'><p>Sarah Horan</p></li>
+  <li><img src="abigal.png" alt='photo of abigal'><p>Abigail Seeger</p></li>
+  <li><img src="petricia.png" alt='photo of patricia'><p>Patricia Blum</p></li>
 </ul>
 
 <H3>Those with PhDs</H3>

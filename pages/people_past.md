@@ -42,6 +42,16 @@ header:
 <table style="width:100%">
   <col width="50px" />
   <tr>
+    <td><img src="../images/people_past/50px-beth.png" width="40px"> </td>
+    <td>Bethany Moore (2014-19) PhD, Plant Biology</td>
+    <td>Postdoctoral associate, University of Wisconsin-Madison</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Cristina.png" width="40px"> </td>
+    <td>Christina Azodi (2014-19) PhD, Plant Biology</td>
+    <td>Postdoctoral associate, University of melbourne</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/50px-Panchy2.jpg" width="40px"> </td>
     <td>Nicholas Panchy (2011-17) PhD, Genetics</td>
     <td>Postdoctoral associate, Natl. Inst. Math. Biol. Syn., University of Tennessee</td>
