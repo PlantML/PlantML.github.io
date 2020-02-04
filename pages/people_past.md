@@ -328,3 +328,20 @@ header:
     <td>Bioinformatics Research Institute, Chennai, India</td>
   </tr>
 </table> 
+
+## Cheer Squad
+<table style="width:100%">
+  <col width="50px" />
+  <tr>
+    <td><img src="../images/people_past/50px-Melbourne.png"  width="40px"></td>
+    <td>Melbourne Moore</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Mac.png"  width="40px"></td>
+    <td>Mac Azodi</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/50px-Radar.png"  width="40px"></td>
+    <td>Radar Azodi</td>
+  </tr>
+</table> 

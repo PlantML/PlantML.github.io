@@ -36,10 +36,7 @@ permalink: "/people_current/"
 
 <H3>Cheer Squad</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="mel.jpg" alt='photo of mel'><p>Melbourne Moore</p></li>
   <li><img src="koby.jpg" alt='photo of koby'><p>Koby Cusack</p></li>
-  <li><img src="mac.png" alt='photo of mac'><p>Mac Azodi</p></li>
-  <li><img src="radar.jpg" alt='photo of radar'><p>Radar Azodi</p></li>
 </ul>
 </body>
 </html>
