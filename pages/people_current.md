@@ -24,6 +24,7 @@ permalink: "/people_current/"
   <li><img src="sarah.png" alt='photo of sarah'><p>Sarah Horan</p></li>
   <li><img src="abigal.png" alt='photo of abigal'><p>Abigail Seeger</p></li>
   <li><img src="petricia.png" alt='photo of patricia'><p>Patricia Blum</p></li>
+  <li><img src="Traverse.png" alt='photo of Travers'><p>Traverse Cottrell</p></li>
 </ul>
 
 <H3>Those with PhDs</H3>
