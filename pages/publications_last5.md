@@ -22,19 +22,19 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## 2020
 
-**Panchy NL**, **Lloyd JP**, **Shiu SH**. Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* (in press) [bioRxiv](https://doi.org/10.1101/387050)
+**Panchy NL**, **Lloyd JP**, **Shiu SH** (2020) Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* (in press) [bioRxiv](https://doi.org/10.1101/387050)
 
-Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P. Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* (accepted) [bioRxiv](https://www.biorxiv.org/content/10.1101/603290v2)
+Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* (epub) [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
 
-**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH**. Transcriptome-based prediction of complex traits in maize. *The Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
+**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH** (2020) Transcriptome-based prediction of complex traits in maize. *The Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
 
 ## 2019
 
-**Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH**. Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
+**Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH** (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
 
-**Uygun S<font color="green"><sup>e</sup></font>**, **Azodi, CB<font color="green"><sup>e</sup></font>**, **Shiu, SH**. Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* 181(4):1739 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31551359)
+**Uygun S<font color="green"><sup>e</sup></font>**, **Azodi, CB<font color="green"><sup>e</sup></font>**, **Shiu, SH** (2019) Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* 181(4):1739 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31551359)
 
-**Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae. *Scientific Reports* 9:12122 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31431676)
+**Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae (2019) *Scientific Reports* 9:12122 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31431676)
 
 **Panchy NL, Azodi CB, Winship EF<font color="red"><sup>u</sup></font>, Shiu SH** (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics* 19:77 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30866803)
 
