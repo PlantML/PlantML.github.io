@@ -12,6 +12,26 @@ permalink: "/publications_older/"
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
 
+## 2015
+
+**Lloyd JP**, **Seddon AE**, **Moghe GD**, **Simenc MC<font color="red"><sup>u</sup></font>**, **Shiu SH** (2015) Characteristics of plant essential genes allow for within- and between-species prediction of lethal mutant phenotypes. *Plant Cell* 27:2133 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26286535)
+
+**Tsai ZTY**, **Shiu SH<font color="green"><sup>e</sup></font>** and Tsai HK<font color="green"><sup>e</sup></font> (2015) Contribution of sequence motif, chromatin state, and DNA structure features to predictive models of transcription factor binding in yeast. *PLoS Comp. Biol.* 11(8):e1004418 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26291518)
+
+**Liu MJ**, **Seddon AE**, **Tsai ZTY**, Major IT, Floer M, Howe GA, **Shiu SH** (2015) Determinants of nucleosome positioning and their influence on plant gene expression. *Genome Res.* 25(8):1182-95. [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/26063739)
+
+Poliner E, **Panchy N**, Newton L, **Wu G**, Lapinsky A, Bullard B, Zienkiewicz A, Benning C, **Shiu SH**, Farré EM. (2015) Transcriptional coordination of physiological responses in Nannochloropsis oceanica CCMP1779 under light/dark cycles. *Plant J* 83:1097-113. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26216534)
+
+Peng C, **Uygun S**, **Shiu SH**, Last R. (2015) The Impact of the Branched-Chain Ketoacid Dehydrogenase Complex on Amino Acid Homeostasis in Arabidopsis. *Plant Physiol*. 169(3):1807-20. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25986129)
+
+**Lehti-Shiu MD<font color="green"><sup>e</sup></font>**, **Uygun S**, **Moghe, GD**, **Panchy N**, **Fang L**, **Hufnagel D<font color="red"><sup>u</sup></font>**, **Jasicki HL<font color="orange"><sup>h</sup></font>**, Feig M, **Shiu SH<font color="green"><sup>e</sup></font>**. (2015) Molecular evidence for functional divergence and decay of a transcription factor derived from whole genome duplication in Arabidopsis thaliana. *Plant Physiol.* 168(4):1717-34. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26103993)
+
+Yu CP, Chen SC, Chang YM, Liu WY, Lin HH, Lin JJ, Chen HJ, Lu YJ, Wu YH, Lu MY, Lu CH, Shih AC, Ku MS, **Shiu SH<font color="green"><sup>e</sup></font>**, Wu SH<font color="green"><sup>e</sup></font>, Li WH<font color="green"><sup>e</sup></font>. (2015) Transcriptome dynamics of developing maize leaves and genome-wide prediction of cis elements and their cognate transcription factors. *Proc. Natl. Acad. Sci., USA* 112(19):E2477-86. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25918418)
+
+**Wu G**, **Hufnagel DE<font color="red"><sup>u</sup></font>**, **Denton AK**, **Shiu SH** (2015) Retained duplicate genes in green alga Chlamydomonas reinhardtii tend to be stress response genes and experience frequent response gains. *BMC Genomics* 16:149. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25880851)
+
+Law M, Childs KL, Campbell MS, Stein D, Holt C, **Panchy N**, Lei J, Achawanantakun R, Jiao D, Andorf CM, Lawrence CJ, Ware D, **Shiu SH**, Sun Y, Jiang N, Yandell M (2015) Automated update, revision and quality control of the Zea mays genome annotations using MAKER-P improves the B73 RefGen_v3 gene models and identifies new genes. *Plant Physiol.* 167(1):25-39 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25384563)
+
 ## 2014
 
 **Panchy N**, **Wu G**, Newton L, Tsai CH, Chen J, Benning C, Farre EM<font color="green"><sup>e</sup></font>, **Shiu SH**<font color="green"><sup>e</sup></font> (2014) Prevalence, Evolution, and *cis*-Regulation of Diel Transcription in *Chlamydomonas reinhardtii*. *G3* 4(12):2461-2471 [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25354782)
