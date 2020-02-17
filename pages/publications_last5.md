@@ -22,7 +22,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## 2020
 
-**Panchy NL**, **Lloyd JP**, **Shiu SH** (2020) Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* (in press) [bioRxiv](https://doi.org/10.1101/387050)
+**Panchy NL**, **Lloyd JP**, **Shiu SH** (2020) Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* 21:159 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32054475)
 
 Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* (epub) [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
 
