@@ -14,7 +14,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *preprint* (pending)
+**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *preprint* [DOI: 10.20944/preprints202002.0239.v1](https://www.preprints.org/manuscript/202002.0239/v1)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Read coverage as an indicator of misassembly in a short-read based genome assembly. *bioRxiv* [DOI: 10.1101/790337](https://doi.org/10.1101/790337)
 
