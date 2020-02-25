@@ -22,7 +22,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## 2020
 
-Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc Natl Acad Sci USA* (accepted).
+Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* (accepted).
 
 **Panchy NL**, **Lloyd JP**, **Shiu SH** (2020) Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* 21:159 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32054475)
 
