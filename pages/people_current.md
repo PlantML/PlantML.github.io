@@ -33,7 +33,7 @@ permalink: "/people_current/"
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="peipei.jpg" alt='photo of peipei'><p>Peipei Wang<br>Post-Doc</p></li>
   <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>Research Asst Professor</p></li>
-  <li><img src="shinhan.png" alt='photo of shinhan'><p><a href="https://plantbiology.natsci.msu.edu/directory/shin-han-shiu/">Shin-Han Shiu</a><br>Professor</p></li>
+  <li><img src="shinhan.png" alt='photo of shinhan'><p><a href="/people/Shiu">Shin-Han Shiu</a><br>Professor</p></li>
 </ul>
 
 <H3>Cheer Squad</H3>
