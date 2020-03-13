@@ -273,6 +273,11 @@ header:
 ## Visiting scholars
 <table style="width:100%">
   <tr>
+    <td><img src="../images/people_past/50px-josheph.png" width="40px"></td>
+    <td>Joseph Yayen (2020)</td>
+    <td>Graduate student, Academia Sinica, Taiwan</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/50px-Xu_Liang.jpg" width="40px"></td>
     <td>Liang Xu (2017-19)</td>
     <td>Associate Professor, Nanjing Agricultural University, Nanjing, China</td>

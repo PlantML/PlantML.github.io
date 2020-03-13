@@ -14,9 +14,10 @@ permalink: "/people_current/"
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="siobhan.jpg" alt='photo of siobhan'><p>Siobhan Cusack<br>Cell Mol Bio</p></li>
-  <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>  
+  <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>
+  <li><img src="Serena.png" alt='photo of serena'><p>Serena Lotreck<br>Plant Biology</p></li> 
+  <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li> 
   <li><img src="fanrui.jpg" alt='photo of fanrui'><p>Fanrui Meng<br>Associate</p></li>
-  <li><img src="Joseph.png" alt='photo of joseph'><p>Joseph Yayen<br>Visiting scholar<br>Academia Sinica - Taiwan</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3> 
