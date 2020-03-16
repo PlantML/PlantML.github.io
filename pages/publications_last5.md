@@ -14,7 +14,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-Pengxiang Fan, **Peipei Wang**, Yann-Ru Lou, Bryan J Leong, Bethany J Moore, Craig A Schenck, Rachel Combs, Pengfei Cao, Federica Brandizzi, **Shin-Han Shiu**, Robert L Last. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *bioRxiv* [DOI: 10.1101/2020.03.04.977231](https://doi.org/10.1101/2020.03.04.977231)
+Fan P, **Wang P**, Lou YR, Leong BJ, Moore BM, Schenck CA, Combs R, Cao P, Brandizzi F, **Shiu SH**, Last RL. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *bioRxiv* [DOI: 10.1101/2020.03.04.977231](https://doi.org/10.1101/2020.03.04.977231)
 
 **Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *bioRxiv* [DOI]()
 
