@@ -14,6 +14,8 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
+Pengxiang Fan, **Peipei Wang**, Yann-Ru Lou, Bryan J Leong, Bethany J Moore, Craig A Schenck, Rachel Combs, Pengfei Cao, Federica Brandizzi, **Shin-Han Shiu**, Robert L Last. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *bioRxiv* [DOI: 10.1101/2020.03.04.977231](https://doi.org/10.1101/2020.03.04.977231)
+
 **Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *bioRxiv* [DOI]()
 
 **Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *preprint* [DOI: 10.20944/preprints202002.0239.v1](https://www.preprints.org/manuscript/202002.0239/v1)
