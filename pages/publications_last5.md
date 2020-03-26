@@ -14,17 +14,17 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
+**Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *bioRxiv* [DOI 10.1101/2020.02.28.969261](https://doi.org/10.1101/2020.02.28.969261)
+
 Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, Brandizzi F, **Shiu SH**, Last RL. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *bioRxiv* [DOI: 10.1101/2020.03.04.977231](https://doi.org/10.1101/2020.03.04.977231)
-
-**Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *bioRxiv* [DOI]()
-
-**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *preprint* [DOI: 10.20944/preprints202002.0239.v1](https://www.preprints.org/manuscript/202002.0239/v1)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Read coverage as an indicator of misassembly in a short-read based genome assembly. *bioRxiv* [DOI: 10.1101/790337](https://doi.org/10.1101/790337)
 
 **Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH** *bioRxiv* [DOI: 10.1101/2020.01.13.112102](https://doi.org/10.1101/2020.01.13.112102)
 
 ## 2020
+
+**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *Trends in Genetics* [priprint DOI: 10.20944/preprints202002.0239.v1](https://www.preprints.org/manuscript/202002.0239/v1)
 
 Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* (accepted).
 
