@@ -26,11 +26,11 @@ Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, B
 
 **Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *Trends in Genetics* [priprint DOI: 10.20944/preprints202002.0239.v1](https://www.preprints.org/manuscript/202002.0239/v1)
 
-Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* (accepted).
+Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* epub ahead of print [pumbed](https://pubmed.ncbi.nlm.nih.gov/32170020)
 
 **Panchy NL**, **Lloyd JP**, **Shiu SH** (2020) Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* 21:159 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32054475)
 
-Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* (epub) [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
+Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* 182(3):1420 [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
 
 **Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH** (2020) Transcriptome-based prediction of complex traits in maize. *The Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
 
