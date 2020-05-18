@@ -11,25 +11,25 @@ header:
 
 <img src="/images/news/200601_chrisitna-tig-cover.jpg" width="100" Hspace="30" align="right">In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
 
+### 4/8/20: Lab lunch continues
+
+<img src="/images/news/200408_lab-lunch.png" width="100" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok! 
+
 ### 3/31/20: Collaborative work with Dr. Yan Bao is published
 
 Dr. Bao's work on [__COST1 regulates autophagy to control plant drought tolerance__](https://www.ncbi.nlm.nih.gov/pubmed/32170020) is published where Peipei has contributed significantly using comparative genomics approaches.
 
 ### 3/19/20: Siobhan defended today
 
-<img src="/images/news/200319_siobahn-before-denfense.png" width="100" Hspace="30" align="right">Siobahn defended her thesis titled _Modeling and prediction of genetic redundancy in Arabidopsis thaliana and Saccharomyces cerevisiae_ today __virtually__ via Zoom with 89 people in the audience! Both us showed up in the lab (while keeping >6 ft distance) to get the virtual defense setup. Originally due to move to England next week, Siobhan will stay in East Lansing to finish her work. Good job Siobhan! The picture on the right shows Siobhan right after the defense.
+<img src="/images/news/200319_siobahn-before-defense.png" width="100" Hspace="30" align="right">Siobahn defended her thesis titled _Modeling and prediction of genetic redundancy in Arabidopsis thaliana and Saccharomyces cerevisiae_ today __virtually__ via Zoom with 89 people in the audience! Both us showed up in the lab (while keeping >6 ft distance) to get the virtual defense setup. Originally due to move to England next week, Siobhan will stay in East Lansing to finish her work. Good job Siobhan! The picture on the right shows Siobhan right after the defense.
 
-### 3/11/20: Lab COVID-19 contigency plan issued
+### 3/13/20: Our first virtual lab lunch
 
-University is deciding the timing to suspend face-to-face instruction. Even if the suspension is in place, instruction will continue online. To prepare for this, When the University suspend face-to-face instruction, all computational research individuals will work remotely (well, this was announced 2 hours after the lab plan). 
+<img src="/images/news/200325_lab-lunch.png" width="200" Hspace="30" align="right">With all of us working remotely, we decide to host a 15-min lab lunch to check in with everyone. The photo on the right is all of us experimenting with the background feature in Zoom - the two "ghosts" are Siobhan and Serena!
 
-1. For lab personnel, only essential operations (e.g. keep plants watered, as defined by Melissa) will remain.
-2. Prior to 1), should you feel the need to work remotely, please inform Shinhan so he is aware.
-3. All scheduled lab functions (lab meeting and KATSUP) will be maintained, except a remote option will be offered with details following.
-4. For any lab personnel engaged in independent research projects (specifically Peipei, Serena, Thilanka) and working remotely should meet with Shinhan daily for 15-30 min to discuss goals for the day.  Such plan should be documented in Trello and shared with Shinhan.
-5. For any lab personnel mentoring others or being mentored (e.g. Peipei and Thilanka, Thilanka and Patricia, Melissa and Abigail), make sure you come up with means and frequency of communication to ensure projects are moving forward.
+### 3/11/20: Social distancing starts
 
-For online communication, including lab meeting, KATSUP, and project discussion, Zoom will be used.
+Michigan State has indicated all classes will be online only today. Given the nature of most of our work is computational and considering the risks of COVID-19, from today on all lab personnel will be working remotely, except for those who need to keep our plant alive.
 
 ### 3/5/20: Welcome to the lab Ally
 
@@ -38,6 +38,10 @@ For online communication, including lab meeting, KATSUP, and project discussion,
 ### 2/21/20: Welcome to the lab Serena
 
 <img src="/images/people/Serena.png" width="100" Hspace="30" align="right">Serena is a new graduate student in the, hold your breath, Plant Biology Program, the Computational Math., Sci., Math Program, AND the Moleculr Plant Science Program. She is a MSU Plant Science Fellow and an NSF Fellow of the IMPACTS training program. She graduated from the Cornell University in 2019 and has been rotating in two other labs. [Here is the funny Slack exchange](/images/news/200221_serena-slack.png) when I found out she is joining us!
+
+### 1/1/20: Christina's study on using genomic and transcriptomic information to predict trait is published
+
+Can transcriptome data be used to predict traits? In the study titled [__Transcriptome-Based Prediction of Complex Traits in Maize__](https://www.ncbi.nlm.nih.gov/pubmed/31641024), Christina, in collaboration with Jeremy, a rotating student at the time, and Bob VanBuren tested this and found out that not only we can predict traits with transcriptomes, but they may tell us more than genomic data can. The finding is featured in [MSU Today](https://msutoday.msu.edu/news/2020/scientists-improve-yield-predictions-based-on-seedling-data/)!
 
 ### 10/25/19: Beth defended her PhD
 
@@ -73,6 +77,14 @@ Siobhan has been selected to receive a $7,500 College of Natural Science Dissert
 
 ### 7/13/19: Nick's work on regulatory assymmetry of plant duplicate genes is published
 
-Nick's paper on [__Expression and regulatory asymmetry of retained Arabidopsis thaliana transcription factor genes derived from whole genome duplication__](https://www.ncbi.nlm.nih.gov/pubmed/30866803) is published in BMC Evoltionary Biology. Christina and Eamon Winship, an undergraduate reseracher at the time also contributed. Transcription factors (TFs) play a key role in gene regulation and tend to be retained after duplication. Nick et al.'s work provide answers about about how TF duplicates have diverged in their expression and regulation that contribute to a better understanding of the elevated retention rate among TFs.
+Nick's paper on [__Expression and regulatory asymmetry of retained Arabidopsis thaliana transcription factor genes derived from whole genome duplication__](https://www.ncbi.nlm.nih.gov/pubmed/30866803) is published in BMC Evoltionary Biology. Christina and Eamon Winship, an undergraduate reseracher at the time also contributed. Transcription factors (TFs) play a key role in gene regulation and tend to be retained after duplication. Nick's work provide answers about about how TF duplicates have diverged in their expression and regulation that contribute to a better understanding of the elevated retention rate among TFs.
 
-### Lots happened before this point.. But we transition to Github after July 2019, so...
+### 2/19/19: Our collaborative work on maize time-series transcriptome is published
+
+Led by Dr. Wen-Hsiung Li's group in Taiwan, Shinhan has contributed to the study: [__Comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes__](https://www.ncbi.nlm.nih.gov/pubmed/?term=shiu-sh) published in PNAS. This study involves a comprehensive time series data and a novel approach to build time-resolved co-expression network to hypothesize regulatory relationships between genes.
+
+### 2/5/19: Beth's work on specialized metabolism is published and featured by NSF
+
+Beth's work on [__Robust predictions of specialized metabolism genes through machine learning__](https://www.ncbi.nlm.nih.gov/pubmed/?term=shiu-sh) is published in PNAS with Peipei, Johnny, Melissa, and multiple colleagues in Rob Last's group as co-authors. This work features a machine learning approach to predict general and specialized metabolic gene that are notoriously hard to distinquish. The work is featured in [MSU Today](https://msutoday.msu.edu/news/2019/machine-learning-unlocks-plants-secrets/) and in [NSF's Awesome Discoveries You Probably Didn’t Hear About This Week](https://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s).
+
+### Lots happened before this point.. But we transition to Github after early 2019, so...
