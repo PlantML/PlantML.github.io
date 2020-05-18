@@ -13,10 +13,10 @@ widget1:
   image: wang_figure.png
   text: 'Check out what the lab is working on these days.'
 widget2:
-  title: "Awesome Discoveries"
-  url: 'http://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s'
-  image: nsf_youtube_screenshot.png
-  text: "NSF highlights work by the Shiu lab in their series on <i>Awesome Discoveries You Probably Didn't Hear About.</i>"
+  title: "Exciting projects"
+  url: 'research_projects'
+  image: wang_figure.png
+  text: "Check out what we work on these days"
 widget3:
   title: "NRT IMPACTS"
   url: 'https://impacts.natsci.msu.edu/'
