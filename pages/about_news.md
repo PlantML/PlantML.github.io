@@ -15,6 +15,18 @@ In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's revi
 
 Dr. Bao's work on [__COST1 regulates autophagy to control plant drought tolerance__](https://www.ncbi.nlm.nih.gov/pubmed/32170020) is published where Peipei has contributed significantly using comparative genomics approaches. 
 
+## 3/11/20: Lab COVID-19 contigency plan issued
+
+University is deciding the timing to suspend face-to-face instruction. Even if the suspension is in place, instruction will continue online. To prepare for this, When the University suspend face-to-face instruction, all computational research individuals will work remotely. 
+
+1. For lab personnel, only essential operations (e.g. keep plants watered, as defined by Melissa) will remain.
+2. Prior to 1), should you feel the need to work remotely, please inform Shinhan so he is aware.
+3. All scheduled lab functions (lab meeting and KATSUP) will be maintained, except a remote option will be offered with details following.
+4. For any lab personnel engaged in independent research projects (specifically Peipei, Serena, Thilanka) and working remotely should meet with Shinhan daily for 15-30 min to discuss goals for the day.  Such plan should be documented in Trello and shared with Shinhan.
+5. For any lab personnel mentoring others or being mentored (e.g. Peipei and Thilanka, Thilanka and Patricia, Melissa and Abigail), make sure you come up with means and frequency of communication to ensure projects are moving forward.
+
+For online communication, including lab meeting, KATSUP, and project discussion, Zoom will be used.
+
 ## 10/25/19: Beth defended her PhD
 
 Beth defended her PhD thesis today titled _Specilized metabolism and stress response: studies in predicting gene function and regulation_. The seminar was held in Plant Biology Lab 247 and was attended by both her colleagues, friends, and families. Beth is moving to University of Wisconsin-Madison to take a postdoctoral position applying molecular evolutionary and computaional approaches to plant biochemistry. We wish her all the best!
