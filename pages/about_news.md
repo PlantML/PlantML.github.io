@@ -11,25 +11,25 @@ header:
 
 <img src="/images/news/200601_chrisitna-tig-cover.jpg" width="100" Hspace="30" align="right">In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
 
+### 4/8/20: Lab lunch continues
+
+<img src="/images/news/200408_lab-lunch.png" width="100" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok! 
+
 ### 3/31/20: Collaborative work with Dr. Yan Bao is published
 
 Dr. Bao's work on [__COST1 regulates autophagy to control plant drought tolerance__](https://www.ncbi.nlm.nih.gov/pubmed/32170020) is published where Peipei has contributed significantly using comparative genomics approaches.
 
 ### 3/19/20: Siobhan defended today
 
-<img src="/images/news/200319_siobahn-before-denfense.png" width="100" Hspace="30" align="right">Siobahn defended her thesis titled _Modeling and prediction of genetic redundancy in Arabidopsis thaliana and Saccharomyces cerevisiae_ today __virtually__ via Zoom with 89 people in the audience! Both us showed up in the lab (while keeping >6 ft distance) to get the virtual defense setup. Originally due to move to England next week, Siobhan will stay in East Lansing to finish her work. Good job Siobhan! The picture on the right shows Siobhan right after the defense.
+<img src="/images/news/200319_siobahn-before-defense.png" width="100" Hspace="30" align="right">Siobahn defended her thesis titled _Modeling and prediction of genetic redundancy in Arabidopsis thaliana and Saccharomyces cerevisiae_ today __virtually__ via Zoom with 89 people in the audience! Both us showed up in the lab (while keeping >6 ft distance) to get the virtual defense setup. Originally due to move to England next week, Siobhan will stay in East Lansing to finish her work. Good job Siobhan! The picture on the right shows Siobhan right after the defense.
 
-### 3/11/20: Lab COVID-19 contigency plan issued
+### 3/13/20: Our first virtual lab lunch
 
-University is deciding the timing to suspend face-to-face instruction. Even if the suspension is in place, instruction will continue online. To prepare for this, When the University suspend face-to-face instruction, all computational research individuals will work remotely (well, this was announced 2 hours after the lab plan). 
+<img src="/images/news/200325_lab-lunch.png" width="200" Hspace="30" align="right">With all of us working remotely, we decide to host a 15-min lab lunch to check in with everyone. The photo on the right is all of us experimenting with the background feature in Zoom - the two "ghosts" are Siobhan and Serena!
 
-1. For lab personnel, only essential operations (e.g. keep plants watered, as defined by Melissa) will remain.
-2. Prior to 1), should you feel the need to work remotely, please inform Shinhan so he is aware.
-3. All scheduled lab functions (lab meeting and KATSUP) will be maintained, except a remote option will be offered with details following.
-4. For any lab personnel engaged in independent research projects (specifically Peipei, Serena, Thilanka) and working remotely should meet with Shinhan daily for 15-30 min to discuss goals for the day.  Such plan should be documented in Trello and shared with Shinhan.
-5. For any lab personnel mentoring others or being mentored (e.g. Peipei and Thilanka, Thilanka and Patricia, Melissa and Abigail), make sure you come up with means and frequency of communication to ensure projects are moving forward.
+### 3/11/20: Social distancing starts
 
-For online communication, including lab meeting, KATSUP, and project discussion, Zoom will be used.
+Michigan State has indicated all classes will be online only today. Given the nature of most of our work is computational and considering the risks of COVID-19, from today on all lab personnel will be working remotely, except for those who need to keep our plant alive.
 
 ### 3/5/20: Welcome to the lab Ally
 
