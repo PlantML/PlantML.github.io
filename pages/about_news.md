@@ -10,7 +10,8 @@ header:
 ### 6/1/20: Christina's review on interpretable machine learning is published
 
 In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. And her graphics was picked as the cover! This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples.
-![Cover](/images/news/cover.tif.jpg =100x)
+![Cover](https://marlin-prod.literatumonline.com/cms/asset/atypon:cms:attachment:img:d58e6:rev:1588817896201-1778:pii:S0168952519X00074/cover.tif.jpg 
+ width=100)
 
 ### 3/31/20: Collaborative work with Dr. Yan Bao is published
 
