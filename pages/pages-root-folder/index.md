@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Lab News"
   url: '/research_projects/'
-  image: 200601_chrisitna-tig-cover.jpg
+  image: 200601_chrisitna_tig_cover.jpg
   text: 'What's happening in our lab.'
 widget2:
   title: "Awesome Discoveries"
