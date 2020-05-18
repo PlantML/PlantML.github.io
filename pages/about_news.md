@@ -7,6 +7,18 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
+## 6/1/20: Christina's review on interpretable machine learning is published
+
+In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. And her graphics was picked as the cover! This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples.
+
+## 3/31/20: Collaborative work with Dr. Yan Bao is published
+
+Dr. Bao's work on [__COST1 regulates autophagy to control plant drought tolerance__](https://www.ncbi.nlm.nih.gov/pubmed/32170020) is published where Peipei has contributed significantly using comparative genomics approaches. 
+
+## 10/25/19: Beth defended her PhD
+
+Beth defended her PhD thesis today titled _Specilized metabolism and stress response: studies in predicting gene function and regulation_. The seminar was held in Plant Biology Lab 247 and was attended by both her colleagues, friends, and families. Beth is moving to University of Wisconsin-Madison to take a postdoctoral position applying molecular evolutionary and computaional approaches to plant biochemistry. We wish her all the best!
+
 ## 10/20/19: Ronan is here!
 
 Siobhan gave birth today to her baby boy Ronan! Congrats Siobhan and Geoff!
