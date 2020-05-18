@@ -22,11 +22,14 @@ widget3:
   title: "Awesome Discoveries"
   url: '/research_projects/'
   image: wang_figure.png
+<<<<<<< HEAD
   text: "Check out what we are working on"
 =======
   title: "Research Projects"
   url: '/research_projects/'
   image: wang_figure.png
+=======
+>>>>>>> parent of 122bdbd... Update index.md
   text: 'Check out what the lab is working on these days.'
 widget2:
   title: "Awesome Discoveries"
