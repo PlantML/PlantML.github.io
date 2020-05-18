@@ -9,9 +9,9 @@ header:
   image_fullwidth: header_dna_art.jpg
 widget1:
   title: "Lab News"
-  url: '/research_projects/'
-  image: 200601_chrisitna_tig_cover.jpg
-  text: 'What's happening in our lab.'
+  url: '/about_news/'
+  image: wang_figure.png
+  text: 'What's happening in our lab'
 widget2:
   title: "Awesome Discoveries"
   url: '/research_projects/'
