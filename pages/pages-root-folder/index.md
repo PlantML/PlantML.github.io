@@ -8,25 +8,21 @@ layout: frontpage
 header:
   image_fullwidth: header_dna_art.jpg
 widget1:
-  title: "News"
-  url: '/about_news/'
-  image: wang_figure.png
-  text: 'What's new in our lab'
-widget2:
   title: "Research Projects"
   url: '/research_projects/'
-  image: /image/200601_chrisitna-tig-cover.jpg
-  text: 'Check out what we work on these days.'
-widget3:
+  image: wang_figure.png
+  text: 'Check out what the lab is working on these days.'
+widget2:
   title: "Awesome Discoveries"
   url: 'http://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s'
   image: nsf_youtube_screenshot.png
   text: "NSF highlights work by the Shiu lab in their series on <i>Awesome Discoveries You Probably Didn't Hear About.</i>"
-widget4:
+widget3:
   title: "NRT IMPACTS"
   url: 'https://impacts.natsci.msu.edu/'
   image: impacts_logo.png
   text: "In 2019 the <b>I</b>ntegrated training <b>M</b>odel in <b>P</b>lant <b>A</b>nd <b>C</b>ompu<b>T</b>ational <b>S</b>ciences NRT training grant began. Check out this innovative training program for incoming students!"
+#
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
