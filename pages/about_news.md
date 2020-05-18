@@ -9,15 +9,17 @@ header:
 
 ### 6/1/20: Christina's review on interpretable machine learning is published
 
-<img src="/images/news/20200601_chrisitna-tig-cover.jpg" width=100 align=right>In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
+<img src="/images/news/200601_chrisitna-tig-cover.jpg" width=100 align=right>In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
 
 ### 3/31/20: Collaborative work with Dr. Yan Bao is published
 
 Dr. Bao's work on [__COST1 regulates autophagy to control plant drought tolerance__](https://www.ncbi.nlm.nih.gov/pubmed/32170020) is published where Peipei has contributed significantly using comparative genomics approaches.
 
+
+
 ### 3/19/20: Siobhan defended today
 
-<img src="/images/news/20200319_siobahn-before-denfense.jpg" width=100 align=right>Siobahn defended her thesis titled _Modeling and prediction of genetic redundancy in Arabidopsis thaliana and Saccharomyces cerevisiae_ today __virtually__ via Zoom with 89 people in the audience! Both us showed up in the lab (while keeping >6 ft distance) to get the virtual defense setup. Originally due to move to England next week, Siobhan will stay in East Lansing to finish her work. Good job Siobhan! The picture on the right shows Siobhan right after the defense.
+<img src="/images/news/200319_siobahn-before-denfense.png" width=100 align=right>Siobahn defended her thesis titled _Modeling and prediction of genetic redundancy in Arabidopsis thaliana and Saccharomyces cerevisiae_ today __virtually__ via Zoom with 89 people in the audience! Both us showed up in the lab (while keeping >6 ft distance) to get the virtual defense setup. Originally due to move to England next week, Siobhan will stay in East Lansing to finish her work. Good job Siobhan! The picture on the right shows Siobhan right after the defense.
 
 ### 3/11/20: Lab COVID-19 contigency plan issued
 
@@ -31,9 +33,18 @@ University is deciding the timing to suspend face-to-face instruction. Even if t
 
 For online communication, including lab meeting, KATSUP, and project discussion, Zoom will be used.
 
+### 3/5/20: Welcome to the lab Ally
+
+<img src="/images/people/Ally.png" width=100 align=right>Ally has decided to join the Plant Biology Program and, instead of doing any rotation, is coming to our lab! She is currently finishing up her Bachelor's degree in Manchester University, a liberal art institution. She is awarded an MSU College of Natural Science Fellowship as well as an Early-Start Fellowship to begin her doctoral training on July 1st! Welcome to our lab Ally!
+
+### 2/21/20: Welcome to the lab Serena
+
+<img src="/images/people/Serena.png" width=100 align=right>Serena is a new graduate student in the, hold your breath, Plant Biology Program, the Computational Math., Sci., Math Program, AND the Moleculr Plant Science Program. She is a MSU Plant Science Fellow and an NSF Fellow of the IMPACTS training program. She graduated from the Cornell University in 2019 and has been rotating in two other labs. Below is the surprising Slack exchange when I found out she is joining us:
+<img src="/images/news/200221_serena-slack.png" width=100 align=right>
+
 ### 10/25/19: Beth defended her PhD
 
-<img src="/images/news/20191025_beth-before-defense.jpg" width=100 align=right>Beth defended her PhD thesis today titled _Specilized metabolism and stress response: studies in predicting gene function and regulation_. The seminar was held in Plant Biology Lab 247 and was attended by both her colleagues, friends, and families. Beth is moving to University of Wisconsin-Madison to take a postdoctoral position applying molecular evolutionary and computaional approaches to plant biochemistry. We wish her all the best! The picture on the right shows Beth right before her defense.
+<img src="/images/news/191025_beth-before-defense.png" width=100 align=right>Beth defended her PhD thesis today titled _Specilized metabolism and stress response: studies in predicting gene function and regulation_. The seminar was held in Plant Biology Lab 247 and was attended by both her colleagues, friends, and families. Beth is moving to University of Wisconsin-Madison to take a postdoctoral position applying molecular evolutionary and computaional approaches to plant biochemistry. We wish her all the best! The picture on the right shows Beth right before her defense.
 
 ### 10/20/19: Ronan is here!
 
@@ -41,7 +52,7 @@ Siobhan gave birth today to her baby boy Ronan! Congrats Siobhan and Geoff!
 
 ### 9/27/19: Christina defeneded her PhD
 
-<img src="/images/news/20191003_christina-last-day.jpg" width=100 align=right>Christina today defended her PhD thesis titled _Interpretable machine laerning in plant genomes: studies in the complex relationship between genotype and phenotype_. The seminar was held in Plant Biology Lab 247 and was full! Christina's parents also attended her seminar. In the talk, Christina laid out the overarching Christina is now moving to Australia working in algorithm development in single cell genomics studies. All the best Christina! The picture on the right showing Chrisitna leaving the lab for good on 10/3/2020...
+<img src="/images/news/191003_christina-last-day.png" width=100 align=right>Christina today defended her PhD thesis titled _Interpretable machine laerning in plant genomes: studies in the complex relationship between genotype and phenotype_. The seminar was held in Plant Biology Lab 247 and was full! Christina's parents also attended her seminar. In the talk, Christina laid out the overarching Christina is now moving to Australia working in algorithm development in single cell genomics studies. All the best Christina! The picture on the right showing Chrisitna leaving the lab for good on 10/3/2020...
 
 ### 9/24/19: Sahra and Christina's work on the regulatory mechanisms of cell-type stress response is published
 
@@ -55,9 +66,9 @@ Chrisitina's paper on [__Benchmarking Parametric and Machine Learning Models for
 
 John's paper on [__Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae__](https://www.ncbi.nlm.nih.gov/pubmed/31431676) is published in Scientific Report. Christina as well as Rosalie Sowers, a highly talented undergrad from Penn State also contribute to this work. Extensive transcriptional activity occurring in intergenic regions of genomes has raised the question whether intergenic transcription represents the activity of novel genes or noisy expression. To assess this, John et al. evaluated cross-species and post-duplication sequence and expression conservation of intergenic transcribed regions. This study provides a framework to identify novel genes using comparative transcriptomic data to improve genome annotation that is fundamental for connecting genotype to phenotype in crop and model systems.
 
-### 8/19/19: Our newest addition to the lab, Thilanka Ranaweera
+### 8/19/19: Our newest addition to the lab, Thilanka
 
-Thilanka is a new graduate student in the lab. Thilnaka graduated from the University of Peradeniya in Sri Lanka in 2016 and worked as a teaching assistant in the past two years in Peradeniya. He is energetic, communicative, and excited about learning new topics. Welcome to the lab!
+<img src="/images/people/thilanka.jpg" width=100 align=right>Thilanka is a new graduate student in the Plant Biology Graduate Program. He graduated from the University of Peradeniya in Sri Lanka in 2016 and worked as a teaching assistant in the past two years in Peradeniya. He is energetic, communicative, and excited about learning new topics. He is also easy to get alone with, and has a black belt in Taekwondo!! Welcome to the lab!
 
 ### 7/24/19: Siobhan got the Dissertation Completion Fellowship
 
