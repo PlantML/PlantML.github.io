@@ -49,7 +49,7 @@ Siobhan gave birth today to her baby boy Ronan! Congrats Siobhan and Geoff!
 
 ### 9/27/19: Christina defeneded her PhD
 
-<img src="/images/news/191003_christina-last-day.png" width=100 align=right>Christina today defended her PhD thesis titled _Interpretable machine laerning in plant genomes: studies in the complex relationship between genotype and phenotype_. The seminar was held in Plant Biology Lab 247 and was full! Christina's parents also attended her seminar. In the talk, Christina laid out the overarching Christina is now moving to Australia working in algorithm development in single cell genomics studies. All the best Christina! The picture on the right showing Chrisitna leaving the lab for good on 10/3/2020...
+<img src="/images/news/191003_christina-last-day.png" width=200 align=right>Christina today defended her PhD thesis titled _Interpretable machine laerning in plant genomes: studies in the complex relationship between genotype and phenotype_. The seminar was held in Plant Biology Lab 247 and was full! Christina's parents also attended her seminar. In the talk, Christina laid out the overarching Christina is now moving to Australia working in algorithm development in single cell genomics studies. All the best Christina! The picture on the right showing Chrisitna leaving the lab for good on 10/3/2020...
 
 ### 9/24/19: Sahra and Christina's work on the regulatory mechanisms of cell-type stress response is published
 
