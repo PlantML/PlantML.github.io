@@ -39,6 +39,10 @@ For online communication, including lab meeting, KATSUP, and project discussion,
 
 <img src="/images/people/Serena.png" width="100" Hspace="30" align="right">Serena is a new graduate student in the, hold your breath, Plant Biology Program, the Computational Math., Sci., Math Program, AND the Moleculr Plant Science Program. She is a MSU Plant Science Fellow and an NSF Fellow of the IMPACTS training program. She graduated from the Cornell University in 2019 and has been rotating in two other labs. [Here is the funny Slack exchange](/images/news/200221_serena-slack.png) when I found out she is joining us!
 
+### 1/1/20: Christina's study on using genomic and transcriptomic information to predict trait is published
+
+Can transcriptome data be used to predict traits? In the study titled [__Transcriptome-Based Prediction of Complex Traits in Maize__](https://www.ncbi.nlm.nih.gov/pubmed/31641024), Christina, in collaboration with Jeremy, a rotating student at the time, and Bob VanBuren tested this and found out that not only we can predict traits with transcriptomes, but they may tell us more than genomic data can. The finding is featured in [MSU Today](https://msutoday.msu.edu/news/2020/scientists-improve-yield-predictions-based-on-seedling-data/)!
+
 ### 10/25/19: Beth defended her PhD
 
 <img src="/images/news/191025_beth-before-defense.png" width="100" Hspace="30" align="right">Beth defended her PhD thesis today titled _Specilized metabolism and stress response: studies in predicting gene function and regulation_. The seminar was held in Plant Biology Lab 247 and was attended by both her colleagues, friends, and families. Beth is moving to University of Wisconsin-Madison to take a postdoctoral position applying molecular evolutionary and computaional approaches to plant biochemistry. We wish her all the best! The picture on the right shows Beth right before her defense.
@@ -73,6 +77,14 @@ Siobhan has been selected to receive a $7,500 College of Natural Science Dissert
 
 ### 7/13/19: Nick's work on regulatory assymmetry of plant duplicate genes is published
 
-Nick's paper on [__Expression and regulatory asymmetry of retained Arabidopsis thaliana transcription factor genes derived from whole genome duplication__](https://www.ncbi.nlm.nih.gov/pubmed/30866803) is published in BMC Evoltionary Biology. Christina and Eamon Winship, an undergraduate reseracher at the time also contributed. Transcription factors (TFs) play a key role in gene regulation and tend to be retained after duplication. Nick et al.'s work provide answers about about how TF duplicates have diverged in their expression and regulation that contribute to a better understanding of the elevated retention rate among TFs.
+Nick's paper on [__Expression and regulatory asymmetry of retained Arabidopsis thaliana transcription factor genes derived from whole genome duplication__](https://www.ncbi.nlm.nih.gov/pubmed/30866803) is published in BMC Evoltionary Biology. Christina and Eamon Winship, an undergraduate reseracher at the time also contributed. Transcription factors (TFs) play a key role in gene regulation and tend to be retained after duplication. Nick's work provide answers about about how TF duplicates have diverged in their expression and regulation that contribute to a better understanding of the elevated retention rate among TFs.
 
-### Lots happened before this point.. But we transition to Github after July 2019, so...
+### 2/19/19: Our collaborative work on maize time-series transcriptome is published
+
+Led by Dr. Wen-Hsiung Li's group in Taiwan, Shinhan has contributed to the study: [__Comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes__](https://www.ncbi.nlm.nih.gov/pubmed/?term=shiu-sh) published in PNAS. This study involves a comprehensive time series data and a novel approach to build time-resolved co-expression network to hypothesize regulatory relationships between genes.
+
+### 2/5/19: Beth's work on specialized metabolism is published and featured by NSF
+
+Beth's work on [__Robust predictions of specialized metabolism genes through machine learning__](https://www.ncbi.nlm.nih.gov/pubmed/?term=shiu-sh) is published in PNAS with Peipei, Johnny, Melissa, and multiple colleagues in Rob Last's group as co-authors. This work features a machine learning approach to predict general and specialized metabolic gene that are notoriously hard to distinquish. The work is featured in [MSU Today](https://msutoday.msu.edu/news/2019/machine-learning-unlocks-plants-secrets/) and in [NSF's Awesome Discoveries You Probably Didn’t Hear About This Week](https://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s).
+
+### Lots happened before this point.. But we transition to Github after early 2019, so...
