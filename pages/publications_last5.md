@@ -24,7 +24,7 @@ Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, B
 
 ## 2020
 
-**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *Trends in Genetics* [preprint](https://www.preprints.org/manuscript/202002.0239/v1)
+**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *Trends in Genetics* 36(6):442 [publisher](https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30069-X)
 
 Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* epub ahead of print [pumbed](https://pubmed.ncbi.nlm.nih.gov/32170020)
 
