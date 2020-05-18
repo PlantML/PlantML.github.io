@@ -8,28 +8,9 @@ layout: frontpage
 header:
   image_fullwidth: header_dna_art.jpg
 widget1:
-<<<<<<< HEAD
-  title: "Lab News"
-  url: '/about_news/'
-  image: 200601_chrisitna-tig-cover.jpg
-  text: 'What's new in our lab'
-widget2:
-  title: "Great People"
-  url: '/people_current/'
-  image: 14_lab.png
-  text: "Who we are"
-widget3:
-  title: "Awesome Discoveries"
-  url: '/research_projects/'
-  image: wang_figure.png
-<<<<<<< HEAD
-  text: "Check out what we are working on"
-=======
   title: "Research Projects"
   url: '/research_projects/'
   image: wang_figure.png
-=======
->>>>>>> parent of 122bdbd... Update index.md
   text: 'Check out what the lab is working on these days.'
 widget2:
   title: "Awesome Discoveries"
@@ -41,7 +22,6 @@ widget3:
   url: 'https://impacts.natsci.msu.edu/'
   image: impacts_logo.png
   text: "In 2019 the <b>I</b>ntegrated training <b>M</b>odel in <b>P</b>lant <b>A</b>nd <b>C</b>ompu<b>T</b>ational <b>S</b>ciences NRT training grant began. Check out this innovative training program for incoming students!"
->>>>>>> parent of a3e525e... Update index.md
 #
 # Use the call for action to show a button on the frontpage
 #
