@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_dna_art.jpg
 widget1:
   title: "Lab News"
-  url: '/about news/'
+  url: '/about_news/'
   image: 200601_chrisitna-tig-cover.jpg
   text: 'What's new in our lab'
 widget2:
