@@ -13,7 +13,7 @@ widget1:
   image: wang_figure.png
   text: 'Check out what the lab is working on these days.'
 widget2:
-  title: "Research Projects"
+  title: "Research Projects2"
   url: '/research_projects/'
   image: wang_figure.png
   text: 'Check out what the lab is working on these days.'
