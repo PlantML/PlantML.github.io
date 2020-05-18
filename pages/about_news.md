@@ -15,8 +15,6 @@ header:
 
 Dr. Bao's work on [__COST1 regulates autophagy to control plant drought tolerance__](https://www.ncbi.nlm.nih.gov/pubmed/32170020) is published where Peipei has contributed significantly using comparative genomics approaches.
 
-
-
 ### 3/19/20: Siobhan defended today
 
 <img src="/images/news/200319_siobahn-before-denfense.png" width=100 align=right>Siobahn defended her thesis titled _Modeling and prediction of genetic redundancy in Arabidopsis thaliana and Saccharomyces cerevisiae_ today __virtually__ via Zoom with 89 people in the audience! Both us showed up in the lab (while keeping >6 ft distance) to get the virtual defense setup. Originally due to move to England next week, Siobhan will stay in East Lansing to finish her work. Good job Siobhan! The picture on the right shows Siobhan right after the defense.
@@ -39,8 +37,7 @@ For online communication, including lab meeting, KATSUP, and project discussion,
 
 ### 2/21/20: Welcome to the lab Serena
 
-<img src="/images/people/Serena.png" width=100 align=right>Serena is a new graduate student in the, hold your breath, Plant Biology Program, the Computational Math., Sci., Math Program, AND the Moleculr Plant Science Program. She is a MSU Plant Science Fellow and an NSF Fellow of the IMPACTS training program. She graduated from the Cornell University in 2019 and has been rotating in two other labs. Below is the surprising Slack exchange when I found out she is joining us:
-<img src="/images/news/200221_serena-slack.png" width=100 align=right>
+<img src="/images/people/Serena.png" width=100 align=right>Serena is a new graduate student in the, hold your breath, Plant Biology Program, the Computational Math., Sci., Math Program, AND the Moleculr Plant Science Program. She is a MSU Plant Science Fellow and an NSF Fellow of the IMPACTS training program. She graduated from the Cornell University in 2019 and has been rotating in two other labs. [Here is the funny Slack exchange](/images/news/200221_serena-slack.png) when I found out she is joining us!
 
 ### 10/25/19: Beth defended her PhD
 
