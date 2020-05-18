@@ -8,15 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: header_dna_art.jpg
 widget1:
-  title: "Research Projects"
-  url: '/research_projects/'
+  title: "Lab news"
+  url: '/about_news/'
   image: wang_figure.png
-  text: 'Check out what the lab is working on these days.'
+  text: 'Check out what's happening in our lab'
 widget2:
   title: "Exciting projects"
   url: 'research_projects'
   image: wang_figure.png
-  text: "Check out what we work on these days"
+  text: "Check out what sorts of research we do"
 widget3:
   title: "NRT IMPACTS"
   url: 'https://impacts.natsci.msu.edu/'
