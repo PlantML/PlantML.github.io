@@ -7,15 +7,15 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
-### 5/13/20: Ronan can no longer stand the social distancing
+### 5/13/20: Virtual lab lunch at its second month
 
-<img src="/images/news/200513_lab-lunch.png" width="200" Hspace="30" align="right">In our lab lunch today, Ronan is biting her mom's face! Folks are still doing well!
+<img src="/images/news/200513_lab-lunch.png" width="200" Hspace="30" align="right">In our lab lunch today, Ronan is biting her mom's face!
 
 ### 5/11/20: Christina's review on interpretable machine learning is published
 
-<img src="/images/200601_chrisitna-tig-cover.jpg" width="100" Hspace="30" align="right">In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
+<img src="/images/200601_chrisitna_tig_cover.jpg" width="100" Hspace="30" align="right">In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
 
-### 4/8/20: Lab lunch continues
+### 4/8/20: Virtual lab lunch for almost a month
 
 <img src="/images/news/200408_lab-lunch.png" width="200" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok! 
 
