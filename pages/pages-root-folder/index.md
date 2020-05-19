@@ -34,7 +34,7 @@ widget3:
 #
 callforaction:
   url: "/people_join_us/"
-  text: Check out position openings ›
+  text: Interested in our lab? ›
   style: alert
 permalink: /index.html
 #
