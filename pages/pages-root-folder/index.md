@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_dna_art.jpg
 widget1:
-  title: "Research Projects"
-  url: '/research_projects/'
-  image: 200601_chrisitna_tig_cover_wide.png
-  text: 'Check out what the lab is working on these days.'
+  title: "Lab news"
+  url: '/about_news/'
+  image: impacts_logo.png
+  text: "Check out what's going on in our lab"
 widget2:
   title: "Our team"
   url: '/people_current/'
   image: lab_200517.png
   text: "An energetic, fun, and collaborative group of scientists"
 widget3:
-  title: "Lab news"
-  url: '/about_news/'
-  image: impacts_logo.png
-  text: "Check out what's going on in our lab"
+  title: "Research Projects"
+  url: '/research_projects/'
+  image: 200601_chrisitna_tig_cover_wide.png
+  text: 'Check out what the lab is working on these days.'
 #
 # Use the call for action to show a button on the frontpage
 #
