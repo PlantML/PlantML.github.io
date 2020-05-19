@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_dna_art.jpg
 widget1:
-  title: "Lab news"
-  url: '/about_news/'
+  title: "Research Projects"
+  url: '/research_projects/'
   image: 200601_chrisitna_tig_cover_wide.png
-  text: 'What's happening in our lab'
+  text: 'Check out what the lab is working on these days.'
 widget2:
   title: "Awesome Discoveries"
   url: 'http://www.youtube.com/watch?v=TwI1aeWz9Dc&t=0m38s'
