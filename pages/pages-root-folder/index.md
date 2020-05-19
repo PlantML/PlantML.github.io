@@ -18,10 +18,10 @@ widget2:
   image: lab_200517.png
   text: "An energetic, fun, and collaborative group of scientists"
 widget3:
-  title: "NRT IMPACTS"
-  url: 'https://impacts.natsci.msu.edu/'
+  title: "Lab news"
+  url: '/about_news/'
   image: impacts_logo.png
-  text: "In 2019 the <b>I</b>ntegrated training <b>M</b>odel in <b>P</b>lant <b>A</b>nd <b>C</b>ompu<b>T</b>ational <b>S</b>ciences NRT training grant began. Check out this innovative training program for incoming students!"
+  text: "Check out what's going on in our lab"
 #
 # Use the call for action to show a button on the frontpage
 #
