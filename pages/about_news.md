@@ -9,7 +9,7 @@ header:
 
 ### 5/13/20: Virtual lab lunch at its second month
 
-<img src="/images/news/200513_lab-lunch.png" width="200" Hspace="30" align="right">In our lab lunch today, Ronan is biting her mom's face!
+<img src="/images/news/200513_lab-lunch.png" width="300" Hspace="30" align="right">In our lab lunch today, Ronan is biting her mom's face!
 
 ### 5/11/20: Christina's review on interpretable machine learning is published
 
@@ -17,7 +17,7 @@ header:
 
 ### 4/8/20: Virtual lab lunch for almost a month
 
-<img src="/images/news/200408_lab-lunch.png" width="200" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok! 
+<img src="/images/news/200408_lab-lunch.png" width="300" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok! 
 
 ### 3/31/20: Collaborative work with Dr. Yan Bao is published
 
