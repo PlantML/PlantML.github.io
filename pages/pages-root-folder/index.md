@@ -16,7 +16,7 @@ widget2:
   title: "Our team"
   url: '/people_current/'
   image: lab_200517.png
-  text: "A bunch of energetic, fun, and collaborative scientists"
+  text: "An energetic, fun, and collaborative group of scientists"
 widget3:
   title: "NRT IMPACTS"
   url: 'https://impacts.natsci.msu.edu/'
