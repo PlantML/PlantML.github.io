@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Want to join the Shiu Lab?"
+title: "Want to join us?"
 subheadline: "People"
 permalink: "/people_join_us/"
 header:
@@ -13,14 +13,14 @@ Please send your CV to the PI (shius at msu dot edu) and inquire about whether t
 ## Graduate students
 We are always looking for motivated students who are interested in multi-disciplinary works to bring experimental and computational biology together. We'd suggest that you contact the PI (shius at msu dot edu) and inquire.
 
-If you are interested in working in our lab, please apply to one of graduate programs below and state your interest about our lab in your application. There are four degree granting programs in Michigan State the PI is affiliated with:
+If you are interested in working in our lab, please apply to one of graduate programs below and state your interest about our lab in your application. There are four degree granting programs in Michigan State Shinhan is affiliated with:
 
 - [The Plant Biology Department](https://cmse.msu.edu/)
 - [Computational Mathematics Science and Engineering](https://cmse.msu.edu/)
 - [The Cell & Molecular Biology Program](https://cmb.natsci.msu.edu/)
 - [The Genetics Program](https://ggs.natsci.msu.edu/)
 
-In addition, the PI is also affiliated with two inter-departmental programs that require affiliation with one of the above degree granting units:
+In addition, Shinhan is also affiliated with two inter-departmental programs that require affiliation with one of the above degree granting units:
 
 - [The Ecology, Evolutionary Biology, & Behavior Program](https://eebb.natsci.msu.edu/)
 - [The Plant Breeding, Genetics, and Biotechnology](https://www.canr.msu.edu/pbgb/)
