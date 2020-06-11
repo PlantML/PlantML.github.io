@@ -9,7 +9,7 @@ header:
 
 #### 6/11/20: Kevin, Ally's brother, says hi!
 
-<img src="/images/news/200611_kevin_says_hi.png" width="300" Hspace="30" align="right">Kevin likes to draw/color while Ally does work. During our lab reading group meeting, Kevin decided to draw a picture for all of us. Here it is!
+<img src="/images/news/200611_kevin_says_hi.png" width="100" Hspace="30" align="right">Kevin likes to draw/color while Ally does work. During our lab reading group meeting, Kevin decided to draw a picture for all of us. Here it is!
 
 
 #### 5/13/20: Virtual lab lunch at its second month
