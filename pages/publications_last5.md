@@ -32,7 +32,7 @@ Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC
 
 Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* 182(3):1420 [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
 
-**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH** (2020) Transcriptome-based prediction of complex traits in maize. *The Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
+**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH** (2020) Transcriptome-based prediction of complex traits in maize. *Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
 
 ## 2019
 
