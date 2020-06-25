@@ -19,16 +19,16 @@ header:
 
 <img src="/images/news/200611_kevin_says_hi.png" width="100" Hspace="30" align="right">Kevin likes to draw/color while Ally does work. During our lab reading group meeting, Kevin decided to draw a picture for all of us. Here it is!
 
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### 5/13/20: Virtual lab lunch at its second month
 
 In our lab lunch today, Ronan is biting her mom's face!
-<img src="/images/news/200513_lab-lunch.png" width="100" Hspace="30" align="right">
+<img src="/images/news/200513_lab-lunch.png" width="300" Hspace="30" align="right">
 
 
 
