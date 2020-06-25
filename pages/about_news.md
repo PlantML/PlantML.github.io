@@ -6,9 +6,9 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+<img src="/images/people/Serena.png" width="100" Hspace="30" align="left">
 #### 6/25/20: Serena won!!
-
-<img src="/images/people/Serena.png" width="100" Hspace="30" align="left">Serena is the winner of the SciComm Blog Contest! Here is her winning post [KNOWLEDGE GRAPHS: A New Way To Reason](https://www.msuscicomm.org/post/knowledge-graphs). Congrats Serena!
+Serena is the winner of the SciComm Blog Contest! Here is her winning post [KNOWLEDGE GRAPHS: A New Way To Reason](https://www.msuscicomm.org/post/knowledge-graphs). Congrats Serena!
 
 #### 6/21/20: Fanrui is finally back!
 
