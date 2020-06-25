@@ -8,15 +8,15 @@ header:
 ---
 #### 6/25/20: Serena won!!
 
-<img src="/images/people/Serena.png" width="100" Hspace="30" align="right">Serena is the winner of the SciComm Blog Contest! Here is her winning post [KNOWLEDGE GRAPHS: A New Way To Reason](https://www.msuscicomm.org/post/knowledge-graphs). Congrats Serena!
+<img src="/images/people/Serena.png" width="100" Hspace="30" align="left">Serena is the winner of the SciComm Blog Contest! Here is her winning post [KNOWLEDGE GRAPHS: A New Way To Reason](https://www.msuscicomm.org/post/knowledge-graphs). Congrats Serena!
 
 #### 6/21/20: Fanrui is finally back!
 
-<img src="/images/people/Fanrui.jpg" width="100" Hspace="30" align="right">Fanrui, our deep learning expert, Peipei's beloved husband, and a great cook, is finally back after getting stuck in China for >6 months due to the COVID19, repeated flight canceldation, and long stay in the secondary screen through the immigration. Welcome back!
+<img src="/images/people/fanrui.jpg" width="100" Hspace="30" align="right">Fanrui, our deep learning expert, Peipei's beloved husband, and a great cook, is finally back after getting stuck in China for >6 months due to the COVID19, repeated flight canceldation, and long stay in the secondary screen through the immigration. Welcome back!
 
 #### 6/11/20: Kevin, Ally's brother, says hi!
 
-<img src="/images/news/200611_kevin_says_hi.png" width="100" Hspace="30" align="right">Kevin likes to draw/color while Ally does work. During our lab reading group meeting, Kevin decided to draw a picture for all of us. Here it is!
+<img src="/images/news/200611_kevin_says_hi.png" width="100" Hspace="30" align="left">Kevin likes to draw/color while Ally does work. During our lab reading group meeting, Kevin decided to draw a picture for all of us. Here it is!
 
 
 #### 5/13/20: Virtual lab lunch at its second month
@@ -25,7 +25,7 @@ header:
 
 #### 5/11/20: Christina's review on interpretable machine learning is published
 
-<img src="/images/200601_chrisitna_tig_cover.jpg" width="100" Hspace="30" align="right">In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
+<img src="/images/200601_chrisitna_tig_cover.jpg" width="100" Hspace="30" align="left">In collaboration with Jiliang Tang from Comp. Sci. & Engr, MSU, Christina's review on [__Opening the Black Box: Interpretable Machine Learning for Geneticists__](https://www.ncbi.nlm.nih.gov/pubmed/32396837) is now published in Trends in Genetics. This work highlights current progress in making machine learning model interpretable and explanable using applications in genetics as examples. And her graphics was picked as the cover as shown on the right!
 
 #### 4/8/20: Virtual lab lunch for almost a month
 
