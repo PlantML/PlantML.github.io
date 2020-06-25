@@ -15,11 +15,13 @@ header:
 
 <img src="/images/news/200621_fanrui_small.png" width="100" Hspace="30" align="right">Fanrui, our deep learning expert, Peipei's beloved husband, and a great cook, is finally back after getting stuck in China for >6 months due to the COVID19, repeated flight canceldation, and long stay in the secondary screen through the immigration. Welcome back!
 
-
-
 #### 6/11/20: Kevin, Ally's brother, says hi!
 
 <img src="/images/news/200611_kevin_says_hi.png" width="100" Hspace="30" align="right">Kevin likes to draw/color while Ally does work. During our lab reading group meeting, Kevin decided to draw a picture for all of us. Here it is!
+
+
+
+
 
 
 
