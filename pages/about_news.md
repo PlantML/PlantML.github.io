@@ -26,7 +26,7 @@ header:
 #### 5/13/20: Virtual lab lunch at its second month
 
 In our lab lunch today, Ronan is biting her mom's face!
-<img src="/images/news/200513_lab-lunch.png" width="300" Hspace="30" align="left">
+<img src="/images/news/200513_lab-lunch.png" width="100" Hspace="30" align="right">
 
 
 
