@@ -10,7 +10,7 @@ header:
 ## [Research](https://shiulab.github.io/research_projects/)
 
 The three long-term goals of our research program are to: 
-* Understand the evolutionary processes that contribute to the variation in genome content within and between species,
+* Understand the evolutionary processes that contribute to the variation in genome content within/between species,
 * Uncover the mechanisms that underlie the translation of genomic and environmental information to phenotype, and
 * Translate advances in computational and data sciences and machine learning approaches to assess and improve our understanding in biology.
 
