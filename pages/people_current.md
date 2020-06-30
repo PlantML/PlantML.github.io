@@ -18,7 +18,7 @@ permalink: "/people_current/"
   <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>
   <li><img src="Serena.png" alt='photo of serena'><p>Serena Lotreck<br>Plant Biology/CMSE</p></li> 
   <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li> 
-  <li><img src="brown.png" alt='photo of Hannah'><p> Hannah Brown<br>Plant Biology</p></li> 
+  <li><img src="brown.jpg" alt='photo of Hannah'><p> Hannah Brown<br>Plant Biology</p></li> 
 </ul>
 
 <H3>Undergraduate Students</H3> 
