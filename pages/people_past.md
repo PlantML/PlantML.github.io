@@ -91,6 +91,11 @@ header:
 ## Undergrads (MSU)
 <table style="width:100%">
   <tr>
+    <td><img src="../images/people_past/Traverse.png" width="40px"> </td>
+    <td>Traverse Cottrell (2019-20)</td>
+    <td>Plant Biology</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/50px-Donaldson.png" width="40px"> </td>
     <td>Paityn Donaldson (2017-19)</td>
     <td>Mol Gen/Genom, Pharm</td>
@@ -272,6 +277,11 @@ header:
 
 ## Visiting scholars
 <table style="width:100%">
+  <tr>
+    <td><img src="../images/people_past/petricia.png" width="40px"></td>
+    <td>Patricia Blum (2020)</td>
+    <td>Undergraduate student, Heinrich Heine University, Duesseldorf, Germany</td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/50px-josheph.png" width="40px"></td>
     <td>Joseph Yayen (2020)</td>
