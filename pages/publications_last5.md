@@ -15,9 +15,9 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Read coverage as an indicator of misassembly in a short-read based genome assembly. *[bioRxiv](https://doi.org/10.1101/790337)*
 
-**Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH** *[bioRxiv](https://doi.org/10.1101/2020.01.13.112102)*
-
 ## 2020
+
+**Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH** *In Silico Plants* (accepted) [bioRxiv](https://doi.org/10.1101/2020.01.13.112102)
 
 **Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *Nuc Acid Res-Genomics & Bioinformatics* (accepted) [bioRxiv](https://doi.org/10.1101/2020.02.28.969261)
 
