@@ -9,7 +9,7 @@ permalink: "/publications_last5/"
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/) or see our [Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en) page
 
-__Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
+__Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members.
 
 ## Pre-prints
 
@@ -23,7 +23,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, Brandizzi F, **Shiu SH**, Last RL. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *eLife* 9:e56717 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32613943/)
 
-**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *Trends in Genetics* 36(6):442 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32396837/)<font color="blue"><sup>Rev</sup></font>
+**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. <font color="blue">[review]</font> *Trends in Genetics* 36(6):442 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32396837/)<font color="blue"><sup>Rev</sup></font>
 
 Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* 117:7482 [pumbed](https://pubmed.ncbi.nlm.nih.gov/32170020)
 
@@ -73,7 +73,7 @@ Bennett MS, **Shiu SH**, Triemer RE. (2017) A rare case of plastid protein-codin
 
 **Uygun S**, Peng C, **Lehti-Shiu MD**, Last R, **Shiu SH**. (2016) Utility and limitations of using gene expression data to identify functional associations. *PLoS Comp. Biol.* 12(12):e1005244 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27935950)
 
-**Panchy N**, **Lehti-Shiu MD**, **Shiu SH**. (2016) Evolution of Gene Duplication in Plants. *Plant Physiol.* 171(4):2294-316. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27288366)<font color="blue"><sup>Rev</sup></font>
+**Panchy N**, **Lehti-Shiu MD**, **Shiu SH**. (2016) Evolution of Gene Duplication in Plants. <font color="blue">[review]</font> *Plant Physiol.* 171(4):2294-316. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27288366)
 
 Kang H, Zhu D, Lin R, Opiyo SO, Jiang N, **Shiu SH**, Wang GL. (2016) A novel method for identifying polymorphic transposable elements via scanning of high-throughput short reads. *DNA Research* 23(3):241-51. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27098848)
 
