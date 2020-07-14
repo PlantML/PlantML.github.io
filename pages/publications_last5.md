@@ -24,7 +24,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, Brandizzi F, **Shiu SH**, Last RL. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *eLife* 9:e56717 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32613943/)
 
-**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *Trends in Genetics* 36(6):442 [publisher](https://www.cell.com/trends/genetics/fulltext/S0168-9525(20)30069-X)
+**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. *Trends in Genetics* 36(6):442 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32396837/)
 
 Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* 117:7482 [pumbed](https://pubmed.ncbi.nlm.nih.gov/32170020)
 
