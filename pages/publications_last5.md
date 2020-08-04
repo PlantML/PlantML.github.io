@@ -25,7 +25,7 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 **Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH** *In Silico Plants* (accepted) [bioRxiv](https://doi.org/10.1101/2020.01.13.112102)
 
-**Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *Nuc Acid Res-Genomics & Bioinformatics* (accepted) [bioRxiv](https://doi.org/10.1101/2020.02.28.969261)
+**Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *Nuc Acid Res-Genomics & Bioinformatics* 2(3):lqaa049 [doi](ttps://doi-org.proxy2.cl.msu.edu/10.1093/nargab/lqaa049)
 
 Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, Brandizzi F, **Shiu SH**, Last RL. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *eLife* 9:e56717 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32613943/)
 
