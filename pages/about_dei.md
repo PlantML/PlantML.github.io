@@ -15,16 +15,16 @@ Inspired by the article [Ten Simple Rules for Building an Anti-Racist Research L
    * Consider our perspectives
    * Know when and how to speak up
 2. Establish a "DEI intermediary" to:
-  * six-month rotation of lab members
-  * Serve as confidente of DEI-related complaints and related feedback
-  * Communicate with PI on DEI-related issues that need to be resolved.
-  * Moderate bi-annual evalution of mentoring practices
+   * six-month rotation of lab members
+   * Serve as confidente of DEI-related complaints and related feedback
+   * Communicate with PI on DEI-related issues that need to be resolved.
+   * Moderate bi-annual evalution of mentoring practices
 3. Publishing and grant writing with black, indigenous, people-of-color colleagues
-  * Seek collaborations
+   * Actively seek collaborations
 4. Intentionally recruit minority students and staff
-  * Annual reevaulation of recruitment practice by the PI
+   * Annual reevaulation of recruitment practice by the PI
 5. Advocate and support actions of minority colleagues
-  * Support efforts to organize at the departmental and inter-departmental levels
-  * Advocate for diversity in leadership in science in our institution and beyond.
+   * Support efforts to organize at the departmental and inter-departmental levels
+   * Advocate for diversity in leadership in science in our institution and beyond.
 6. Be aware that we are doing this not to get brownie points
-  * Hold the powerful accountable and don’t expect gratitude
+   * Hold the powerful accountable and don’t expect gratitude
