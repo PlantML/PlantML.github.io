@@ -8,6 +8,8 @@
   dropdown:
   - title: "Mission"
     url: "/about_mission/"
+  - title: "Diversity, equity, & inclusion"
+    url: "/about_dei/"
   - title: "News"
     url: "/about_news/"
   
