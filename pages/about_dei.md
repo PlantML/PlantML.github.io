@@ -7,7 +7,7 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
-### Actions against racism and discriminatory practices
+### Actions against racism & other discriminatory practices
 
 Inspired by the article [Ten Simple Rules for Building an Anti-Racist Research Lab](https://ecoevorxiv.org/4a9p8/?utm_source=Nature+Briefing&utm_campaign=72689b2f3c-briefing-dy-20200619&utm_medium=email&utm_term=0_c9dfd39373-72689b2f3c-44323345), we, the members of the Shiu lab, commit to the following actions: 
 
