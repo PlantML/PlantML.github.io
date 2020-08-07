@@ -12,8 +12,8 @@ header:
 Inspired by the article [Ten Simple Rules for Building an Anti-Racist Research Lab](https://ecoevorxiv.org/4a9p8/?utm_source=Nature+Briefing&utm_campaign=72689b2f3c-briefing-dy-20200619&utm_medium=email&utm_term=0_c9dfd39373-72689b2f3c-44323345), we, the members of the Shiu lab, commit to the following actions: 
 
 1. Monthly/bimonthly discussion on anti-racism or related topics: [reading list](https://docs.google.com/spreadsheets/d/16F8oSwMwGKZz8eWC7oW-f87WXHGIWjAZQASHiCPjK74/edit#gid=0) with the goals to:
-    * Consider our perspectives
-    * Know when and how to speak up
+   * Consider our perspectives
+   * Know when and how to speak up
 2. Establish a "DEI intermediary" to:
   * six-month rotation of lab members
   * Serve as confidente of DEI-related complaints and related feedback
