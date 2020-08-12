@@ -25,7 +25,7 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 Liu WY, Lin HH, Yu CP, Chang CK, Chen HJ, Lin JY, Lu MYJ, Tu SL, **Shiu SH** Wu SH, Ku MSB, Li WH. Maize ANT1 modulates vascular development, chloroplast development, photosynthesis and plant growth. *Proc. Natl. Acad. Sci., USA* (in press)
 
-**Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH**. Within and cross species predictions of plant specialized metabolism genes using transfer learning. *In Silico Plants* (accepted) [bioRxiv](https://doi.org/10.1101/2020.01.13.112102)
+**Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH**. Within and cross species predictions of plant specialized metabolism genes using transfer learning. *In Silico Plants* (published online) [doi](https://doi.org/10.1093/insilicoplants/diaa005)
 
 **Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *Nuc Acid Res-Genomics & Bioinformatics* 2(3):lqaa049 [doi](ttps://doi-org.proxy2.cl.msu.edu/10.1093/nargab/lqaa049)
 
