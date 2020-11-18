@@ -25,7 +25,9 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2020
 
-Liu WY, Lin HH, Yu CP, Chang CK, Chen HJ, Lin JY, Lu MYJ, Tu SL, **Shiu SH** Wu SH, Ku MSB, Li WH. Maize ANT1 modulates vascular development, chloroplast development, photosynthesis and plant growth. *Proc. Natl. Acad. Sci., USA* (in press)
+Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* (in press)
+
+Liu WY, Lin HH, Yu CP, Chang CK, Chen HJ, Lin JY, Lu MYJ, Tu SL, **Shiu SH** Wu SH, Ku MSB, Li WH. Maize ANT1 modulates vascular development, chloroplast development, photosynthesis and plant growth. *Proc. Natl. Acad. Sci., USA* 1;117(35):21747 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32817425/)
 
 **Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH**. Within and cross species predictions of plant specialized metabolism genes using transfer learning. *In Silico Plants* (published online) [doi](https://doi.org/10.1093/insilicoplants/diaa005)
 
