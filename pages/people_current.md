@@ -13,15 +13,13 @@ permalink: "/people_current/"
 
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="siobhan.jpg" alt='photo of siobhan'><p>Siobhan Cusack<br>Cell Mol Bio</p></li>
   <li><img src="fanrui.jpg" alt='photo of fanrui'><p>Fanrui Meng<br>Associate</p></li>
   <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>
-  <li><img src="Serena.png" alt='photo of serena'><p>Serena Lotreck<br>Plant Biology/CMSE</p></li> 
-  <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li> 
-  <li><img src="brown.jpg" alt='photo of Hannah'><p> Hannah Brown<br>Plant Biology</p></li> 
+  <li><img src="Serena.png" alt='photo of serena'><p>Serena Lotreck<br>Plant Biology/CMSE</p></li>
+  <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li>
 </ul>
 
-<H3>Undergraduate Students</H3> 
+<H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="sarah.png" alt='photo of sarah'><p>Sarah Horan</p></li>
   <li><img src="abigal.png" alt='photo of abigal'><p>Abigail Seeger</p></li>
@@ -38,7 +36,8 @@ permalink: "/people_current/"
 
 <H3>Cheer Squad</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="koby.jpg" alt='photo of koby'><p>Koby Cusack</p></li>
+  <li><img src="Cody_Cleopatra_Theodore.png" alt='photo of Cody_Cleopatra_Theodore'><p>From left Cody Cleopatra Theodore</p></li>
+  <li><img src="Kitty.png" alt='photo of kitty'><p>Kitty</p></li>
 </ul>
 </body>
 </html>

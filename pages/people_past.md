@@ -36,11 +36,16 @@ header:
     <td>Kousuke Hanada (2006-07)</td>
     <td>Associate Professor,  Kyushu Institute of Technology, Fukuoka, Japan</td>
   </tr>
-</table> 
+</table>
 
 ## Graduate students
 <table style="width:100%">
   <col width="50px" />
+  <tr>
+    <td><img src="../images/people_past/50px-siobhan.png" width="40px"> </td>
+    <td>Siobhan Cusack (2017-20) PhD, Cell Mol. Biology</td>
+    <td> - </td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/50px-beth.png" width="40px"> </td>
     <td>Bethany Moore (2014-19) PhD, Plant Biology</td>
@@ -86,7 +91,7 @@ header:
     <td>Shan Yin (2008-10)</td>
     <td>MS, Plant Biology</td>
   </tr>
-</table> 
+</table>
 
 ## Undergrads (MSU)
 <table style="width:100%">
@@ -124,7 +129,7 @@ header:
     <td><img src="../images/people_past/50px-Winship.jpg" width="40px"></td>
     <td>Eamon Winship (2015-16)</td>
     <td>Biochem. &amp; Mol. Biol.</td>
-  </tr> 
+  </tr>
   <tr>
     <td><img src="../images/people_past/50px-Gomulinski.jpg" width="40px"> </td>
     <td>Mark Gomulinski (2013-15)</td>
@@ -175,7 +180,7 @@ header:
     <td>Emily Eckenrode (2006-07)</td>
     <td>Animal Science</td>
   </tr>
-</table> 
+</table>
 
 ## Undergrads (REU)
 <table style="width:100%">
@@ -234,7 +239,7 @@ header:
     <td>Juyeon Park (2007)</td>
     <td>Williams College</td>
   </tr>
-</table> 
+</table>
 
 ## High school students
 <table style="width:100%">
@@ -273,7 +278,7 @@ header:
     <td>Tanmay Prakash (2006)</td>
     <td>Novi High School, Novi, MI</td>
   </tr>
-</table> 
+</table>
 
 ## Visiting scholars
 <table style="width:100%">
@@ -342,7 +347,7 @@ header:
     <td>Sugaleshini Subramanian (2006-07)</td>
     <td>Bioinformatics Research Institute, Chennai, India</td>
   </tr>
-</table> 
+</table>
 
 ## Cheer Squad
 <table style="width:100%">
@@ -359,4 +364,4 @@ header:
     <td><img src="../images/people_past/50px-Radar.png"  width="40px"></td>
     <td>Radar Azodi</td>
   </tr>
-</table> 
+</table>
