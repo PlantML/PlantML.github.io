@@ -37,7 +37,7 @@ permalink: "/people_current/"
 <H3>Cheer Squad</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="Cody_Cleopatra_Theodore.png" alt='photo of Cody_Cleopatra_Theodore'><p>From left Cody Cleopatra Theodore</p></li>
-  <li><img src="Kitty.png" alt='photo of kitty'><p>Kitty</p></li>
+  <li><img src="Kitty.png" alt='photo of kitty'><p>Wiggler</p></li>
 </ul>
 </body>
 </html>
