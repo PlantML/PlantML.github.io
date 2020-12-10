@@ -6,6 +6,22 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+#### 12/7/20: Welcome the newest member of our lab - Kenia Sugura Abá
+
+<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texa-Austin with families in the San Antonio area. Welcome to our lab Kenia!
+
+#### 9/1/20: Collaborative work on maize ANT1 regulatory network published!
+
+Arabidopsis AINTEGUMENTA (ANT), an AP2 transcription factor, is known to control plant growth and floral organogenesis. This study is led by Dr. Wen-Hsiung Li from Academia Sinica, Taiwan, which reveals biological roles of ANT1 in several developmental processes beyond its known roles in plant growth and floral organogenesis. It is published in [the Sep. 1st issue of Proc. Natl. Acad. Sci., USA](https://pubmed-ncbi-nlm-nih-gov.proxy1.cl.msu.edu/32817425/). 
+
+#### 9/1/20: Christina's story on predictions of plant stress response through multi-omics data integration is published!
+
+Plants respond to their environment by dynamically modulating gene expression. Our findings demonstrate how in silico approaches can improve our understanding of the complex codes regulating response to combined stress and help us identify prime targets for future characterization. It is published in [Nuc. Acid. Res. Genomics and Bioinformatics](https://academic.oup.com/nargab/article/2/3/lqaa049/5874366).
+
+#### 7/30/20: Beth's story on using Arabidopsis annotation information to improve predictions of tomato metabolic genes is published!
+
+Plant specialized metabolites mediate interactions between plants and the environment and have significant agronomical/pharmaceutical value. This study demonstrates that specialized and general metabolic genes can be better predicted by leveraging cross-species information. Additionally, our findings provide an example for transfer learning in genomics where knowledge can be transferred from an information-rich species to an information-poor one. The findings is now available form [In Silico Plant](https://doi.org/10.1093/insilicoplants/diaa005).
+
 #### 6/25/20: Serena won!!
 
 <img src="/images/news/200620_serena_small.png" width="100" Hspace="30" align="right"> Serena is the winner of the SciComm Blog Contest! Here is her winning post [KNOWLEDGE GRAPHS: A New Way To Reason](https://www.msuscicomm.org/post/knowledge-graphs). Congrats Serena!
