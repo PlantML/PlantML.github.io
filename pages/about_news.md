@@ -10,7 +10,7 @@ header:
 
 <img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texa-Austin with families in the San Antonio area. Welcome to our lab Kenia!
 
-#### 9/1/20: Collaborative work on maize ANT1 regulatory network published!
+#### 9/1/20: Collaborative work on maize ANT1 regulatory network is published!
 
 Arabidopsis AINTEGUMENTA (ANT), an AP2 transcription factor, is known to control plant growth and floral organogenesis. This study is led by Dr. Wen-Hsiung Li from Academia Sinica, Taiwan, which reveals biological roles of ANT1 in several developmental processes beyond its known roles in plant growth and floral organogenesis. It is published in [the Sep. 1st issue of Proc. Natl. Acad. Sci., USA](https://pubmed-ncbi-nlm-nih-gov.proxy1.cl.msu.edu/32817425/). 
 
@@ -21,6 +21,11 @@ Plants respond to their environment by dynamically modulating gene expression. O
 #### 7/30/20: Beth's story on using Arabidopsis annotation information to improve predictions of tomato metabolic genes is published!
 
 Plant specialized metabolites mediate interactions between plants and the environment and have significant agronomical/pharmaceutical value. This study demonstrates that specialized and general metabolic genes can be better predicted by leveraging cross-species information. Additionally, our findings provide an example for transfer learning in genomics where knowledge can be transferred from an information-rich species to an information-poor one. The findings is now available form [In Silico Plant](https://doi.org/10.1093/insilicoplants/diaa005).
+
+#### 7/2/20: Collaborative work on the evolution of a gene cluster in Solanaceae is published!
+
+The hairs on the surface of some species in the nightshade family (Solanaceae) produce acylsugars which deter herbivores and pests from damaging the plants. A tomato gene cluster involved in medium chain acylsugar accumulation was described, and the evolution of this gene cluster was reconstructed. This study is led by Dr. Pengxiang Fan from Prof. Robert L Last's lab, and Peipei has contributed significantly to the evolutionary history reconstruction. It is published in [Elife](https://elifesciences.org/articles/56717).
+
 
 #### 6/25/20: Serena won!!
 
