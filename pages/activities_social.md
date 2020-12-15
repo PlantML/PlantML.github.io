@@ -15,7 +15,7 @@ permalink: "/activities_social/"
 
 #### 11/19/20: Among Us
 
-<img src="/AmongUs.png" width="100" Hspace="30" align="right">
+<img src="AmongUs.png" width="100" Hspace="30" align="right">We had our lab meeting on a space ship and it turns out that there were imposters among us! (The general concensus was that Shinhan was usually the imposter.)
 
 #### 8/13/20: Outdoor Lab Party
 
