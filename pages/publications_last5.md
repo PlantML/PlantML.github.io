@@ -71,18 +71,6 @@ Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, 
 
 Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N Deprivation Is a Transcriptionally and Functionally Distinct State in Chlamydomonas. *Plant Physiol.* 176(3):2007-2023 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29288234) 
 
-## 2017
-
-Huang CF, Yu CP, Wu YH, Lu MJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2017) Elevated auxin biosynthesis and transport underlie high vein density in C4 leaves. *Proc. Natl. Acad. Sci., USA* 114(33):E6884 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28761000)
-
-**Uygun S<font color="green"><sup>e</sup></font>**, **Seddon AE<font color="green"><sup>e</sup></font>**, **Azodi C**, **Shiu SH** (2017) Predictive models of spatial transcriptional response to high salinity. *Plant Physiol.* 174:450-464 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28373393) 
-
-**Tsai ZTY**, **Lloyd J**, **Shiu SH** (2017) Defining functional, genic regions in the human genome through integration of biochemical, evolutionary, and genetic evidence. *Mol. Biol. Evol.* 34(7):1788-1798 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28398576)
-
-Bennett MS, **Shiu SH**, Triemer RE. (2017) A rare case of plastid protein-coding gene duplication in the chloroplast genome of Euglena archaeoplastidiata (Euglenophyta). *J Phycol.* 53(3):493-502 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28295310)
-
-**Lehti-Shiu MD<font color="green"><sup>e</sup></font>**, **Panchy N**, **Wang P**, **Uygun S**, **Shiu SH<font color="green"><sup>e</sup></font>**. (2017) Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *Biochim. Biophys. Acta Gene Regul. Mech.* 1860(1):3-20 [Review] [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27522016)
-
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
 
