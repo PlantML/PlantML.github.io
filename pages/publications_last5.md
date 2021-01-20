@@ -21,7 +21,9 @@ __Wang P, Moore BM__, Ugyun S, __Lehti-Shiu M__, Barry C, __Shiu SH__. 	Optimizi
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
-**Wang PP, Meng FR, Moore BM, Shiu SH**. Read coverage as an indicator of misassembly in a short-read based genome assembly. *[bioRxiv](https://doi.org/10.1101/790337)*
+## 2021
+
+**Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* (in press)
 
 ## 2020
 
@@ -81,15 +83,6 @@ Bennett MS, **Shiu SH**, Triemer RE. (2017) A rare case of plastid protein-codin
 
 **Lehti-Shiu MD<font color="green"><sup>e</sup></font>**, **Panchy N**, **Wang P**, **Uygun S**, **Shiu SH<font color="green"><sup>e</sup></font>**. (2017) Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *Biochim. Biophys. Acta Gene Regul. Mech.* 1860(1):3-20 [Review] [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27522016)
 
-## 2016
-
-**Uygun S**, Peng C, **Lehti-Shiu MD**, Last R, **Shiu SH**. (2016) Utility and limitations of using gene expression data to identify functional associations. *PLoS Comp. Biol.* 12(12):e1005244 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27935950)
-
-**Panchy N**, **Lehti-Shiu MD**, **Shiu SH**. (2016) Evolution of Gene Duplication in Plants. <font color="blue">[review]</font> *Plant Physiol.* 171(4):2294-316. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27288366)
-
-Kang H, Zhu D, Lin R, Opiyo SO, Jiang N, **Shiu SH**, Wang GL. (2016) A novel method for identifying polymorphic transposable elements via scanning of high-throughput short reads. *DNA Research* 23(3):241-51. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27098848)
-
-Liu T, Newton L, **Liu MJ**, **Shiu SH**, Farre EM. (2016) A G-box-like motif is necessary for transcriptional regulation by circadian pseudo-response regulators in Arabidopsis. *Plant Physiol.* 170(1):528-39. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26586835)
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
 
