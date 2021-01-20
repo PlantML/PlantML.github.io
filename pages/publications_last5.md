@@ -23,11 +23,11 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2021
 
-**Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* (in press)
+**Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* (in press) [bioRxiv](https://www.biorxiv.org/content/10.1101/790337v2.full)
 
 ## 2020
 
-Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* (in press)
+Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* (in press) [doi](https://doi.org/10.1093/plcell/koaa021)
 
 Liu WY, Lin HH, Yu CP, Chang CK, Chen HJ, Lin JY, Lu MYJ, Tu SL, **Shiu SH** Wu SH, Ku MSB, Li WH. Maize ANT1 modulates vascular development, chloroplast development, photosynthesis and plant growth. *Proc. Natl. Acad. Sci., USA* 117(35):21747 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32817425/)
 
