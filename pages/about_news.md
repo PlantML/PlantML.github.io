@@ -6,9 +6,9 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
-#### 12/7/20: Welcome the newest member of our lab - Kenia Sugura Abá
+#### 12/7/20: Welcome the newest member of our lab - Kenia Segura Abá
 
-<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texa-Austin with families in the San Antonio area. Welcome to our lab Kenia!
+<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
 
 #### 12/3/20: Serena's paper is published with gazillion authors
 The paper that Serena worked on during the [IMPACTS](https://impacts.natsci.msu.edu/) course [Foundations in Computational Plant Science](https://impacts.natsci.msu.edu/program/contents/core-courses-and-forum/), _Composite modeling of leaf shape along shoots discriminates Vitis species better than individual leaves_, has been published! A collaborative effort amont more than 30 authors, the [paper](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11404) is in the December issue of the journal Applications in Plant Sciences
@@ -19,7 +19,7 @@ Today during the [Foundations of Computational Plant Sciences](https://impacts.n
 
 #### 9/1/20: Collaborative work on maize ANT1 regulatory network is published!
 
-Arabidopsis AINTEGUMENTA (ANT), an AP2 transcription factor, is known to control plant growth and floral organogenesis. This study is led by Dr. Wen-Hsiung Li from Academia Sinica, Taiwan, which reveals biological roles of ANT1 in several developmental processes beyond its known roles in plant growth and floral organogenesis. It is published in [the Sep. 1st issue of Proc. Natl. Acad. Sci., USA](https://pubmed-ncbi-nlm-nih-gov.proxy1.cl.msu.edu/32817425/). 
+Arabidopsis AINTEGUMENTA (ANT), an AP2 transcription factor, is known to control plant growth and floral organogenesis. This study is led by Dr. Wen-Hsiung Li from Academia Sinica, Taiwan, which reveals biological roles of ANT1 in several developmental processes beyond its known roles in plant growth and floral organogenesis. It is published in [the Sep. 1st issue of Proc. Natl. Acad. Sci., USA](https://pubmed-ncbi-nlm-nih-gov.proxy1.cl.msu.edu/32817425/).
 
 #### 9/1/20: Christina's story on predictions of plant stress response through multi-omics data integration is published!
 
@@ -65,7 +65,7 @@ Ally has known she was joing the lab and has been occationally joing the lab for
 
 #### 4/8/20: Virtual lab lunch for almost a month
 
-<img src="/images/news/200408_lab-lunch.png" width="300" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok! 
+<img src="/images/news/200408_lab-lunch.png" width="300" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok!
 
 #### 3/31/20: Collaborative work with Dr. Yan Bao is published
 
