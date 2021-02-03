@@ -63,7 +63,7 @@ Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, 
 
 ## 2018
 
-**Wang P**, **Moore BM**, **Panchy NL**, **Meng F**, **Lehti-Shiu MD**, **Shiu SH** (2018) Factors influencing gene family size variation among related species in a plant family, Solanaceae. *Genome Biol. Evol.* 10(10):2596–2613 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
+**Wang P**, **Moore BM**, **Panchy NL**, **Meng F**, **Lehti-Shiu MD**, **Shiu SH** (2018) Factors influencing gene family size variation among related species in a plant family, Solanaceae. *Genome Biol. Evol.* 10(10):2596–2613 [pubmed](https://pubmed.ncbi.nlm.nih.gov/30239695/)
 
 **Liu MJ**, Sugimoto K, **Uygun, S**, **Panchy NL**, Campbell M, Yandell M, Howe GA, **Shiu SH** (2018) Regulatory Divergence In Wound-Responsive Gene Expression In Domesticated And Wild Tomato. *Plant Cell* 30(7):1445-1460 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
 
