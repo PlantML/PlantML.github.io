@@ -23,7 +23,7 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2021
 
-**Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* (in press) [bioRxiv](https://www.biorxiv.org/content/10.1101/790337v2.full)
+**Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* (in press) [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
 ## 2020
 
