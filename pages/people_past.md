@@ -96,6 +96,11 @@ header:
 ## Undergrads (MSU)
 <table style="width:100%">
   <tr>
+    <td><img src="../images/people_past/sarah.png" width="40px"> </td>
+    <td>Sarah Horan (2017-20)</td>
+    <td>Plant Biology</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/Traverse.png" width="40px"> </td>
     <td>Traverse Cottrell (2019-20)</td>
     <td>Plant Biology</td>

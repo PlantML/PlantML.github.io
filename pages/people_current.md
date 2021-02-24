@@ -14,16 +14,16 @@ permalink: "/people_current/"
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="fanrui.jpg" alt='photo of fanrui'><p>Fanrui Meng<br>Associate</p></li>
+  <li><img src="abigal.png" alt='photo of abigal'><p>Abigail Seeger</p></li>
   <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>
   <li><img src="Serena.png" alt='photo of serena'><p>Serena Lotreck<br>Plant Biology/CMSE</p></li>
   <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li>
-  <li><img src="Kenya.png" alt='photo of Kenya'><p> Kenia Segura Abá<br>BioMolecular Science</p></li>
+  <li><img src="Kenya.png" alt='photo of Kenya'><p> Kenia Segura Abá<br>Genet. & Genome Sci.</p></li>
+  <li><img src="Elyse.jpg" alt='photo of Elyse'><p> Elyse Vischulis<br>Genet. & Genome Sci.</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="sarah.png" alt='photo of sarah'><p>Sarah Horan</p></li>
-  <li><img src="abigal.png" alt='photo of abigal'><p>Abigail Seeger</p></li>
 </ul>
 
 <H3>Those with PhDs</H3>
@@ -39,6 +39,8 @@ permalink: "/people_current/"
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="Cody_Cleopatra_Theodore.png" alt='photo of Cody_Cleopatra_Theodore'><p>From left Cody Cleopatra Theodore</p></li>
   <li><img src="Kitty.png" alt='photo of kitty'><p>Wiggler</p></li>
+  <li><img src="einstein.jpg" alt='photo of einstein'><p>Einstein</p></li>
+  <li><img src="theo.jpg" alt='photo of theo'><p>Theo</p></li>
 </ul>
 </body>
 </html>
