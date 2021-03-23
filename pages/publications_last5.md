@@ -21,7 +21,7 @@ __Moore BM__, Lee Y S, Grotewold E, __Shiu SH__. Modeling gene regulation in res
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
 ## 2021
-__Wang P, Moore BM__, Ugyun S, __Lehti-Shiu M__, Barry C, __Shiu SH__. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) *[New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)* 
+__Wang P, Moore BM__, Ugyun S, __Lehti-Shiu M__, Barry C, __Shiu SH__. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
