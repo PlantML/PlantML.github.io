@@ -13,15 +13,15 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-__Cusack SA, Wang PP, Moore BM, Meng F__, Conner JK, Krysan PJ, __Lehti-Shiu MD, Shiu SH__. Genome-wide predictions of genetic redundancy in Arabidopsis thaliana. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
-
 __Moore BM__, Lee Y S, Grotewold E, __Shiu SH__. Modeling gene regulation in response to wounding: temporal variations, hormonal variations, and specialized metabolism pathways induced by wounding. *[bioRxiv](https://doi.org/10.1101/2020.07.15.204313)*
-
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
 ## 2021
-__Wang P, Moore BM__, Ugyun S, __Lehti-Shiu M__, Barry C, __Shiu SH__. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
+**Cusack SA, Wang PP, Moore BM, Meng F**, Conner JK, Krysan PJ, **Lehti-Shiu MD, Shiu SH**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution*  (accepted) *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
+
+
+**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* [accepted](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
