@@ -17,6 +17,8 @@ __Moore BM__, Lee Y S, Grotewold E, __Shiu SH__. Modeling gene regulation in res
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
+Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *[OSFPreprint](https://doi.org/10.31219/osf.io/jfdb9)*
+
 ## 2021
 **Siobhan A. Cusack, Peipei Wang, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng**, Jeffrey K. Conner, Patrick J. Krysan, **Melissa D. Lehti-Shiu, Shin-Han Shiu**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution*  (accepted) *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
 
