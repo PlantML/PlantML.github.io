@@ -22,7 +22,7 @@ Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nel
 ## 2021
 **Siobhan A. Cusack, Peipei Wang, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng**, Jeffrey K. Conner, Patrick J. Krysan, **Melissa D. Lehti-Shiu, Shin-Han Shiu**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 10.1093/molbev/msab111 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
-**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* 10.1111/nph.17355 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/) [pdf](images/pubs/2021_NewPhytol_Wang.pdf)
+**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* 10.1111/nph.17355 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/) [pdf](https://github.com/ShiuLab/ShiuLab.github.io/blob/43c3a1cb232653a5720e0744ed47767c14f32a24/images/pubs/2021_NewPhytol_Wang.pdf)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
