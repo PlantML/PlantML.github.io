@@ -7,8 +7,7 @@ header:
 permalink: "/publications_older/"
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en)
-[Click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
+[Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en) or [click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
 
