@@ -20,13 +20,13 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *[OSFPreprint](https://doi.org/10.31219/osf.io/jfdb9)*
 
 ## 2021
-**Siobhan A. Cusack, Peipei Wang, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng**, Jeffrey K. Conner, Patrick J. Krysan, **Melissa D. Lehti-Shiu, Shin-Han Shiu**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution*  (accepted) *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
+**Siobhan A. Cusack, Peipei Wang, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng**, Jeffrey K. Conner, Patrick J. Krysan, **Melissa D. Lehti-Shiu, Shin-Han Shiu**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 10.1093/molbev/msab111 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
-**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* [accepted](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
+**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* 10.1111/nph.17355 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/) [pdf](images/pubs/2021_NewPhytol_Wang.pdf)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
-Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* (epub) [doi](https://doi.org/10.1093/plcell/koaa021)
+Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* 17;33(2):224-247 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33681966/)
 
 ## 2020
 
