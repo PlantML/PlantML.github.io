@@ -13,19 +13,23 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-__Cusack SA, Wang PP, Moore BM, Meng F__, Conner JK, Krysan PJ, __Lehti-Shiu MD, Shiu SH__. Genome-wide predictions of genetic redundancy in Arabidopsis thaliana. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
+**Peipei Wang<sup>e</sup>, Fanrui Meng<sup>e</sup>, Paityn Donaldson<font color="red"><sup>u</sup></font>, Sarah Horan<font color="red"><sup>u</sup></font>, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship<font color="red"><sup>u</sup></font>**, Jeffrey K. Conner, **Melissa D. Lehti-Shiu<sup>e</sup>, Shin-Han Shiu<sup>e</sup>**. High throughput measurement of Arabidopsis thaliana fitness traits using transfer learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
 
 __Moore BM__, Lee Y S, Grotewold E, __Shiu SH__. Modeling gene regulation in response to wounding: temporal variations, hormonal variations, and specialized metabolism pathways induced by wounding. *[bioRxiv](https://doi.org/10.1101/2020.07.15.204313)*
-
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
 ## 2021
-__Wang P, Moore BM__, Ugyun S, __Lehti-Shiu M__, Barry C, __Shiu SH__. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
+
+Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *Frontier in Plant Science* 12:687652 *[doi](https://doi.org/10.3389/fpls.2021.687652)*
+
+**Siobhan A. Cusack, Peipei Wang, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng**, Jeffrey K. Conner, Patrick J. Krysan, **Melissa D. Lehti-Shiu, Shin-Han Shiu**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 10.1093/molbev/msab111 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
+
+**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* 231(1):475 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)/[pdf](https://github.com/ShiuLab/ShiuLab.github.io/blob/43c3a1cb232653a5720e0744ed47767c14f32a24/images/pubs/2021_NewPhytol_Wang.pdf)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
-Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* (epub) [doi](https://doi.org/10.1093/plcell/koaa021)
+Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* 17;33(2):224-247 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33681966/)
 
 ## 2020
 
@@ -71,6 +75,17 @@ Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, 
 
 Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N Deprivation Is a Transcriptionally and Functionally Distinct State in Chlamydomonas. *Plant Physiol.* 176(3):2007-2023 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29288234) 
 
+## 2017
+
+Huang CF, Yu CP, Wu YH, Lu MJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2017) Elevated auxin biosynthesis and transport underlie high vein density in C4 leaves. *Proc. Natl. Acad. Sci., USA* 114(33):E6884 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28761000)
+
+**Uygun S<font color="green"><sup>e</sup></font>**, **Seddon AE<font color="green"><sup>e</sup></font>**, **Azodi C**, **Shiu SH** (2017) Predictive models of spatial transcriptional response to high salinity. *Plant Physiol.* 174:450-464 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28373393) 
+
+**Tsai ZTY**, **Lloyd J**, **Shiu SH** (2017) Defining functional, genic regions in the human genome through integration of biochemical, evolutionary, and genetic evidence. *Mol. Biol. Evol.* 34(7):1788-1798 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28398576)
+
+Bennett MS, **Shiu SH**, Triemer RE. (2017) A rare case of plastid protein-coding gene duplication in the chloroplast genome of Euglena archaeoplastidiata (Euglenophyta). *J Phycol.* 53(3):493-502 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28295310)
+
+**Lehti-Shiu MD<font color="green"><sup>e</sup></font>**, **Panchy N**, **Wang P**, **Uygun S**, **Shiu SH<font color="green"><sup>e</sup></font>**. (2017) Diversity, expansion, and evolutionary novelty of plant DNA-binding transcription factor families. *Biochim. Biophys. Acta Gene Regul. Mech.* 1860(1):3-20 [Review] [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27522016)
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
 
