@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Shiu Lab'
+title: 'PlantML'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Computational, Evolutionary, and Predictive Biology Lab'
+slogan: 'Better understand how plant works with Machine Learning'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Lab website of Melissa Lehti-Shiu and Shin-Han Shiu, Professors at Michigan State Universtity'
+description: '<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107215">A US National Science Foundation funded project</a>'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: ShiuLab
+author: PlantML team
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ShiuLab.github.io'
+url: 'https://PlantML.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ShiuLab.github.io/images/'
+urlimg: 'https://PlantML.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -196,7 +196,7 @@ msapplication_tilecolor:                '#fabb00'
 socialmedia:
     #twitter: phlow
     #facebook: phlow.media
-    GitHub: ShiuLab
+    GitHub: PlantML
 
 
 #        ____  _
@@ -208,7 +208,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: ShiuLab
+disqus_shortname: PlantML
 
 
 #      _____
