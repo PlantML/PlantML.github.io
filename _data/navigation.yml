@@ -6,7 +6,7 @@
   url: "/about_mission/"
   side: left
   dropdown:
-  - title: "Mission"
+  - title: "About this project"
     url: "/about_mission/"
   - title: "Diversity, equity, & inclusion"
     url: "/about_dei/"
@@ -31,7 +31,7 @@
     url: "https://github.com/PlantML"
 
 - title: Activities
-  url: "/activities_catsup/"
+  url: "/activities_outreach/"
   side: left
   dropdown:
   - title: "Outreach"
