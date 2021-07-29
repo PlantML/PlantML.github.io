@@ -13,6 +13,6 @@ MSU-Today published [a story on our collaborative project](https://msutoday.msu.
 
 #### 6/3/2021: We are funded!
 
-Our proposal titled [Connecting sequences to functions within and between species through computational modeling and experimental studies](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107215&HistoricalAwards=false) is funded through National Science Foundation! This proposal built on collaborations between Melissa Lehti-Shiu, Jiliang Tang, Yuying Xie, and Shin-Han Shiu and is expected to improve our understanding about how sequences are connected to functions in plants. The project is slated to start in 11/1/2021.
+<img src="https://nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg" Hspace="30" align="left">Our proposal titled [Connecting sequences to functions within and between species through computational modeling and experimental studies](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107215&HistoricalAwards=false) is funded through National Science Foundation! This proposal built on collaborations between Melissa Lehti-Shiu, Jiliang Tang, Yuying Xie, and Shin-Han Shiu and is expected to improve our understanding about how sequences are connected to functions in plants. The project is slated to start in 11/1/2021.
 
 
