@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_dna_art.jpg
 widget1:
-  title: "News"
-  url: '/about_news/'
+  title: "About us"
+  url: '/about_mission/'
   image: impacts_logo.png
-  text: "Check out what's going on in our project"
+  text: "What this project is about"
 widget2:
   title: "Our team"
   url: '/people_current/'
