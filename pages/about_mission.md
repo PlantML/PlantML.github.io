@@ -7,19 +7,17 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
-## [Research](https://shiulab.github.io/research_projects/)
+### [Why]
 
-The three long-term goals of our research program are to: 
-* Understand the evolutionary processes that contribute to the variation in genome content within/between species,
-* Uncover the mechanisms that underlie the translation of genomic and environmental information to phenotype, and
-* Translate advances in computational and data sciences and machine learning approaches to assess and improve our understanding in biology.
+<img src="https://creativecommons.org/wp-content/uploads/2016/05/photo-1440342359743-84fcb8c21f21-1024x683.jpeg" width="200" Hspace="20" align="left">Life as we know it would be impossible without plants. They are a source of food, oxygen, timber, fiber, and medicine. Therefore, improving plant traits, such as yield, nutritional quality, and resilience, is crucial for sustainable production of plant products. Key to our ability to improve plants is a thorough understanding of how plant DNA controls traits. For example, corn DNA contains ~2 billion letters, and different sets of these letters affect different plant traits. But we have limited knowledge about which letters matter and how they control traits. When we do have a good understanding of the connection between DNA and traits, such understanding is limited to a handful of model plants chosen for their relative ease of study. 
 
-## [Mentoring & teaching](https://impacts.natsci.msu.edu/)
+### [How]
 
-By providing a collaborative, colleagial, and inclusive environment, we thrive to train the next generation scientists who are creative, critical, independent, and resourceful. Teaching-wise:
-* At the graduate level, our core focus is on training students from diverse disciplines to be able to effectively communicate with each other about the significance, motivation, and background knowledge of their works. 
-* At the undregraduate level, we aim to train students to think as a scientist when assessing information, ranging from a scientific paper to a blog post.
+<img src="https://creativecommons.org/wp-content/uploads/2016/08/photo-1461749280684-dccba630e2f6-440x250.jpeg" width="200" Hspace="20" align="left">_To have more complete knowledge of how plants work, we will connect DNA sequences with traits they control using an Artificial Intelligence-based approach, machine learning_ where computers are used to uncover hidden patterns from a wide range of biological data. In addition, we will apply transfer learning to translate knowledge from one plant species to another so we can later transfer what we know about model plants to other species. The outcome of the project will be computer programs that can predict the connections between DNA sequence and traits and transfer information across species. Using these programs, scientists can better understand how plants work and this knowledge can ultimately be used to create more productive and resilient plants.  
 
-## [Service to the community](https://shiulab.github.io/activities_outreach/)
+### [A more technical summary of our project]
 
-We thrive to serve the scientific community by providing our expertise via reviews, workshops, and/or professional societies. We are also eager to reach out to the public with the goals to improve basic understanding of science, to demonstrate the relevance of our works to the society, and to cultivate intersts among pre-college students in pursuing science, technology, engineering, and math through outreach activities.
+The rapid growth in omics data has led to discoveries transforming plant science. However, as more genomes become available, connecting sequences to their functions globally remains challenging. Thus, our _first goal_ is to build and validate computational models that can predict sequence functions. The _second project goal_ is to develop and apply transfer learning to address sequence-to-function problems across species and environments. 
+    To achieve the first goal, existing multi-omics and phenotype data from four model species–Arabidopsis, maize, rice, and tomato—will be integrated with machine learning to address two sequence-to-function problems: predictions of biological process functions such as enzyme or signaling pathway membership, and physiological and morphological phenotypes. These prediction models will be dissected using model interpretation methods to provide mechanistic insights through understanding why and how the models work. To achieve our second goal, using the same data from target model species and addressing the same focal problems, transfer learning strategies will be developed and optimized to assess how knowledge can be best transferred across species and environments. There is relatively abundant experimental data available for the four models we will focus on, and by holding out different amounts and types of data, a wide range of “data-poor” scenarios can be recreated and evaluated. For both project goals, the predictions will be validated with holdout experimental data independent from data used for modeling and new data from genetic experiments conducted for this project.
+
+
