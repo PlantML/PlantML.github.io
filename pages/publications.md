@@ -7,8 +7,6 @@ header:
 permalink: "/publications_last5/"
 ---
 
-[Click here for publications >5 years old](https://shiulab.github.io/publications_older/) or see our [Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en) page
-
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members.
 
 ## Pre-prints
