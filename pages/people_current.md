@@ -26,7 +26,7 @@ permalink: "/people/"
 <H3>PIs</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>co-PI, Research Assistant Professor, Plant Biology, Michigan State University</p></li>
-  <li><img src="melissa.jpg" alt='photo of Jiliang'><p>Jiliang Tang<br>co-PI, Associate Professor, Comp. Sci. & Engr., Michigan State University</p></li>
+  <li><img src="https://www.cse.msu.edu/~tangjili/jiliang.jpg" alt='photo of Jiliang'><p>Jiliang Tang<br>co-PI, Associate Professor, Comp. Sci. & Engr., Michigan State University</p></li>
   <li><img src="https://stt.natsci.msu.edu/sites/_stt/cache/file/B534D110-865A-42CD-B49A029C612832DB_medium.jpg" alt='photo of Yuying'><p><a href="people/Shiu">Yuying Xie</a><br>co-PI, Asssistnat Professor, Comp. Math. Sci. & Engr./Stat. & Prob., Michigan State University</p></li>
   <li><img src="shinhan.png" alt='photo of shinhan'><p><a href="people/Shiu">Shin-Han Shiu</a><br>PI, Professor, Plant Biology/Comp. Math. Sci. & Engr., Michigan State University</p></li>
 </ul>
