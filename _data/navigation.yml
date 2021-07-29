@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: About
+- title: About & news
   url: "/about_mission/"
   side: left
   dropdown:
@@ -14,44 +14,32 @@
     url: "/about_news/"
   
 - title: "People"
-  url: "/people_current/"
+  url: "/people/"
   side: left
-  dropdown:
-  - title: "Current"
-    url: "/people_current/"
-  - title: "Past"
-    url: "/people_past/"
-  - title: "Join Us!"
-    url: "/people_join_us/"
 
-- title: "Research"
+- title: "Projects"
   url: "/research_projects/"
   side: left
-  dropdown:
-  - title: "Projects"
-    url: "/research_projects/"
-  - title: "Software"
-    url: "https://github.com/ShiuLab"
 
-- title: "Publications"
-  url: "/publications_last5/"
+- title: "Products"
+  url: "/publications/"
   side: left
   dropdown:
-  - title: "last 5 years"
-    url: "/publications_last5/"
-  - title: "More than 5 years"
-    url: "/publications_older/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Software"
+    url: "https://github.com/PlantML"
 
 - title: Activities
   url: "/activities_catsup/"
   side: left
   dropdown:
-  - title: "CATSUP"
-    url: "/activities_catsup/"
-  - title: "Social"
-    url: "/activities_social/"
   - title: "Outreach"
     url: "/activities_outreach/"
+  - title: "Conferences"
+    url: "/activities_conf/"
+  - title: "Social"
+    url: "/activities_social/"
 
 - title: "Contact"
   url: "/contact/"
