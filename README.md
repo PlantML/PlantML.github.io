@@ -1,5 +1,5 @@
-# ShiuLab.github.io
-Shiu Lab Webiste
+# PlantML.github.io
+Project Webiste
 
 ## General Info
 
@@ -29,15 +29,12 @@ See Feeling Responsive's [website](https://phlow.github.io/feeling-responsive/ge
 	- Open to the .md file for the page you want to modify
 	- In the control section for that page, change the header: image_fullwidth: "new_header_image.jpg" 
 
-
-
 ## Homepage
 
 - Location of .md file to control banner image, widgets, etc. on the landing/home page: /pages/pages-root-folder/index.md
 - Images for this page are saved in the base /images/ directory. 
 	- Banner size: 1026x304 pixels. Resolution = 300 pixels/inch
 	- Widget image size: ~1000x550 pixels (width x height). Resolution ~150 pixels/inch
-
 
 ## People
 
@@ -47,14 +44,8 @@ See Feeling Responsive's [website](https://phlow.github.io/feeling-responsive/ge
 - Where to add new images: /images/people/
 - Photo size: 240x287 pixels (width x height). Resolution = 150 pixels/inch
 
-
 2. Past Members
 
 - Location of .md file: /pages/people_past.md
 - Where to add new images: /images/people_past/
 - Photo size: 50x60 pixels (width x height). Resolution = 72 pixels/inch
-
-
-3. Join Us!
-
-- Location of .md file: /pages/people_join_us.md
