@@ -112,7 +112,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       future: true
-      author: ShiuLab     # Default author for pages
+      author: PlantML     # Default author for pages
   -
     scope:
       path: ''
@@ -122,7 +122,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       future: true
-      author: ShiuLab     # Default author for posts
+      author: PlantML     # Default author for posts
 
 
 
