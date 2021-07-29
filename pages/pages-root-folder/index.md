@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_dna_art.jpg
 widget1:
-  title: "Lab news"
+  title: "News"
   url: '/about_news/'
   image: impacts_logo.png
-  text: "Check out what's going on in our lab"
+  text: "Check out what's going on in our project"
 widget2:
   title: "Our team"
   url: '/people_current/'
   image: lab_210414.png
-  text: "An energetic, fun, and collaborative group of scientists"
+  text: "A highly interdisciplinary group of scientists"
 widget3:
-  title: "Research Projects"
+  title: "Projects"
   url: '/research_projects/'
   image: 200601_chrisitna_tig_cover_wide.png
-  text: 'Check out what the lab is working on these days.'
+  text: 'Check out where we are headed in research'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: "/people_join_us/"
-  text: Interested in our lab? ›
+  url: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107215&HistoricalAwards=false"
+  text: An NSF-funded project
   style: alert
 permalink: /index.html
 #
