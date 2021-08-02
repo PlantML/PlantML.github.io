@@ -13,10 +13,7 @@ permalink: "/activities_social/"
 </head>
 
 
-#### 11/19/20: Among Us
+#### Pending
 
-<img src="AmongUs.png" width="350" align="right">We had our lab meeting on a space ship and it turns out that there were imposters among us! (The general concensus was that Shinhan was usually the imposter.)
+<img src="AmongUs.png" width="350" align="right">Pending
 
-#### 8/13/20: Outdoor Lab Party
-
-The lab met in Shinhan and Melissa's driveway for an outdoor, socially distanced party. Everyone brought pre-packaged snacks to share. This was the first time the lab had met in person since March! 
