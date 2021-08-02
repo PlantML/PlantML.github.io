@@ -29,6 +29,10 @@ See Feeling Responsive's [website](https://phlow.github.io/feeling-responsive/ge
 	- Open to the .md file for the page you want to modify
 	- In the control section for that page, change the header: image_fullwidth: "new_header_image.jpg" 
 
+- Change page title/slogan in logo
+	- This is not the same as the title/slogon in the contig.yml file.
+	- Change logo.png in _asset/img_.
+
 ## Homepage
 
 - Location of .md file to control banner image, widgets, etc. on the landing/home page: /pages/pages-root-folder/index.md
