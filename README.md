@@ -23,6 +23,7 @@ See Feeling Responsive's [website](https://phlow.github.io/feeling-responsive/ge
 	- See instructions on changing the structure for how to add a page to the navigation bars
 	- Either copy an existing page (in /pages/) or start from scratch with a new page design template (/\_drafts/)
 	- For examples of what the draft templates look like, see the [Feeling Responsive example site](https://phlow.github.io/feeling-responsive/design/)
+	- Make sure the _permalink_ specified in the file is the same as specifried in _\_data/nagigation.yml.
 
 - Changing Page banners (top image)
 	- Put the new image in /images/
@@ -30,8 +31,8 @@ See Feeling Responsive's [website](https://phlow.github.io/feeling-responsive/ge
 	- In the control section for that page, change the header: image_fullwidth: "new_header_image.jpg" 
 
 - Change page title/slogan in logo
-	- This is not the same as the title/slogon in the contig.yml file.
-	- Change logo.png in _asset/img_.
+	- This is not the same as the title/slogon in the \_contig.yml file.
+	- Change logo.png in _assets/img_.
 
 ## Homepage
 
@@ -42,14 +43,6 @@ See Feeling Responsive's [website](https://phlow.github.io/feeling-responsive/ge
 
 ## People
 
-1. Current People
-
-- Location of .md file: /pages/people_current.md
+- Location of .md file: /pages/people.md
 - Where to add new images: /images/people/
 - Photo size: 240x287 pixels (width x height). Resolution = 150 pixels/inch
-
-2. Past Members
-
-- Location of .md file: /pages/people_past.md
-- Where to add new images: /images/people_past/
-- Photo size: 50x60 pixels (width x height). Resolution = 72 pixels/inch
