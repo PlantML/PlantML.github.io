@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline:  "Activities"
-title:  "Lab Fun"
+title:  "Project social events"
 teaser: "When we aren't sciencing...</a>."
 header:
    image_fullwidth: "header_activity.png"
