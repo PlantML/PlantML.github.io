@@ -4,7 +4,7 @@ subheadline:  "Publications"
 title:  "Recent papers"
 header:
    image_fullwidth: "mps_corridor.png"
-permalink: "/publications_last5/"
+permalink: "/publications/"
 ---
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: project scientists.
