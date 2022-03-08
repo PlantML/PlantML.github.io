@@ -7,19 +7,20 @@ header:
 permalink: "/publications/"
 ---
 
-__Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: project scientists.
 
 ## Pre-prints
 
-**Peipei Wang<sup>e</sup>, Fanrui Meng<sup>e</sup>, Paityn Donaldson<font color="red"><sup>u</sup></font>, Sarah Horan<font color="red"><sup>u</sup></font>, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship<font color="red"><sup>u</sup></font>**, Jeffrey K. Conner, **Melissa D. Lehti-Shiu<sup>e</sup>, Shin-Han Shiu<sup>e</sup>**. High throughput measurement of Arabidopsis thaliana fitness traits using transfer learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
+Pending
 
-__Moore BM__, Lee Y S, Grotewold E, __Shiu SH__. Modeling gene regulation in response to wounding: temporal variations, hormonal variations, and specialized metabolism pathways induced by wounding. *[bioRxiv](https://doi.org/10.1101/2020.07.15.204313)*
+## 2022
 
-Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
+Wang P, Meng F, Donaldson P, Horan S, Panchy NL, Vischulis E, Winship E, Conner JK, Krysan PJ, Shiu SH, Lehti-Shiu MD. (2022) High throughput measurement of Arabidopsis thaliana fitness traits using transfer learning. _New Phytol._ (Online ahead of print.) [doi](https://doi.org/10.1111/nph.18056).
 
-## 2021
+Wang P, Schumacher AM, Shiu SH. (2022) Computational prediction of plant metabolic pathways. _Curr Opin Plant Biol._ 66:102171. [doi](https://doi.org/10.1016/j.pbi.2021.102171).
 
-Pending.
+Moore BM, Lee YS, Wang P, Azodi C, Grotewold E, Shiu SH. (2022) Modeling temporal and hormonal regulation of plant transcriptional response to wounding.
+_Plant Cell_ 34(2):867-888. [doi](https://doi.org/10.1093/plcell/koab287).
+
 
 
 
