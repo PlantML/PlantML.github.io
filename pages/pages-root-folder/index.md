@@ -10,17 +10,17 @@ header:
 widget1:
   title: "About us"
   url: '/about_mission/'
-  image: impacts_logo.png
+  image: 
   text: "What this project is about"
 widget2:
   title: "Our team"
   url: '/people_current/'
-  image: lab_210414.png
+  image: 
   text: "A highly interdisciplinary group of scientists"
 widget3:
   title: "Projects"
   url: '/research_projects/'
-  image: 200601_chrisitna_tig_cover_wide.png
+  image: 
   text: 'Check out where we are headed in research'
 #
 # Use the call for action to show a button on the frontpage
