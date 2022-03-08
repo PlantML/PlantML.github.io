@@ -14,7 +14,7 @@ widget1:
   text: "What this project is about"
 widget2:
   title: "Our team"
-  url: '/people_current/'
+  url: '/people/'
   image: 
   text: "A highly interdisciplinary group of scientists"
 widget3:
